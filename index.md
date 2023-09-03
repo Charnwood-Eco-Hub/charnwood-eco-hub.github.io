@@ -10,4 +10,3 @@ header:
 
 [![Charnwood Sustainability Fair](/assets/img/sustainability-fair-sept-2023-medium.jpg "Charnwood Sustainability Fair"){: .align-left}](/news/sustainability-fair/) [Read all about the Charnwood Sustainability Fair](/news/sustainability-fair/), taking place in Queen's Park Loughborough on Sunday 17th September 2023.
 
-
