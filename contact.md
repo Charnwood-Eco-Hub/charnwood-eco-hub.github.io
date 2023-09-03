@@ -6,9 +6,9 @@ header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
 ---
 
-![Charnwood Eco Hub logo](/assets/img/charnwood-eco-hub-cropped.jpg "Charnwood Eco Hub Logo"){: .align-left} Charnwood Eco Hub CIC
+**Get in touch**
 
-c/o 102 Ashby Road, Loughborough, United Kingdom
+![Charnwood Eco Hub logo](/assets/img/charnwood-eco-hub-cropped.jpg "Charnwood Eco Hub Logo"){: .align-left} Charnwood Eco Hub CIC, 102 Ashby Road, Loughborough, United Kingdom
 
 Email: [charnwoodecohub@gmail.com](mailto:charnwoodecohub@gmail.com)
 

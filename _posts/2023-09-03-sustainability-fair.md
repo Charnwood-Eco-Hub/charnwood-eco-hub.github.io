@@ -16,7 +16,3 @@ Food, activities, stalls, crafts and environmental information in the beautiful 
 
 ![Sustainability Fair September 2023 poster](/assets/img/sustainability-fair-sept-2023.jpg)
 
-If you are interested in participating in this year’s event, please email [charnwoodecohub@gmail.com](mailto:charnwoodecohub@gmail.com) for an application form.
-
-Payment of stall fees will be asked for once your place has been confirmed. £20 for a 3mx3m pitch.  Priority will be given to local eco-friendly stalls.
-
