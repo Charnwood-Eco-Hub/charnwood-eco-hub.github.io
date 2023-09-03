@@ -1,7 +1,7 @@
 ---
-title: Charnwood Eco Hub
+title: Latest News
 layout: single
-excerpt: Helping Charnwood to reduce its carbon footprint
+excerpt: All the latest Charnwood Eco Hub updates
 header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
 ---

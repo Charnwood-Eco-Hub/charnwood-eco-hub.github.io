@@ -2,3 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
+
+.page__title {
+  color: #f00;
+  text-shadow: 0;
+};
+
+.page__hero--overlay {
+  padding: 5em 0;
+};
+

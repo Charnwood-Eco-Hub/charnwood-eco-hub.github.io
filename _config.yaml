@@ -1,6 +1,65 @@
+locale: en
+title: "Charnwood Eco Hub"
+masthead_title: "Charnwood Eco Hub"
+separator: "|"
+subtitle: "Making Charnwood Greener"
+description: ""
+copyright: "Charnwood Eco Hub CIC"
+logo: assets/img/charnwood-eco-hub.jpg
+breadcrumbs: true
+
+# Build settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+#include:
+#  - _pages
+
+# - jekyll-include-cache
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-anchor-headings
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
 
-title: Charnwood Eco Hub
-description: Helping Charnwood to reduce its carbon footprint
+# - jekyll-include-cache
+whitelist:
+  - jekyll-anchor-headings
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
 
+
+footer:
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: https://www.facebook.com/CharnwoodEcoHub
+
+defaults:
+  # _posts
+  - scope:
+      path: "/news"
+      type: news
+    values:
+      layout: single
+      #read_time: true
+      #comments: true
+      share: true
+      #related: true
+
+#category_archive:
+#  type: liquid
+#  path: /news/
+tag_archive:
+  type: liquid
+  path: /tags/
