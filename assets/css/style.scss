@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+.page-header {
+  color: ##159957;
+  text-align: center;
+  background-color: #159957;
+  background-image: linear-gradient(120deg, #ffffff, #159957);
+}
+
 .site-footer-credits {
   display: none;
   visibility: hidden;
