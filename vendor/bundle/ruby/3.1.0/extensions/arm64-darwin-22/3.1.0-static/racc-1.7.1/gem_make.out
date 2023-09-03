@@ -1,0 +1,20 @@
+current directory: /Users/martin/src/charnwood-eco-hub/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+/Users/martin/.rubies/ruby-3.1.3/bin/ruby extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/martin/src/charnwood-eco-hub/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230903-53462-wvu1gg sitelibdir\=./.gem.20230903-53462-wvu1gg clean
+
+current directory: /Users/martin/src/charnwood-eco-hub/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230903-53462-wvu1gg sitelibdir\=./.gem.20230903-53462-wvu1gg
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/martin/src/charnwood-eco-hub/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230903-53462-wvu1gg sitelibdir\=./.gem.20230903-53462-wvu1gg install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20230903-53462-wvu1gg/racc
+
+current directory: /Users/martin/src/charnwood-eco-hub/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230903-53462-wvu1gg sitelibdir\=./.gem.20230903-53462-wvu1gg clean
