@@ -69,7 +69,3 @@ defaults:
 tag_archive:
   type: liquid
   path: /tags/
-
-head_scripts:
-  - /assets/js/pop.js
-
