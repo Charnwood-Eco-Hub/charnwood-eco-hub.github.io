@@ -12,3 +12,37 @@
   padding: 5em 0;
 };
 
+#hider
+    {
+        position:absolute;
+        top: 0%;
+        left: 0%;
+        width:1600px;
+        height:2000px;
+        margin-top: -800px; /*set to a negative number 1/2 of your height*/
+        margin-left: -500px; /*set to a negative number 1/2 of your width*/
+        /*
+        z- index must be lower than pop up box
+       */
+        z-index: 99;
+       background-color:Black;
+       //for transparency
+       opacity:0.6;
+    }
+
+    #popup_box  
+    {
+
+    position:absolute;
+        top: 50%;
+        left: 50%;
+        width:10em;
+        height:10em;
+        margin-top: -5em; /*set to a negative number 1/2 of your height*/
+        margin-left: -5em; /*set to a negative number 1/2 of your width*/
+        border: 1px solid #ccc;
+        border:  2px solid black;
+        z-index:100; 
+
+    }
+
