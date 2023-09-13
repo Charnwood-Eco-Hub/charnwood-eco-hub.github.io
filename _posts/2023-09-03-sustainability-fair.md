@@ -16,3 +16,24 @@ Food, activities, stalls, crafts and environmental information in the beautiful 
 
 ![Sustainability Fair September 2023 poster](/assets/img/sustainability-fair-sept-2023.jpg)
 
+**Programme**
+
+![Sustainability Fair Programme graphic - see below for text version](/assets/img/sustainability-fair-sept-2023-programme.png)
+
+|----------|---------------------------------|--------------------------------|
+| When     | Where                           | What                           |
+|----------|---------------------------------|--------------------------------|
+| 10.00    | Bandstand                       | Opening by the Mayor           |
+| 10.30    | QUO Gazebo                      | Quorn Ukelele Orchestra        |
+| 11.30    | QUO Gazebo                      | Quorn Ukelele Orchestra        |
+| 12.00    | Bandstand                       | Fruit Routes talk              |
+| 13.00    | QUO Gazebo                      | Quorn Ukelele Orchestra        |
+| 13.00    | Bandstand                       | Clothing repair and reuse talk |
+| All Day  | Charnwood Arts Stall            | Window garden activity         |
+| All Day  | Charnwood Borough Council Stall | Free tree giveaway             |
+| All Day  | B Buddies Stall                 | Bike checks and repairs        |
+| All Day  | Transition Stall                | Repair Cafe                    |
+| All Day  | Purple Pumpkin Patch Stall      | Bookcrossing / Knit & Natter   |
+| All Day  | Climate Vigil Stall             | Banner making                  |
+
+
