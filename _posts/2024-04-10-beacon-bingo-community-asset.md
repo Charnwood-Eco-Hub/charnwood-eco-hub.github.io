@@ -1,16 +1,13 @@
 ---
 title: Loughborough's Beacon Bingo Hall listed as asset of community value
 layout: single
-tagline: Charnwood Eco Hub has successfully applied to Charnwood Borough Council to list the former Beacon Bingo Hall as a community asset.
 header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   teaser: /assets/img/charnwood-eco-hub-banner.jpg
 category: news
 ---
 
-**Loughborough's Beacon Bingo Hall listed as asset of community value**
-
-Charnwood Eco Hub has successfully applied to Charnwood Borough Council to list the former Beacon Bingo Hall as a community asset.
+**Charnwood Eco Hub has successfully applied to Charnwood Borough Council to list the former Beacon Bingo Hall as a community asset**
 
 Originally opened as a cinema in 1936 as part of the Odeon cinema chain, the building was subsequently converted to a social club in 1969, after which it became a bingo hall, until its eventual closure in 2021. In order to qualify as a community asset, a building must have been used for community benefit in the recent past. Its listing means that should the owners decide to sell, local community organisations are given the opportunity to put a bid together to buy it. Listing a property doesn’t prevent the sale of the building, nor does it limit the use that it can be put to by the current owners.
 
