@@ -1,6 +1,6 @@
 main:
   - title: "News"
-    url: /news/sustainability-fair/
+    url: /news
   - title: "About"
     url: /about
   - title: "Contact"
