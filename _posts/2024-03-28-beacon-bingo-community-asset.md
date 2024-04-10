@@ -3,7 +3,7 @@ title: Loughborough's Beacon Bingo Hall listed as asset of community value
 layout: single
 header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
-  teaser: /assets/img/charnwood-eco-hub-banner.jpg
+  teaser: /assets/img/charnwood-beacon-bingo-community-asset.jpg
 category: news
 ---
 

@@ -3,7 +3,7 @@ title: Charnwood Eco Hub Wants To Hear From You
 layout: single
 header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
-  teaser: /assets/img/charnwood-eco-hub-banner.jpg
+  teaser: /assets/img/charnwood-eco-hub-wants-to-hear-from-you.png
 category: news
 ---
 

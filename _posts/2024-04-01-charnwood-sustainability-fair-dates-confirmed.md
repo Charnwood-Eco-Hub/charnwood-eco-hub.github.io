@@ -3,7 +3,7 @@ title: 2024 Charnwood Sustainability Fair Dates Confirmed
 layout: single
 header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
-  teaser: /assets/img/charnwood-eco-hub-banner.jpg
+  teaser: /assets/img/charnwood-sustainability-fair-2024.png
 category: news
 ---
 

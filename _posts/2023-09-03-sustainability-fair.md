@@ -4,7 +4,7 @@ layout: single
 tagline: Queen’s Park, Sunday 17th September 2023
 header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
-  teaser: /assets/img/charnwood-eco-hub-banner.jpg
+  teaser: /assets/img/sustainability-fair-sept-2023.jpg
 category: news
 ---
 
