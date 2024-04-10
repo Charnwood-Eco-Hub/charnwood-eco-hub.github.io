@@ -58,6 +58,7 @@ defaults:
       type: news
     values:
       layout: single
+      show_date: true
       #read_time: true
       #comments: true
       share: true

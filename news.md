@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: News
 layout: home
 excerpt: All the latest Charnwood Eco Hub updates
 header:
