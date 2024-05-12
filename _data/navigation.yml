@@ -5,5 +5,3 @@ main:
     url: /about
   - title: "Contact"
     url: /contact
-  - title: "Donate"
-    url: /donate
