@@ -5,6 +5,7 @@ header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   teaser: /assets/img/charnwood-eco-hub-wants-to-hear-from-you.png
 category: news
+classes: wide
 ---
 
 **We have some exciting plans in the offing, and we would love to hear what you think about them!**

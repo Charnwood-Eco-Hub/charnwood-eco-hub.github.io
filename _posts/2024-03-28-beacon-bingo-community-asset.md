@@ -5,6 +5,7 @@ header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   teaser: /assets/img/beacon-bingo-community-asset.jpg
 category: news
+classes: wide
 ---
 
 **Charnwood Eco Hub has successfully applied to Charnwood Borough Council to list the former Beacon Bingo Hall as a community asset**

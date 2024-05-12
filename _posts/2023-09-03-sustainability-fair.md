@@ -6,6 +6,7 @@ header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   teaser: /assets/img/sustainability-fair-sept-2023.jpg
 category: news
+classes: wide
 ---
 
 **Welcome to the first Charnwood Sustainability Fair!**

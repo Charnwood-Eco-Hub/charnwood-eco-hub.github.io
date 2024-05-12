@@ -5,6 +5,7 @@ header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   teaser: /assets/img/charnwood-eco-hub-networking-event-march-2024-small.jpg
 category: news
+classes: wide
 ---
 
 **Charnwood Eco Hub recently held a networking event for local groups involved in projects that support sustainability or protect and enhance the local environment**

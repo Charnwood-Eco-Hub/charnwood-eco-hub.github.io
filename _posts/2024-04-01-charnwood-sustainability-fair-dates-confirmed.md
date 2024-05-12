@@ -5,6 +5,7 @@ header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   teaser: /assets/img/charnwood-sustainability-fair-2024-small.png
 category: news
+classes: wide
 ---
 
 **After the huge success of our first Sustainability Fair last year with the support of Charnwood Borough Council, we've confirmed the date for this year**

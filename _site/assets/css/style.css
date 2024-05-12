@@ -1,3 +1,4 @@
+/*@import "minimal-mistakes";*/
 /*!
  * Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
  * Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
@@ -1277,3 +1278,19 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 */ z-index: 99; background-color: Black; opacity: 0.6; }
 
 #popup_box { position: absolute; top: 50%; left: 50%; width: 10em; height: 10em; margin-top: -5em; /*set to a negative number 1/2 of your height*/ margin-left: -5em; /*set to a negative number 1/2 of your width*/ border: 1px solid #ccc; border: 2px solid black; z-index: 100; }
+
+.thumbnail-container { /*display: flex;*/ /*flex-direction: row;*/ max-width: 100%; overflow: hidden; border-radius: 5px; margin-bottom: 25px; }
+
+.thumbnail-container img { margin-top: -11.5%; margin-bottom: -11.5%; }
+
+.archive__item-teaser { max-height: 200px; }
+
+/*@include breakpoint($small) { max-width: 1280px; @include gallery(5 of 10); .archive__item-teaser { max-height: 200px; } }
+
+@include breakpoint($medium) { margin-left: 0; */
+/* reset before mixin does its thing*/
+/* margin-right: 0;*/
+/* reset before mixin does its thing*/
+    /*max-width: 80%; @include gallery(2.5 of 10);
+ .archive__item-teaser { max-height: 120px; }
+ .archive__item-excerpt { display: block; font-size: $type-size-6; } } */
