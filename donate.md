@@ -8,5 +8,5 @@ header:
 
 **Why not make a donation to support Charnwood Eco Hub?**
 
-{% include donate.html %}
+<iframe width="560" height="815" src="https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY" title="PayPal donation page for Charnwood Eco Hub" frameborder="0" allow="accelerometer; clipboard-write; gyroscope" allowfullscreen></iframe>
 
