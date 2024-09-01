@@ -4,6 +4,9 @@ layout: single
 header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   teaser: /assets/img/charnwood-eco-hub-networking-event-march-2024-small.jpg
+  actions:
+    - label: "Donate"
+      url: "https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY"
 category: news
 classes: wide
 ---
