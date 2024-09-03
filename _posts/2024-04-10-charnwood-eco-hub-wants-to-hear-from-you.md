@@ -3,7 +3,6 @@ title: Charnwood Eco Hub Wants To Hear From You
 layout: single
 header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
-  teaser: /assets/img/charnwood-eco-hub-wants-to-hear-from-you.png
   actions:
     - label: "Donate"
       url: "https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY"
@@ -12,6 +11,8 @@ classes: wide
 ---
 
 **We have some exciting plans in the offing, and we would love to hear what you think about them!**
+
+![We want to hear from you!](/assets/img/charnwood-eco-hub-wants-to-hear-from-you.png)
 
 We are currently involved in talks with another local charity about an exciting collaboration that will involve setting up a physical Eco Hub in Loughborough, out of which we hope to operate a Tool Library, Makerspace (or Hackspace) and a Scrapstore, as well as offering a space for local eco/sustainability groups to hold meetings and small events or workshops.
 

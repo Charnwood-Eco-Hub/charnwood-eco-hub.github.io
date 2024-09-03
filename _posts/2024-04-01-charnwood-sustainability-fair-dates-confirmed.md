@@ -3,7 +3,6 @@ title: 2024 Charnwood Sustainability Fair Dates Confirmed
 layout: single
 header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
-  teaser: /assets/img/charnwood-sustainability-fair-2024-small.png
   actions:
     - label: "Donate"
       url: "https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY"
@@ -12,6 +11,8 @@ classes: wide
 ---
 
 **After the huge success of our first Sustainability Fair last year with the support of Charnwood Borough Council, we've confirmed the date for this year**
+
+![Charnwood Sustainability Fair poster](/assets/img/charnwood-sustainability-fair-2024-small.png)
 
 This year's Sustainability Fair will take place on Sunday 29th September in Queen's Park Loughborough from 10am-3pm.
 
