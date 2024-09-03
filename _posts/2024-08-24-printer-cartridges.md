@@ -3,6 +3,7 @@ title: We need your old printer cartridges!
 layout: single
 header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
+  teaser: /assets/img/printer-cartridges.jpg
   actions:
     - label: "Donate"
       url: "https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY"

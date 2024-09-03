@@ -3,6 +3,7 @@ title: Charnwood Sustainability Fair 2024 is nearly here!
 layout: single
 header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
+  teaser: /assets/img/charnwood-sustainability-fair-2024.png
   actions:
     - label: "Donate"
       url: "https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY"
