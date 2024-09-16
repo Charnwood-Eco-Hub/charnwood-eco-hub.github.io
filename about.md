@@ -14,13 +14,17 @@ gallery:
   - image_path: /assets/img/sarah-goode-medium.jpg
     alt: "Sarah Goode"
     title: "Sarah Goode"
+  - image_path: /assets/img/clive-bagley.jpg
+    alt: "Clive Bagley"
+    title: "Clive Bagley"
 ---
 
 **About Us**
 
-{% include gallery caption="Emma Ward (left) and Sarah Goode (right)" %}
+{% include gallery caption="Emma Ward, Sarah Goode" %}
 
-We are Charnwood Eco Hub, a new Community Interest Company set up by friends Sarah Goode and Emma Ward.  We are both passionate about the planet, and have both been involved in environmental projects locally for some time.
+We are Charnwood Eco Hub, a new Community Interest Company set up by friends Sarah Goode, Emma Ward and Clive Bagley.  We are all passionate about the planet, and have been involved in environmental projects locally for some time.
 
 We identified a need to bring together local environmental organisations and initiatives and to raise awareness of them amongst local residents, in order to help them to reduce their own carbon footprint and live more sustainably.
+
 
