@@ -28,4 +28,28 @@ var store = [{
         "tags": [],
         "url": "/news/charnwood-eco-hub-wants-to-hear-from-you/",
         "teaser": "/assets/img/charnwood-eco-hub-wants-to-hear-from-you.png"
+      },{
+        "title": "Volunteer with us!",
+        "excerpt":"Get involved with Charnwood Eco Hub We’re looking for volunteers to join us at the Eco Hub in a wide variety of roles, including customer service, admin, social media &amp; marketing, and tech support, and we’d love to welcome you to the team! For more information on how you can...","categories": ["news"],
+        "tags": [],
+        "url": "/news/volunteering/",
+        "teaser": "/assets/img/support-us.jpg"
+      },{
+        "title": "Support us and play on Charnwood Community Lottery!",
+        "excerpt":"Support local causes, and you could win £25,000 Charnwood Community Lottery is a great fun way of supporting local causes, and now you can play to support our activities at Charnwood Eco Hub - At least 60% from each ticket sold goes to support Charnwood, and there’s a chance to...","categories": ["news"],
+        "tags": [],
+        "url": "/news/charnwood-community-lottery/",
+        "teaser": "/assets/img/charnwood-community-lottery.png"
+      },{
+        "title": "We need your old printer cartridges!",
+        "excerpt":"You can now recycle your used ink cartridges with us! We can take any brand of printer cartridges, but cannot accept laser or toner cartridges. We can exchange used cartridges for cash via Charity.co.uk - all funds raised will go to the Eco Hub. You can drop off your cartridges...","categories": ["news"],
+        "tags": [],
+        "url": "/news/printer-cartridges/",
+        "teaser": "/assets/img/printer-cartridges.jpg"
+      },{
+        "title": "Charnwood Sustainability Fair 2024 is nearly here!",
+        "excerpt":"The countdown has begun! Less than a month to go until our Sustainability Fair, and we can’t wait to let you all in on some of the eco treats we have in store for you! We will have edible delights and cookery demonstrations, lovingly crafted gifts and makes from local...","categories": ["news"],
+        "tags": [],
+        "url": "/news/charnwood-sustainability-fair-2024/",
+        "teaser": "/assets/img/charnwood-sustainability-fair-2024.png"
       }]

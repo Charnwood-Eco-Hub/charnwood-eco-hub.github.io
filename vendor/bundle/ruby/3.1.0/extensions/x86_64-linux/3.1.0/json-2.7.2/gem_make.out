@@ -1,0 +1,13 @@
+current directory: /home/martin/src/charnwood-eco-hub/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+/usr/bin/ruby3.1 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20240924-3165336-4qtkvr.rb extconf.rb
+creating Makefile
+
+current directory: /home/martin/src/charnwood-eco-hub/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= clean
+
+current directory: /home/martin/src/charnwood-eco-hub/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\=
+make: Nothing to be done for 'all'.
+
+current directory: /home/martin/src/charnwood-eco-hub/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= install

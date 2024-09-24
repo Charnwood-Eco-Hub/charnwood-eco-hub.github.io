@@ -1,0 +1,27 @@
+<div class="page__footer-follow">
+  <div>Follow Charnwood Eco Hub on social media:</div>
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
+
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+
+    {% unless site.atom_feed.hide %}
+      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    {% endunless %}
+  </ul>
+</div>
+
+<div class="page__footer-copyright">Copyright {{ site.time | date: '%Y' }} {{ site.copyright | default: site.title }}. Charnwood Eco Hub is a Community Interest Company Limited by Guarantee (No. 14801163), registered in England and Wales. Charnwood Eco Hub gratefully acknowledges the following organizations for their invaluable support:</div>
+<br/>
+<div class="page__footer-copyright">
+<a href="https://www.charnwood.gov.uk/"><img alt="Charnwood Borough Council" src="/assets/img/charnwood-borough-council-logo-small.png"></a>&nbsp;<a href="https://www.intelligent-energy.com/"><img alt="Intelligent Energy logo" src="/assets/img/intelligent-energy-logo-small.png"></a>&nbsp;<a href="https://martinh.net/"><img alt="MartinH.Net logo" src="/assets/img/martinh-net-logo-small.png"></a>
+</div>
+
