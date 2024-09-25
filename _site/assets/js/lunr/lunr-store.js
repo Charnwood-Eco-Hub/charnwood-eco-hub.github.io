@@ -51,5 +51,5 @@ var store = [{
         "excerpt":"The countdown has begun! Less than a month to go until our Sustainability Fair, and we can’t wait to let you all in on some of the eco treats we have in store for you! We will have edible delights and cookery demonstrations, lovingly crafted gifts and makes from local...","categories": ["news"],
         "tags": [],
         "url": "/news/charnwood-sustainability-fair-2024/",
-        "teaser": "/assets/img/charnwood-sustainability-fair-2024.png"
+        "teaser": "/assets/img/charnwood-sustainability-fair-2024-small.png"
       }]
