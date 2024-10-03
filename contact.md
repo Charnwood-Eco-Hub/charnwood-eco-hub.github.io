@@ -17,7 +17,7 @@ header:
 
 ![Charnwood Eco Hub logo](/assets/img/charnwood-eco-hub-cropped.jpg "Charnwood Eco Hub Logo"){: .align-left} Charnwood Eco Hub CIC, 102 Ashby Road, Loughborough, United Kingdom
 
-Email: [charnwoodecohub@gmail.com](mailto:charnwoodecohub@gmail.com)
+Email: [info@charnwoodecohub.org](mailto:info@charnwoodecohub.org) or phone: [01509 447075](tel:+44-1509-447075)
 
 You can also [contact us via our Facebook Page](https://www.facebook.com/CharnwoodEcoHub)
 

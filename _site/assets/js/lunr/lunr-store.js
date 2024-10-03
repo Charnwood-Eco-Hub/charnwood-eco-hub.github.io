@@ -52,4 +52,22 @@ var store = [{
         "tags": [],
         "url": "/news/charnwood-sustainability-fair-2024/",
         "teaser": "/assets/img/charnwood-sustainability-fair-2024-small.png"
+      },{
+        "title": "2nd Charnwood Sustainability Fair is a success!",
+        "excerpt":"Looking back at the 2nd annual Charnwood Sustainability Fair Sunday 29th September saw the 2nd annual Charnwood Sustainability Fair take place in Queen’s Park, Loughborough. Over 30 stalls participated, including local craftspeople selling sustainable handmade gifts, local groups such as Transition Loughborough, Woodhouse Eaves Plastic Free and Incredible Edible offering...","categories": ["news"],
+        "tags": [],
+        "url": "/news/charnwood-sustainability-fair/",
+        "teaser": "/assets/img/charnwood-sustainability-fair-2024-collage-small.png"
+      },{
+        "title": "Our plan for Charnwood Eco Hub",
+        "excerpt":"Want to know more about what exactly we’re planning?      Want to know more about what exactly we’re planning? This document explains a little bit about it! We’d love you to get in touch if you have any questions, or if you’d like to be involved! Email info@charnwoodecohub.org   ","categories": ["news"],
+        "tags": [],
+        "url": "/news/charnwood-eco-hub-plan/",
+        "teaser": "/assets/img/charnwood-eco-hub-flyer-small.png"
+      },{
+        "title": "Christmas Eco Market",
+        "excerpt":"Join us for a special Christmas Eco Market in Loughborough Town Centre on Sunday 3rd November! Join us for a special Christmas Eco Market in Loughborough Town Centre on Sunday 3rd November! The event will run from 10am-3pm, with the focus being on sustainable and ethical gifts handmade gifts from...","categories": ["news"],
+        "tags": [],
+        "url": "/news/christmas-market/",
+        "teaser": "/assets/img/christmas-eco-market.png"
       }]

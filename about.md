@@ -8,7 +8,7 @@ header:
     - label: "Donate"
       url: "https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY"
 gallery:
-  - image_path: /assets/img/sarah_emma_and_clive_small.jpg
+  - image_path: /assets/img/directors-small.jpg
     alt: "Sarah Goode, Emma Ward and Clive Bagley"
     title: "Sarah Goode, Emma Ward and Clive Bagley"
 ---
