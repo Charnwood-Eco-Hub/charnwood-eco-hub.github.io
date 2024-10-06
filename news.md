@@ -1,7 +1,13 @@
 ---
-title: News
-layout: home
-excerpt: All the latest Charnwood Eco Hub updates
+title: Newsletter
+layout: collection
+paginate: true
+excerpt: The Charnwood Eco Hub Newsletter
+permalink: /news/
+entries_layout: grid
+collection: news
+sort_by: date
+sort_order: reverse
 header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   actions:

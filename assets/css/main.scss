@@ -9,4 +9,5 @@ $right-sidebar-width: 5em !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@import "custom"; // main partials
 

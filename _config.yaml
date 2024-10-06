@@ -6,7 +6,7 @@ subtitle: "Making Charnwood Greener"
 description: ""
 copyright: "Charnwood Eco Hub CIC"
 logo: assets/img/charnwood-eco-hub.jpg
-breadcrumbs: true
+breadcrumbs: false
 
 # Build settings
 markdown: kramdown
@@ -23,6 +23,8 @@ timezone: Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time
 
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-redirect-from
+  - jekyll-archives
   - jekyll-include-cache
   - jekyll-anchor-headings
   - jekyll-paginate
@@ -31,6 +33,8 @@ plugins:
   - jekyll-feed
 
 whitelist:
+  - jekyll-redirect-from
+  - jekyll-archives
   - jekyll-include-cache
   - jekyll-anchor-headings
   - jekyll-paginate
@@ -53,15 +57,29 @@ footer:
 defaults:
   # _posts
   - scope:
+      path: "/updates"
+      type: updates
+    values:
+      layout: single
+      show_overlay_excerpt: false
+      show_date: true
+      share: true
+  - scope:
       path: "/news"
       type: news
     values:
       layout: single
+      show_overlay_excerpt: false
       show_date: true
-      #read_time: true
-      #comments: true
       share: true
-      #related: true
+
+collections:
+  news:
+    output: true
+    permalink: /:collection/:title/
+  updates:
+    output: true
+    permalink: /:collection/:title/
 
 #category_archive:
 #  type: liquid

@@ -1,0 +1,15 @@
+.grid__item {
+  .archive__item-teaser {
+    @include breakpoint($small) {
+      object-fit: contain;
+      max-height: 200px;
+    }
+
+    @include breakpoint($medium) {
+      object-fit: contain;
+      max-height: 200px;
+    }
+  }
+}
+
+
