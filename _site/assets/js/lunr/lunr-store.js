@@ -23,6 +23,12 @@ var store = [{
         "url": "/news/august-2024/",
         "teaser": "/assets/img/charnwood-eco-hub-newsletter-logo.png"
       },{
+        "title": "Charnwood Eco Hub November 2024 Newsletter",
+        "excerpt":"November 2024 Newsletter Hello! We’ve had a really busy month this month here at the Eco Hub - planning for our Christmas Eco Market (tomorrow!), meeting local organisations (Equality Action, who we were able to donate a sewing machine to, Leicester College, Loughborough University, Men &amp; Women In Sheds), doing...","categories": [],
+        "tags": [],
+        "url": "/news/november-2024/",
+        "teaser": "/assets/img/charnwood-eco-hub-newsletter-logo.png"
+      },{
         "title": "Charnwood Eco Hub October 2024 Newsletter",
         "excerpt":"October 2024 Newsletter Hello! Where did last month go?! And how is it only two months ‘til Christmas? No sooner had we finished getting everything ready for the Sustainability Fair, were we into last minute preparations for next month’s Christmas Eco Market - if you haven’t heard about that yet,...","categories": [],
         "tags": [],
