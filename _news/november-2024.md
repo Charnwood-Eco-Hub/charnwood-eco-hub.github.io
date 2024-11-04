@@ -78,7 +78,7 @@ To get involved: Email [dmusdg16@dmu.ac.uk](mailto:dmusdg16@dmu.ac.uk?subject=Cl
 
 |---------------------------------|--------------------------------|
 | ![The Climate Reality Project](/assets/img/climate-reality-project.png){:width="400px"}<br/> | **WHEP Evening Talk: The Climate Crisis and Some Solutions**<br/> *7th November,7.30PM-9.00PM* <br/> Woodhouse Eaves Village Hall |
-| ![Believe in the power of small actions poster](/assets/img/believe-in-the-power-of-small-actions-logo.png){:width="400px"}<br/> | **Incredible Edibles - Maintaining a Wormery and Bokashi Composting**</br> *Saturday 9th November, 10.00AM* </br> Fearon Hall, Loughborough |
+| ![Believe in the power of small actions poster](/assets/img/believe-in-the-power-of-small-actions-logo.png){:width="400px"}<br/> | **Incredible Edibles - Maintaining a Wormery and Bokashi Composting**</br> *Saturday 9th November, 10.00AM* <br/> Fearon Hall, Loughborough |
 | ![MMC Repair Cafe logo](/assets/img/mmc-repair-cafe-logo.png){:width="400px"}<br/> | **MMC Repair Cafe**<br/> *Sunday 10th November, 10.00AM-1.00PM*<br/> Mountsorrel Memorial Centre |
 | ![Transition Loughborough Repair Cafe](/assets/img/transition-loughborough-logo.png){:width="400px"}<br/> | **Transition Loughborough Repair Cafe**<br/> *Saturday 16th November, 9.30am-11.00pm*<br/> Fearon Hall, Loughborough |
 
