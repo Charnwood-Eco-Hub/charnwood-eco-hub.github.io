@@ -1,5 +1,5 @@
 ---
-title: Help Charnwood Eco Hub raise £5,000 for tools, equipment, craft supplies and materials
+title: Help Charnwood Eco Hub raise £5,000 to set up a Library of Things, Scrapstore and Makerspace
 layout: single
 header:
   show_overlay_excerpt: false
