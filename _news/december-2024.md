@@ -23,7 +23,9 @@ This newsletter is packed with updates on our progress, recent events, and how y
 
 Wishing you a joyful and eco-friendly holiday season! 
 
-![Joyful Christmas from Charnwood Eco Hub](/assets/img/eco-hub-joyful-xmas-2024.png "From top left: The dividers going up at SOFA, our eco elf workshop, our tree at All Saints Christmas Tree Festival, Our last Eco Hub Social, paint donation from B & Q.")
+![Joyful Christmas from Charnwood Eco Hub](/assets/img/eco-hub-joyful-xmas-2024.png)
+
+From top left: The dividers going up at SOFA, our eco elf workshop, our tree at All Saints Christmas Tree Festival, Our last Eco Hub Social, paint donation from B & Q.
 
 
 ![Charnwood Eco Hub build progress](/assets/img/eco-hub-progress-dec24.jpg)
@@ -71,39 +73,39 @@ Signing up is quick and free. Just visit [Easyfundraising](https://www.easyfundr
 
 As the festive season approaches, it’s easy to get caught up in the excitement and excesses of Christmas. However, with a little thought and creativity, you can enjoy the holidays while reducing waste, cutting emissions, and protecting our beautiful planet. Here are some simple yet impactful ways to make your Christmas sustainable, brought to you by Charnwood Eco Hub.
 
-1. Rethink Your Decorations
+1\. Rethink Your Decorations
 
 Instead of buying new decorations each year, consider using natural, recyclable, or homemade alternatives. Pinecones, dried oranges, cinnamon sticks, and sprigs of holly or evergreen branches make beautiful, biodegradable ornaments. Visit our tree at All Saints' Christmas Tree Festival for inspiration! If you have existing decorations, treasure them—they're often more meaningful and sustainable than mass-produced alternatives.
 
-2. Choose Eco-Friendly Wrapping
+2\. Choose Eco-Friendly Wrapping
 
 The UK generates a staggering amount of waste during Christmas, much of it from wrapping paper. Opt for recyclable kraft paper, reusable fabric wraps, or even old maps and newspapers to wrap your gifts. Skip the glitter—it’s non-recyclable—and finish with natural twine or a reusable ribbon. Or come along to one of our eco gift wrapping sessions (see what's on below) and let us wrap them for you!
 
-3. Give Thoughtful, Sustainable Gifts
+3\. Give Thoughtful, Sustainable Gifts
 
 Support local artisans, ethical brands, or give experiences instead of physical gifts. Think workshop vouchers, concert tickets, or a donation to a charity in the recipient's name. Homemade gifts like jams, baked goods, or knitted scarves can also add a personal and eco-conscious touch.
 
-4. Feast Sustainably
+4\. Feast Sustainably
 
 A Christmas feast can be both delicious and eco-friendly. Plan portions carefully to avoid food waste, source ingredients locally, and consider a plant-based menu or dishes. If you have leftovers, get creative with recipes or share them with neighbors and friends.
 
-5. Reduce Energy Usage
+5\. Reduce Energy Usage
 
 Lighting adds a magical touch to Christmas, but it can also use significant energy. Switch to LED fairy lights, and put them on a timer to reduce consumption. Turn off unnecessary lights and appliances to conserve energy while enjoying the holiday glow.
 
-6. Rent, Don’t Buy
+6\. Rent, Don’t Buy
 
 If you’re hosting and need extra furniture, crockery, or even outfits, consider renting instead of purchasing new items that might only be used once. Many local rental services offer beautiful and functional items for a fraction of the cost—and environmental impact—of buying new.
 
-7. Opt for a Sustainable Tree
+7\. Opt for a Sustainable Tree
 
 Real trees, when responsibly sourced from local growers, are generally more eco-friendly than artificial ones. Look for FSC-certified trees, or consider renting a living tree that can be replanted after the holidays. If you already have an artificial tree, the best thing you can do is keep using it for as many years as possible.
 
-8. Recycle and Repurpose
+8\. Recycle and Repurpose
 
 Once the festivities are over, recycle what you can and repurpose decorations for next year. Compost your natural tree or check if your council offers a tree recycling scheme. By properly sorting waste, you ensure that materials are reused and kept out of landfills.
 
-9. Spread Awareness (and joy!)
+9\. Spread Awareness (and joy!)
 
 Encourage friends and family to adopt sustainable practices. Share tips, exchange ideas, and make eco-conscious decisions part of your festive traditions. Together, small changes can lead to a big impact.
 
