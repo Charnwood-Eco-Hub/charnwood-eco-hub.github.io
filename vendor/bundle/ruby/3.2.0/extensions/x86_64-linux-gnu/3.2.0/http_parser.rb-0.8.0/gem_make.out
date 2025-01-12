@@ -1,0 +1,19 @@
+current directory: /home/martin/src/charnwood-eco-hub/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/usr/bin/ruby3.2 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/martin/src/charnwood-eco-hub/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250111-745937-qncrva sitelibdir\=./.gem.20250111-745937-qncrva clean
+
+current directory: /home/martin/src/charnwood-eco-hub/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250111-745937-qncrva sitelibdir\=./.gem.20250111-745937-qncrva
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/martin/src/charnwood-eco-hub/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250111-745937-qncrva sitelibdir\=./.gem.20250111-745937-qncrva install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20250111-745937-qncrva
+
+current directory: /home/martin/src/charnwood-eco-hub/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250111-745937-qncrva sitelibdir\=./.gem.20250111-745937-qncrva clean

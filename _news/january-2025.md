@@ -54,7 +54,7 @@ Planning ahead for a greener future? We’re pleased to announce that **applicat
 
 These much-anticipated events are perfect opportunities for local businesses, organisations, and artisans to showcase their sustainable products and  and eco-friendly services, and their knowledge and projects. The Sustainability Fair will take place in Autumn 2025, highlighting green initiatives and fostering community collaboration.
 
-Don’t miss your chance to be part of these inspiring events! [Apply](https://docs.google.com/forms/d/e/1FAIpQLSf2mnGIMpkyc2NDdWitvRAt_lU1gaLYp078gaHj2V_p6TcmGw/viewform) now to help shape a sustainable Charnwood.
+Don’t miss your chance to be part of these inspiring events! [Apply now](https://docs.google.com/forms/d/e/1FAIpQLSf2mnGIMpkyc2NDdWitvRAt_lU1gaLYp078gaHj2V_p6TcmGw/viewform) to help shape a sustainable Charnwood.
 
 
 ![Volunteering opportunities with Charnwood Eco Hub](/assets/img/support-us.jpg)

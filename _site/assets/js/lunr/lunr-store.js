@@ -23,16 +23,28 @@ var store = [{
         "url": "/news/august-2024/",
         "teaser": "/assets/img/charnwood-eco-hub-newsletter-logo.png"
       },{
+        "title": "Charnwood Eco Hub October 2024 Newsletter",
+        "excerpt":"October 2024 Newsletter Hello! Where did last month go?! And how is it only two months ‘til Christmas? No sooner had we finished getting everything ready for the Sustainability Fair, were we into last minute preparations for next month’s Christmas Eco Market - if you haven’t heard about that yet,...","categories": [],
+        "tags": [],
+        "url": "/news/october-2024/",
+        "teaser": "/assets/img/charnwood-eco-hub-newsletter-logo.png"
+      },{
         "title": "Charnwood Eco Hub November 2024 Newsletter",
         "excerpt":"November 2024 Newsletter Hello! We’ve had a really busy month this month here at the Eco Hub - planning for our Christmas Eco Market (tomorrow!), meeting local organisations (Equality Action, who we were able to donate a sewing machine to, Leicester College, Loughborough University, Men &amp; Women In Sheds), doing...","categories": [],
         "tags": [],
         "url": "/news/november-2024/",
         "teaser": "/assets/img/charnwood-eco-hub-newsletter-logo.png"
       },{
-        "title": "Charnwood Eco Hub October 2024 Newsletter",
-        "excerpt":"October 2024 Newsletter Hello! Where did last month go?! And how is it only two months ‘til Christmas? No sooner had we finished getting everything ready for the Sustainability Fair, were we into last minute preparations for next month’s Christmas Eco Market - if you haven’t heard about that yet,...","categories": [],
+        "title": "Charnwood Eco Hub December 2024 Newsletter",
+        "excerpt":"December 2024 Newsletter Welcome to the December Edition of the Charnwood Eco Hub Newsletter! The holiday season is upon us, and we’re wrapping up (sorry) the year with exciting updates and events to share with you. December is a busy time for us at the Eco Hub, and we’re thrilled...","categories": [],
         "tags": [],
-        "url": "/news/october-2024/",
+        "url": "/news/december-2024/",
+        "teaser": "/assets/img/charnwood-eco-hub-newsletter-logo.png"
+      },{
+        "title": "Charnwood Eco Hub January 2025 Newsletter",
+        "excerpt":"January 2025 Newsletter Happy New Year from all of us at the Charnwood Eco Hub! We’re thrilled to kick off 2025 with exciting news and upcoming milestones. First, mark your calendars! The official launch of the Charnwood Eco Hub will take place on Friday 31st January. This is a momentous...","categories": [],
+        "tags": [],
+        "url": "/news/january-2025/",
         "teaser": "/assets/img/charnwood-eco-hub-newsletter-logo.png"
       },{
         "title": "Charnwood Sustainability Fair",
@@ -106,4 +118,10 @@ var store = [{
         "tags": [],
         "url": "/updates/christmas-market/",
         "teaser": "/assets/img/christmas-eco-market.png"
+      },{
+        "title": "Help Charnwood Eco Hub raise £5,000 to set up a Library of Things, Scrapstore and Makerspace",
+        "excerpt":"We’ve just launched a Justgiving campaign to help us raise funds towards our project of setting up a Library of Things, Scrapstore &amp; Makerspace in Charnwood Imagine a place where you can borrow all sorts of useful things — tools, equipment, craft supplies, and even materials to get creative and...","categories": [],
+        "tags": [],
+        "url": "/updates/crowdfunder/",
+        "teaser": "/assets/img/crowdfunder-graphic.jpg"
       }]
