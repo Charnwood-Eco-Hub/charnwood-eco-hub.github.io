@@ -47,6 +47,30 @@ var store = [{
         "url": "/news/january-2025/",
         "teaser": "/assets/img/charnwood-eco-hub-newsletter-logo.png"
       },{
+        "title": "Charnwood Eco Hub Library of Things",
+        "excerpt":"The Charnwood Eco Hub Library of Things Charnwood Eco Hub’s Library of Things is an exciting initiative that helps you save money, reduce waste, and embrace a more sustainable lifestyle. Instead of buying items you may only use occasionally, why not borrow them? Our Library of Things offers a wide...","categories": [],
+        "tags": [],
+        "url": "/projects/library-of-things/",
+        "teaser": "/assets/img/reception-portrait.jpg"
+      },{
+        "title": "Charnwood Eco Hub Makerspace",
+        "excerpt":"The Charnwood Eco Hub Makerspace - coming soon!      ","categories": [],
+        "tags": [],
+        "url": "/projects/makerspace/",
+        "teaser": "/assets/img/charnwood-eco-hub-signage.jpg"
+      },{
+        "title": "Charnwood Eco Hub Scrapstore",
+        "excerpt":"The Charnwood Eco Hub Scrapstore The Charnwood Eco Hub Scrapstore Project is a creative and sustainable initiative designed to reduce waste and inspire creativity within the community. We collect surplus materials and offcuts from local businesses, preventing them from going to landfill and offering them to individuals, families, and organisations...","categories": [],
+        "tags": [],
+        "url": "/projects/scrapstore/",
+        "teaser": "/assets/img/scrapstore-1.jpg"
+      },{
+        "title": "Charnwood Sustainability Fair",
+        "excerpt":"The Charnwood Sustainability Fair This year’s Sustainability Fair will take place on Sunday 21st September 2025 in Queen’s Park Loughborough from 10am-3pm, highlighting green initiatives and fostering community collaboration. This much-anticipated event is a perfect opportunity for local businesses, organisations, and artisans to showcase their sustainable products and and eco-friendly...","categories": [],
+        "tags": [],
+        "url": "/projects/sustainability-fair/",
+        "teaser": "/assets/img/charnwood-sustainability-fair-2025.png"
+      },{
         "title": "Charnwood Sustainability Fair",
         "excerpt":"Welcome to the first Charnwood Sustainability Fair! Come and join us on Loughborough’s Queen’s Park on Sunday 17th September 2023 from 10am to 3pm. Free Entry to this family event. Food, activities, stalls, crafts and environmental information in the beautiful Queens Park in the centre of Loughborough. Programme When Where...","categories": [],
         "tags": [],
@@ -124,4 +148,10 @@ var store = [{
         "tags": [],
         "url": "/updates/crowdfunder/",
         "teaser": "/assets/img/crowdfunder-graphic.jpg"
+      },{
+        "title": "3,2,1 Launch!",
+        "excerpt":"We’re thrilled to announce the official launch of the Charnwood Eco Hub! The hub will be open for the first time to the general public on Saturday, 1st February 2025, from 10am until 2pm, offering an exciting day of activities and an opportunity for people to learn more about becoming...","categories": [],
+        "tags": [],
+        "url": "/updates/launch-day/",
+        "teaser": "/assets/img/charnwood-eco-hub-signage.jpg"
       }]

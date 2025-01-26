@@ -1,9 +1,9 @@
 main:
-  - title: "Newsletter"
-    url: /news
-  - title: "Updates"
-    url: /updates
   - title: "About"
     url: /about
+  - title: "Updates"
+    url: /updates
+  - title: "Newsletter"
+    url: /news
   - title: "Contact"
     url: /contact

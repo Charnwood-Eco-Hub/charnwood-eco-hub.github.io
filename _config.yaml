@@ -57,6 +57,14 @@ footer:
 defaults:
   # _posts
   - scope:
+      path: "/projects"
+      type: projects
+    values:
+      layout: single
+      show_overlay_excerpt: false
+      show_date: false
+      share: true
+  - scope:
       path: "/updates"
       type: updates
     values:
@@ -78,6 +86,9 @@ collections:
     output: true
     permalink: /:collection/:title/
   updates:
+    output: true
+    permalink: /:collection/:title/
+  projects:
     output: true
     permalink: /:collection/:title/
 

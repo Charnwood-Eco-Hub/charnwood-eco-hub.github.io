@@ -20,5 +20,5 @@ Thank you for your interest in Charnwood Eco Hub! To activate your membership, y
 | Scrapstore: Individual/Family membership | £15.00 | Yearly |
 | Scrapstore: Student/Low income/unwaged membership | £10.00 | Yearly |
 
-If possible we ask that you pay using bank transfer via [this link](LINK TBC).
+Complete your membership application by paying by bank transfer [here](LINK TBC).  Please note, your application will not be approved until payment has been received. If you need to use a different payment method, please call 01509447075 or email [info@charnwoodecohub.org](mailto:info@charnwoodecohub.org).
 

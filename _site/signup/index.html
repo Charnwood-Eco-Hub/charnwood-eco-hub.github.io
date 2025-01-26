@@ -86,8 +86,11 @@
 .archive__item-teaser {
   max-height: 250px;
 }
+.page__hero--overlay {
+  padding: 1em 0;
+  max-height: 12em;
+}
 </style>
-
 
   </head>
 
@@ -118,11 +121,11 @@
           <span class="site-subtitle">Making Charnwood Greener</span>
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/news">Newsletter</a>
+              <a href="/about">About</a>
             </li><li class="masthead__menu-item">
               <a href="/updates">Updates</a>
             </li><li class="masthead__menu-item">
-              <a href="/about">About</a>
+              <a href="/news">Newsletter</a>
             </li><li class="masthead__menu-item">
               <a href="/contact">Contact</a>
             </li></ul>
@@ -199,23 +202,23 @@
         
         <p><strong>Thank you for your interest in Charnwood Eco Hub!</strong></p>
 
-<p>Please complete the application form below to become a member:</p>
+<p>Please complete the application form below to apply for membership of the Charnwood Eco Hub Scrapstore. The Charnwood Eco Hub Library of Things has its own application process which is available separately.</p>
 
-<form id="signup_form" method="POST" action="https://script.google.com/macros/s/AKfycbz8VJTh3BdFfmRcEylqbnDtYhunPZwjzPSNqGXBXYI_MPROLEqhNeAzzdGL7VVxzPoMLA/exec">
+<form id="signup_form" method="POST" action="https://script.google.com/macros/s/AKfycbznGrjwMz91HIu8LhqD1cYvy_H8Rc6ccdUPRzjq4JlPggbU1i6lqC01ZJRiKHdWpWO3_g/exec">
 <label for="Membership_Type">Membership Type</label>
-<select name="Membership_Type" type="text" required="">
-<option value="Scrapstore:Indiv">Scrapstore: Individual/Family membership (£15.00/Yearly)</option>
-<option value="Scrapstore:Disc">Scrapstore: Student/Low income/unwaged membership (£10.00/Yearly)</option>
-<option value="Scrapstore:Group">Scrapstore: Group membership (£40.00/Yearly)</option>
+<select id="Membership_Type" name="Membership_Type" type="text" required="">
+<option value="Scrapstore:Indiv">Scrapstore: Individual/Family/Childminder Membership (£15.00/Yearly)</option>
+<option value="Scrapstore:Disc">Scrapstore: Student/Low income/Unwaged Membership (£10.00/Yearly)</option>
+<option value="Scrapstore:Group">Scrapstore: Community Groups/Schools Membership (from £40.00/Yearly)</option>
 </select>
 <label for="Name">Your Name (required)</label>
-<input name="Name" type="text" placeholder="Name" required="" />
-<label for="Address">Your Address (required)</label>
-<input name="Address" type="text" placeholder="Address" required="" />
-<label for="Phone">Your Phone Number (required)</label>
-<input name="Phone" type="text" placeholder="Phone Number" required="" />
-<label for="Email">Your Email Addresss</label>
-<input name="Email" type="email" placeholder="Email Address" />
+<input id="Name" name="Name" type="text" placeholder="Your name" required="" />
+<label for="Organisation">Community Group / School (where applicable)</label>
+<input id="Organisation" name="Organisation" type="text" placeholder="Your community group or school's name" />
+<label for="Phone">Contact Phone Number (required)</label>
+<input id="Phone" name="Phone" type="text" placeholder="Phone Number" required="" />
+<label for="Email">Contact Email Addresss (required)</label>
+<input id="Email" name="Email" type="email" placeholder="Email Address" />
 <label for="How_Found">How did you find out about Charnwood Eco Hub?</label>
 <select name="How_Found" type="text">
 <option value="Leaflet_Poster">Leaflet/Poster</option>
@@ -224,7 +227,7 @@
 <option value="Social_Media">Social Media</option>
 <option value="Other">Other</option>
 </select>
-<label for="Accepted_Policies" required="">By ticking this box I accept Charnwood Eco Hub's Terms &amp; Conditions and Data Protection Policy These are available on-site and on the Charnwood Eco Hub website</label> <input name="Accepted_Policies" type="checkbox" />
+<label for="Accepted_Policies" required="">By ticking this box I accept Charnwood Eco Hub's <a href="/policies">Terms &amp; Conditions and Data Protection Policy</a>.</label><input id="Accepted_Policies" name="Accepted_Policies" value="yes" type="checkbox" />
 <div id="foo">
 <p>
 </p>
@@ -311,7 +314,11 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">Copyright 2025 Charnwood Eco Hub CIC. Charnwood Eco Hub is a Community Interest Company Limited by Guarantee (No. 14801163), registered in England and Wales. Charnwood Eco Hub gratefully acknowledges the following organizations for their invaluable support:</div>
+<div class="page__footer-copyright">Copyright 2025 Charnwood Eco Hub CIC. Charnwood Eco Hub is a Community Interest Company Limited by Guarantee (No. 14801163), registered in England and Wales. Please see our <a href="/policies">Terms and Conditions</a> and <a href="/policies">Policies</a> for more information about how Charnwood Eco Hub operates.
+</div>
+<br/>
+<div class="page__footer-copyright">
+Charnwood Eco Hub gratefully acknowledges the following organizations for their invaluable support:</div>
 <br/>
 <div class="page__footer-copyright">
 <a href="https://www.charnwood.gov.uk/"><img alt="Charnwood Borough Council" src="/assets/img/charnwood-borough-council-logo-small.png"></a>&nbsp;<a href="https://www.intelligent-energy.com/"><img alt="Intelligent Energy logo" src="/assets/img/intelligent-energy-logo-small.png"></a>&nbsp;<a href="https://chestertonhouse.co.uk/foundation/"><img alt="Chesterton House logo" src="/assets/img/chesterton-house-logo-small.png"></a>&nbsp;<a href="https://martinh.net/"><img alt="MartinH.Net logo" src="/assets/img/martinh-net-logo-small.png"></a>
