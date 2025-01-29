@@ -1,5 +1,5 @@
 ---
-title: BBC Article
+title: Charnwood Eco Hub on the BBC
 layout: single
 header:
   show_overlay_excerpt: false
@@ -20,4 +20,8 @@ We're really pleased that there is so much interest in our Eco Hub projects, inc
 **Clarence Street**<br/>
 **Loughborough**<br/>
 **LE11 1DY**
+
+You can listen to Kevin's interview with Charnwood Eco Hub co-director Emma Ward and SOFA's Julio Pacheco on [BBC Sounds](https://www.bbc.co.uk/programmes/p0kmkhs6){:target="_blank"}:
+
+[![BBC Radio Leicester interview with Charnwood Eco Hub](/assets/img/bbc-radio-leicester-jan2025.jpg)](https://www.bbc.co.uk/programmes/p0kmkhs6){:target="_blank"}
 
