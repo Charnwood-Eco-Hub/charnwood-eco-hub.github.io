@@ -1,7 +1,6 @@
 ---
 title: Charnwood Eco Hub Scrapstore
 layout: single
-sitemap: false
 collection: projects
 excerpt: Helping Charnwood to reduce its carbon footprint
 header:
@@ -24,4 +23,6 @@ For those who would like to explore the Scrapstore without committing to a membe
 
 Come visit us at the Charnwood Eco Hub to see how you can turn scrap into something extraordinary or sign up to become a member today. Together, we can make creativity sustainable!
 
+
+[Scrapstore Terms and Conditions](/policies/Charnwood%20Eco%20Hub%20Scrapstore%20Terms%20and%20Conditions.pdf){:target="_blank"}
 

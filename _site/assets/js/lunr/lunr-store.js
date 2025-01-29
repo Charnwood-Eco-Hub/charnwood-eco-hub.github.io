@@ -154,4 +154,10 @@ var store = [{
         "tags": [],
         "url": "/updates/launch-day/",
         "teaser": "/assets/img/charnwood-eco-hub-signage.jpg"
+      },{
+        "title": "BBC Article",
+        "excerpt":"We’re really pleased that there is so much interest in our Eco Hub projects, including the Library of Things :-) Thank you to BBC Radio Leicester Journalist Kevin Ncube for coming to have a look around last week. Remember, we open our doors at 10am on Saturday 1st February. Charnwood...","categories": [],
+        "tags": [],
+        "url": "/updates/bbc-interview/",
+        "teaser": "/assets/img/bbc-article-jan2025.png"
       }]

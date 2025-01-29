@@ -1,7 +1,6 @@
 ---
 title: Charnwood Eco Hub Library of Things
 layout: single
-sitemap: false
 collection: projects
 excerpt: Helping Charnwood to reduce its carbon footprint
 header:
@@ -21,4 +20,6 @@ Charnwood Eco Hub's Library of Things is an exciting initiative that helps you s
 Memberships are available on an annual basis, with fees set at £10 for individuals on a low income and £15 for individuals or families. Once you’re a member, you can hire items from the library for a small charge per item, helping to cover maintenance and ensure our collection stays in excellent condition. Whether you’re tackling a one-off DIY project, hosting a special event, or trying out something new without committing to a purchase, the Library of Things is here to make life more affordable and eco-friendly.
 
 Join us at the Charnwood Eco Hub or sign up now and discover how borrowing can transform the way you live, work, and play. Let’s reduce waste, share resources, and build a more sustainable future together!
+
+[Library of Things Terms and Conditions](/policies/Charnwood%20Eco%20Hub%20Library%20of%20Things%20Terms%20and%20Conditions.pdf){:target="_blank"}
 

@@ -1,7 +1,6 @@
 ---
 title: Charnwood Eco Hub Makerspace
 layout: single
-sitemap: false
 collection: projects
 excerpt: Helping Charnwood to reduce its carbon footprint
 header:

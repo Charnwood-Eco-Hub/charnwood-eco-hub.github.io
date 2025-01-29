@@ -1,7 +1,6 @@
 ---
 title: Projects
 layout: collection
-sitemap: false
 paginate: true
 excerpt: Charnwood Eco Hub Projects
 permalink: /projects/
