@@ -21,5 +21,7 @@ Memberships are available on an annual basis, with fees set at £10 for individu
 
 Join us at the Charnwood Eco Hub or sign up now and discover how borrowing can transform the way you live, work, and play. Let’s reduce waste, share resources, and build a more sustainable future together!
 
+[Apply for Library of Things Membership](https://charnwoodecohub.lend-engine-app.com/){:target="_blank" .btn .btn--success}
+
 [Library of Things Terms and Conditions](/policies/Charnwood%20Eco%20Hub%20Library%20of%20Things%20Terms%20and%20Conditions.pdf){:target="_blank"}
 
