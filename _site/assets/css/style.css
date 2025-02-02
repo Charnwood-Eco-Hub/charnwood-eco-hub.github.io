@@ -1294,3 +1294,10 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
     /*max-width: 80%; @include gallery(2.5 of 10);
  .archive__item-teaser { max-height: 120px; }
  .archive__item-excerpt { display: block; font-size: $type-size-6; } } */
+details { border-radius: 10px; padding: 0px 8px; margin-bottom: 15px; }
+
+details[open] { background: #dbdbdb; padding: 0px 8px 8px 8px; }
+
+summary { margin: 0px 0px 8px 0px; outline: none; }
+
+details summary { color: #2a7ae2; }
