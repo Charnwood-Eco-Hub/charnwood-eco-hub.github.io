@@ -14,7 +14,7 @@ header:
 
 Thank you for your interest in Charnwood Eco Hub!  To activate your membership, you now need to pay your membership dues.  You can do this by clicking on the relevant link below or scanning the QR code for the membership plan.
 
-# Payment links
+**Payment links**
 
 <div>
 <p><a href="https://pay.sumup.com/b2c/QTCMKGXS">Scrapstore: Group membership</a> - £40 Yearly
