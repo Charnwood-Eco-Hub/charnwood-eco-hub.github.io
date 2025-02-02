@@ -16,8 +16,6 @@ Thank you for your interest in Charnwood Eco Hub!  To activate your membership, 
 
 # Payment links
 
-<h1 id="payment-links">Payment links</h1>
-
 <div>
 <p><a href="https://pay.sumup.com/b2c/QTCMKGXS">Scrapstore: Group membership</a> - £40 Yearly
 <details>
@@ -32,7 +30,6 @@ Thank you for your interest in Charnwood Eco Hub!  To activate your membership, 
 <details>
 <summary>Show QR code</summary>
 <img alt="Scrapstore individual / family membership QR code" src="/assets/img/scrapstore-indiv-qr.png" style="width:250px; height:250px"/>
-</div>
 </details>
 </p>
 </div>
