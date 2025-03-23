@@ -29,9 +29,9 @@ Stay tuned for exciting events, workshops, and community projects happening soon
 
 ![Launch event photo montage!](/assets/img/charnwood-eco-hub-launch-montage.png)
 
-![![Scrapstore poster](/assets/img/scrapstore-poster.png)](/projects/scrapstore)
+[![Scrapstore poster](/assets/img/scrapstore-poster.png)](/projects/scrapstore)
 
-![![Library of Things poster](/assets/img/library-of-things-poster.png)](/projects/library-of-things)
+[![Library of Things poster](/assets/img/library-of-things-poster.png)](/projects/library-of-things)
 
 ![Believe in the power of small actions](/assets/img/believe-in-the-power-of-small-actions-photo.jpg)
 
