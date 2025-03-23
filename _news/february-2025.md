@@ -133,11 +133,11 @@ Whether it’s a workshop, clean-up day, educational talk, or market, sharing yo
 |---------------------------------|--------------------------------|
 | ![Incredible Edible Soil Workshop](/assets/img/believe-in-the-power-of-small-actions-logo.png){:width="400px"}<br/> | **Incredible Edible Soil Workshop**<br/> *Saturday 22nd February, 10AM-12PM*<br/> Fearon Hall, Loughborough |
 | ![MMC Repair Cafe logo](/assets/img/mmc-repair-cafe-logo.png){:width="400px"}<br/> | **Fix It Group 23 Repair Cafe**<br/> *Sunday 23rd February, 10AM-1PM*<br/> Mountsorrel Memorial Centre |
-| ![Transition Loughborough Seed Swap](/assets/img/seed-swap-logo.png)<br/> | **Transition Loughborough Seed Swap**<br/> *Saturday 1st March, 10AM-12PM*<br/> Fearon Hall, Loughborough |
-| ![Transition Repair Cafe](/assets/img/transition-loughborough-logo.png){:width="400px"}<br/> | **Charnwood Eco Hub Launch**<br/> *Saturday 8th March, 10AM-1PM*<br/> Fearon Hall, Loughborough |
-| ![Eco Fair](/assets/img/ecofair-logo.png){:width="400px"}<br/> | **Eco Fair**<br/> *Saturday 15th March, 10AM-4PM*<br/> Thorpe Acre Church, Loughborough |
+| ![Transition Loughborough Seed Swap](/assets/img/seed-swap-logo.jpg)<br/> | **Transition Loughborough Seed Swap**<br/> *Saturday 1st March, 10AM-12PM*<br/> Fearon Hall, Loughborough |
+| ![Transition Repair Cafe](/assets/img/transition-loughborough-logo.png){:width="400px"}<br/> | **Transition Repair Cafe**<br/> *Saturday 8th March, 10AM-1PM*<br/> Fearon Hall, Loughborough |
+| ![Eco Fair](/assets/img/ecofair-logo.jpg){:width="400px"}<br/> | **Eco Fair**<br/> *Saturday 15th March, 10AM-4PM*<br/> Thorpe Acre Church, Loughborough |
 
-[Where to find us](/assets/img/where-to-find-us.jpg)
+![Where to find us](/assets/img/where-to-find-us.jpg)
 
 # Where to find us
 
