@@ -47,22 +47,6 @@ We're running a Plus Size Clothes Swap in the Hub on Sunday 26th April from 11am
 
 
 
-![Greener Future Leicestershire](/assets/img/greener-future-leicestershire.jpg){:width="400px"}
-
-GreenerFuture Leicestershire is a newly launched Innovate UK funded project to deliver carbon reduction services across the county. Their vision is to offer fully funded credible advice and effective support to businesses and communities to build a more resilient and greener future. Their business advisory service provides guidance to businesses and community organisations,  for whatever stage of the sustainability journey your group or business is at.
-
-Their services offer a comprehensive support package to Leicestershire SMEs and community groups, to:
-
-* Focus on what sustainability action is relevant for you - Use their diagnostic tool to identify 3 practical actions that will make the biggest difference to your business
-* Learn from trusted resources  - they provide materials to help you save time and make informed decisions on how to take the best actions for your business
-* Join expert-led workshops - Fully funded hands-on support and opportunities to connect with others on the same journey
-* Get recognised for your sustainability actions
-* Stand out and succeed with recognition for your work
-
-Start your journey at [www.greenerfutureleicestershire.co.uk](https://www.greenerfutureleicestershire.co.uk) or email them at [greenerfuture@leicester.ac.uk](mailto:greenerfuture@leicester.ac.uk).
-
-
-
 ![Refill station](/assets/img/refill-station.jpg)
 
 # Coming soon!
@@ -120,7 +104,7 @@ No experience is needed—just a can-do attitude and a love for the environment.
 Interested? [Email us](mailto:info@charnwoodecohub.org) to sign up or learn more. We’d love to have you on the team!
 
 
-![The Great British Spring Clean](/assets/img/environment-action-volunteers.jpg)
+![The Great British Spring Clean](/assets/img/eco-volunteers.jpg)
 
 # The Great British Spring Clean 
 

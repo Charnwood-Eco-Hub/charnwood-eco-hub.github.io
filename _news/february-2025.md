@@ -54,8 +54,7 @@ No charge, but donations to cover costs will be appreciated. Please arrive early
 Parking around Fearon Hall is limited. Best option is to park under Tesco’s in The Rushes and walk up, leaving 5 minutes or more for the walk.
 
 
-
-![Greener Future Leicestershire](/assets/img/greener-future-leicestershire.jpg)
+![Greener Future Leicestershire](/assets/img/greener-future-leicestershire.jpg){:width="85%"}
 
 GreenerFuture Leicestershire is a newly launched Innovate UK funded project to deliver carbon reduction services across the county. Their vision is to offer fully funded credible advice and effective support to businesses and communities to build a more resilient and greener future. Their business advisory service provides guidance to businesses and community organisations,  for whatever stage of the sustainability journey your group or business is at.
 
