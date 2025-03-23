@@ -13,7 +13,7 @@ header:
 
 # Christmas Eco Market
 
-![Christmas Eco Market](/assets/img/christmas-maket-2025.png)
+![Christmas Eco Market](/assets/img/christmas-market-2025.png)
 
 We have confirmed that we will be running a Christmas Eco Market again this year in Loughborough Marketplace on Sunday 2nd November. It was a lovely day last year, and we had some amazing stallholders offering lovely handcrafted gifts, who were keen to come back. If you would like to book a stall, please complete a booking form [here](https://forms.gle/251BuviM8sUUjtHE6).
 
