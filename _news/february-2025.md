@@ -30,10 +30,13 @@ Stay tuned for exciting events, workshops, and community projects happening soon
 ![Launch event photo montage!](/assets/img/charnwood-eco-hub-launch-montage.png)
 
 
+
 [![Scrapstore poster](/assets/img/scrapstore-poster.png)](/projects/scrapstore)
 
 
+
 [![Library of Things poster](/assets/img/library-of-things-poster.png)](/projects/library-of-things)
+
 
 
 ![Believe in the power of small actions](/assets/img/believe-in-the-power-of-small-actions-photo.jpg)
@@ -53,6 +56,7 @@ No charge, but donations to cover costs will be appreciated. Please arrive early
 Parking around Fearon Hall is limited. Best option is to park under Tesco’s in The Rushes and walk up, leaving 5 minutes or more for the walk.
 
 
+
 ![Greener Future Leicestershire](/assets/img/greener-future-leicestershire.jpg)
 
 GreenerFuture Leicestershire is a newly launched Innovate UK funded project to deliver carbon reduction services across the county. Their vision is to offer fully funded credible advice and effective support to businesses and communities to build a more resilient and greener future. Their business advisory service provides guidance to businesses and community organisations,  for whatever stage of the sustainability journey your group or business is at.
@@ -66,6 +70,7 @@ Their services offer a comprehensive support package to Leicestershire SMEs and 
 * Stand out and succeed with recognition for your work
 
 Start your journey at [www.greenerfutureleicestershire.co.uk](https://www.greenerfutureleicestershire.co.uk) or email them at [greenerfuture@leicester.ac.uk](mailto:greenerfuture@leicester.ac.uk).
+
 
 
 ![Leicestershire Waste Prevention Map](/assets/img/leicestershire-waste-prevention-map.jpg)
@@ -86,6 +91,7 @@ Leicestershire County Council has recently launched a new waste prevention map t
 If you belong to a Leicestershire-based organisation that fits one of these categories, and you're not on the map, you can add your group by filling in the application form [here](https://www.lesswaste.org.uk/reuse/waste-prevention-reuse-map/).
 
 
+
 ![Seed Swap](/assets/img/seed-swap-logo.jpg)
 
 Calling all gardeners: Transition Loughborough are holding another of their popular seed share events at Fearon Hall!
@@ -93,6 +99,7 @@ Calling all gardeners: Transition Loughborough are holding another of their popu
 This will take place in the morning on Saturday 1st March 2025 and will coincide with a vegan cafe popping up in the Hall serving breakfasts, so you can do some seed sharing and eat some plants at the same time.
 
 For those who have not been before, a seed sharing event is when local people bring unwanted seeds they have, put them on tables and then look at other seeds people have put down. Any that take your fancy you can have. You can bring 1 packet and take 10, or bring 10 and take 1, and the seeds can be self-saved ones or out of date, partially used or unwanted commercial seed packets. Its a great way to thin out your excess old seeds stock and potentially pick up some seeds to try out for free. No money changes hands for the seed swap itself, though you'll need to buy your breakfast at the Fearon Hall cafe.
+
 
 
 ![Charnwood Sustainability Fair 2025](/assets/img/sustainability-fair-2025.png)
@@ -105,8 +112,9 @@ These much-anticipated events are perfect opportunities for local businesses, or
 
 Don’t miss your chance to be part of these inspiring events! [Apply now](https://docs.google.com/forms/d/e/1FAIpQLSf2mnGIMpkyc2NDdWitvRAt_lU1gaLYp078gaHj2V_p6TcmGw/viewform) to help shape a sustainable Charnwood.
 
-![Volunteering opportunities with Charnwood Eco Hub](/assets/img/support-us.jpg)
 
+
+![Volunteering opportunities with Charnwood Eco Hub](/assets/img/support-us.jpg)
 
 # Join the Charnwood Eco Hub Volunteer Team
 
@@ -118,8 +126,9 @@ No experience is needed—just a can-do attitude and a love for the environment.
 
 Interested? [Email us](mailto:info@charnwoodecohub.org) to sign up or learn more. We’d love to have you on the team!
 
-![Share Your Eco Events with Us!](/assets/img/eco-volunteers.jpg)
 
+
+![Share Your Eco Events with Us!](/assets/img/eco-volunteers.jpg)
 
 # Share Your Eco Events with Us!
 
@@ -132,6 +141,7 @@ Whether it’s a workshop, clean-up day, educational talk, or market, sharing yo
 [Email us](mailto:info@charnwoodecohub.org) your event details to be included in the next edition. Let’s work together to build a more sustainable Charnwood!
 
 
+
 # Coming up
 
 |---------------------------------|--------------------------------|
@@ -140,6 +150,7 @@ Whether it’s a workshop, clean-up day, educational talk, or market, sharing yo
 | ![Transition Loughborough Seed Swap](/assets/img/seed-swap-logo.jpg)<br/> | **Transition Loughborough Seed Swap**<br/> *Saturday 1st March, 10AM-12PM*<br/> Fearon Hall, Loughborough |
 | ![Transition Repair Cafe](/assets/img/transition-loughborough-logo.png){:width="400px"}<br/> | **Transition Repair Cafe**<br/> *Saturday 8th March, 10AM-1PM*<br/> Fearon Hall, Loughborough |
 | ![Eco Fair](/assets/img/ecofair-logo.jpg){:width="400px"}<br/> | **Eco Fair**<br/> *Saturday 15th March, 10AM-4PM*<br/> Thorpe Acre Church, Loughborough |
+
 
 
 ![Where to find us](/assets/img/where-to-find-us.jpg)
