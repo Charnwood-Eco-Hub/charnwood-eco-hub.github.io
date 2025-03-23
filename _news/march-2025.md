@@ -28,14 +28,14 @@ You can find us on the first floor at SOFA, Towles Mill Building, Clarence Stree
 Read on for exciting events, workshops, and community projects happening soon. Let’s keep the momentum going! 💚♻️
 
 
-![Birdspotting competition](/assets/img/birdspotting.png)
+![Birdspotting competition](/assets/img/birdspotting.jpg)
 
 Our **Birdspotting Competition** is now live at Charnwood Eco Hub! We've hidden **15 beautiful birds** around the Hub—can you find them all? Keep your eyes peeled as you explore, and jot down where you spot each one. If you manage to find all 15, you'll be entered into a prize draw to **win a delicious Ringtons hamper**! Pick up an entry form next time you visit, and let the birdwatching begin! Entries must be in by the 31st March. 🐦🔍🍵
 
 
-<p float="left" align="middle">
-  <a href="https://pay.sumup.com/b2c/QRX5094R"><img src="/assets/img/macrame-workshop-april2025.png" width="100" /></a>
-  <a href="https://pay.sumup.com/b2c/QBBQK1RH"><img src="/assets/img/upholstery-workshop-april2025.png" width="100" /></a>
+<p float="left" align="middle" width="100%">
+  <a href="https://pay.sumup.com/b2c/QRX5094R"><img src="/assets/img/macrame-workshop-april2025.png" width="45%" /></a>
+  <a href="https://pay.sumup.com/b2c/QBBQK1RH"><img src="/assets/img/upholstery-workshop-april2025.png" width="45%" /></a>
 </p>
 
 # Announcing our new workshops!
@@ -49,7 +49,7 @@ We're running a Plus Size Clothes Swap in the Hub on Sunday 26th April from 11am
 
 
 
-![Greener Future Leicestershire](/assets/img/greener-future-leicestershire.jpg)
+![Greener Future Leicestershire](/assets/img/greener-future-leicestershire.jpg){:width="400px"}
 
 GreenerFuture Leicestershire is a newly launched Innovate UK funded project to deliver carbon reduction services across the county. Their vision is to offer fully funded credible advice and effective support to businesses and communities to build a more resilient and greener future. Their business advisory service provides guidance to businesses and community organisations,  for whatever stage of the sustainability journey your group or business is at.
 
@@ -144,13 +144,19 @@ The **Great British Spring Clean** is back from **15th to 31st March**, and it�
 # Where to find us
 
 **Opening Hours: (from 1st February 2025)**
+
 Wednesdays 3-7pm (access via Clarence Street)
+
 Thursday 10am-1pm (access via main SOFA entrance)
+
 Saturday 10am-2pm (access via main SOFA entrance)
 
 **Address:** Clarence St, Loughborough LE11 1DY
+
 **Website:** [charnwoodecohub.org](https://charnwoodecohub.org)
+
 **Email:** [info@charnwoodecohub.org](mailto:info@charnwoodecohub.org)
+
 **Phone:** 01509 447075
 
 
