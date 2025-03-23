@@ -18,7 +18,9 @@ We’re thrilled to kick off this month’s newsletter by celebrating the succes
 Now that we’re officially open, we’d love for you to drop by and explore everything we have to offer. Whether you’re borrowing from our [Library of Things](/projects/library-of-things), finding hidden treasures in the [Scrapstore](/projects/scrapstore), or would like to volunteer with us, we’re here for it! Our opening hours are:
 
 🕰️ Wednesday: 3 PM – 7 PM
+
 🕰️ Thursday 10 AM - 1 PM
+
 🕰️ Saturday: 10 AM – 2 PM
 
 📍 Find us on the first floor at SOFA, Towles Mill Building, Clarence Street, Loughborough, LE11 1DY.
