@@ -32,8 +32,8 @@ Our **Birdspotting Competition** is now live at Charnwood Eco Hub! We've hidden 
 
 
 <p float="left" align="middle" width="100%">
-  <a href="https://pay.sumup.com/b2c/QRX5094R"><img src="/assets/img/macrame-workshop-april2025.png" width="45%" /></a>
-  <a href="https://pay.sumup.com/b2c/QBBQK1RH"><img src="/assets/img/upholstery-workshop-april2025.png" width="45%" /></a>
+  <a target="_blank" href="https://pay.sumup.com/b2c/QRX5094R"><img src="/assets/img/macrame-workshop-april2025.png" width="45%" /></a>
+  <a target="_blank" href="https://pay.sumup.com/b2c/QBBQK1RH"><img src="/assets/img/upholstery-workshop-april2025.png" width="45%" /></a>
 </p>
 
 # Announcing our new workshops!
