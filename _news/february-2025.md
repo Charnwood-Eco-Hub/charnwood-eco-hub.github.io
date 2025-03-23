@@ -160,12 +160,12 @@ Whether it’s a workshop, clean-up day, educational talk, or market, sharing yo
 **Opening Hours: (from 1st February 2025)**
 Wednesdays 3-7pm (access via Clarence Street)
 Thursday 10am-1pm (access via main SOFA entrance)
+Saturday 10am-2pm (access via main SOFA entrance)
 
 **Address:** Clarence St, Loughborough LE11 1DY
 **Website:** [charnwoodecohub.org](https://charnwoodecohub.org)
 **Email:** [info@charnwoodecohub.org](mailto:info@charnwoodecohub.org)
 **Phone:** 01509 447075
-Saturday 10am-2pm (access via main SOFA entrance)
 
 
 [Donate to Charnwood Eco Hub](https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY){: .btn .btn--success}
