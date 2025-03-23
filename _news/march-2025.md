@@ -41,7 +41,7 @@ Our **Birdspotting Competition** is now live at Charnwood Eco Hub! We've hidden 
 We've been working on putting together some workshops (it has just been too cold in the Hub up to this point to even consider it - brrrrrr! Starting in April we'll be running a workshop on the 2nd and 4th Saturday of the month. April's workshops are a simple macrame plant holder on Saturday 12th April, and a beginners upholstery class on Saturday 26th April. Workshops cost  £15 each and include all materials. You can book in person in the Hub, using the QR code on the relevant poster or here - [macrame workshop](https://pay.sumup.com/b2c/QRX5094R) or [upholstery workshop](https://pay.sumup.com/b2c/QBBQK1RH).
 
 
-![Plus size clothes swap poster](/assets/img/clothes-swap-april2025.png)
+[![Plus size clothes swap poster](/assets/img/clothes-swap-april2025.png)](https://pay.sumup.com/b2c/QOPDM899)
 
 We're running a Plus Size Clothes Swap in the Hub on Sunday 26th April from 11am-2pm. All genders welcome, suitable for size 16/XL+, and tickets are on a pay as you feel basis (suggested donations of between £2-£5).  You can book your tickets [here](https://pay.sumup.com/b2c/QOPDM899).
 
