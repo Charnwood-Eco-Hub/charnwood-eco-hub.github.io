@@ -57,6 +57,14 @@ footer:
 defaults:
   # _posts
   - scope:
+      path: "/workshops-and-events"
+      type: workshops-and-events
+    values:
+      layout: single
+      show_overlay_excerpt: false
+      show_date: false
+      share: true
+  - scope:
       path: "/projects"
       type: projects
     values:
@@ -82,6 +90,9 @@ defaults:
       share: true
 
 collections:
+  workshops-and-events:
+    output: true
+    permalink: /:collection/:title/
   news:
     output: true
     permalink: /:collection/:title/

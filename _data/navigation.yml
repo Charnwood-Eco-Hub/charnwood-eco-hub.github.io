@@ -3,6 +3,8 @@ main:
     url: /about
   - title: "Projects"
     url: /projects
+  - title: "Workshops & Events"
+    url: /workshops-and-events
   - title: "Updates"
     url: /updates
   - title: "Newsletter"
