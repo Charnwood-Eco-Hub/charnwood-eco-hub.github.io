@@ -7,6 +7,7 @@ description: ""
 copyright: "Charnwood Eco Hub CIC"
 logo: assets/img/charnwood-eco-hub.jpg
 breadcrumbs: false
+future: true
 
 # Build settings
 markdown: kramdown

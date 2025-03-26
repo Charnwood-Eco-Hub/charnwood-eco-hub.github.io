@@ -47,6 +47,24 @@ var store = [{
         "url": "/news/january-2025/",
         "teaser": "/assets/img/charnwood-eco-hub-newsletter-logo.png"
       },{
+        "title": "Charnwood Eco Hub February 2025 Newsletter",
+        "excerpt":"February 2025 Newsletter We’re thrilled to kick off this month’s newsletter by celebrating the successful launch of Charnwood Eco Hub! 🎉 A huge thank you to everyone who joined us for our opening event—we were overwhelmed by the enthusiasm, support, and shared passion for sustainability. Seeing our community come together...","categories": [],
+        "tags": [],
+        "url": "/news/february-2025/",
+        "teaser": "/assets/img/charnwood-eco-hub-newsletter-logo.png"
+      },{
+        "title": "Charnwood Eco Hub March 2025 Newsletter",
+        "excerpt":"March 2025 Newsletter Welcome to the March edition of the Charnwood Eco Hub newsletter! As spring begins to bloom, we’re excited to share the latest updates, initiatives, and events that are helping to create a more sustainable and eco-conscious community here in Charnwood. The changing season brings new opportunities for...","categories": [],
+        "tags": [],
+        "url": "/news/march-2025/",
+        "teaser": "/assets/img/charnwood-eco-hub-newsletter-logo.png"
+      },{
+        "title": "Christmas Eco Market",
+        "excerpt":"Christmas Eco Market We have confirmed that we will be running a Christmas Eco Market again this year in Loughborough Marketplace on Sunday 2nd November. It was a lovely day last year, and we had some amazing stallholders offering lovely handcrafted gifts, who were keen to come back. If you...","categories": [],
+        "tags": [],
+        "url": "/projects/christmas-eco-market/",
+        "teaser": "/assets/img/christmas-market-2025.png"
+      },{
         "title": "Charnwood Eco Hub Library of Things",
         "excerpt":"The Charnwood Eco Hub Library of Things Charnwood Eco Hub’s Library of Things is an exciting initiative that helps you save money, reduce waste, and embrace a more sustainable lifestyle. Instead of buying items you may only use occasionally, why not borrow them? Our Library of Things offers a wide...","categories": [],
         "tags": [],
@@ -160,4 +178,28 @@ var store = [{
         "tags": [],
         "url": "/updates/bbc-interview/",
         "teaser": "/assets/img/bbc-article-jan2025.png"
+      },{
+        "title": "Coming soon - Refill Station",
+        "excerpt":"Coming soon - Refill Station We’re excited to announce that Charnwood Eco Hub will soon be launching a new refill station! In response to the sad closure of Real Refills (and many thanks to Sandra for her guidance), we know many of you have been looking for a local, sustainable...","categories": [],
+        "tags": [],
+        "url": "/updates/coming-soon-refill-station/",
+        "teaser": "/assets/img/refill-station.jpg"
+      },{
+        "title": "Charnwood Eco Hub Macrame Plant Holder Workshop",
+        "excerpt":"Macrame Plant Holder Workshop Come to the Eco Hub on Saturday April 12th 2025 and learn how to make a macrame plant holder. The workshop costs £15 each and include all materials. You can book in person in the Hub, using the QR code on the relevant poster or here...","categories": [],
+        "tags": [],
+        "url": "/workshops-and-events/macrame-workshop-april2025/",
+        "teaser": "/assets/img/macrame-workshop-thumbnail-april2025.png"
+      },{
+        "title": "Charnwood Eco Hub Upholstery Workshop",
+        "excerpt":"Upholstery Workshop - Saturday April 26th 2025 Come to the Eco Hub on Saturday April 26th 2025 for a beginners upholstery class. Workshops cost £15 each and include all materials. You can book in person in the Hub, using the QR code on the relevant poster or here - upholstery...","categories": [],
+        "tags": [],
+        "url": "/workshops-and-events/upholstery-workshop-april2025/",
+        "teaser": "/assets/img/upholstery-workshop-thumbnail-april2025.png"
+      },{
+        "title": "Charnwood Eco Hub Plus Size Clothes Swap",
+        "excerpt":"Plus size clothes swap - 27th April 2025 We’re running a Plus Size Clothes Swap in the Hub on Sunday 27th April from 11am-2pm. All genders welcome, suitable for size 16/XL+, and tickets are on a pay as you feel basis (suggested donations of between £2-£5). You can book your...","categories": [],
+        "tags": [],
+        "url": "/workshops-and-events/plus-size-clothes-swap-april2025/",
+        "teaser": "/assets/img/clothes-swap-thumbnail-april2025.png"
       }]

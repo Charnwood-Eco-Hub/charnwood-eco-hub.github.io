@@ -7,7 +7,7 @@ permalink: /workshops-and-events/
 entries_layout: grid
 collection: workshops-and-events
 sort_by: date
-sort_order: reverse
+sort_order: ascending
 header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   actions:
