@@ -14,7 +14,7 @@ released: true
 ---
 # Plus size clothes swap - 27th April 2025
  
-We're running a Plus Size Clothes Swap in the Hub on Sunday 27th April from 11am-2pm. All genders welcome, suitable for size 16/XL+, and tickets are on a pay as you feel basis (suggested donations of between £2-£5).  You can book your tickets [here](https://pay.sumup.com/b2c/QOPDM899).
+We're running a Plus Size Clothes Swap in the Hub on Sunday 27th April from 11AM to 2PM. All genders welcome, suitable for size 16/XL+, and tickets are on a pay as you feel basis (suggested donations of between £2-£5).  You can book your tickets [here](https://pay.sumup.com/b2c/QOPDM899).
 
 [![Plus size clothes swap poster](/assets/img/clothes-swap-april2025.png)](https://pay.sumup.com/b2c/QOPDM899)
 
