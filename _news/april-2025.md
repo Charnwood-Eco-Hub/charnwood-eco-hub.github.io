@@ -78,7 +78,7 @@ Don’t miss your chance to be part of these inspiring events!
 We're delighted to have been nominated for Leicestershire County Council Net Zero Heroes scheme, and proud to be in such illustrious company as our friends at Mountsorrel's The FixitGroup23! Thank you to everyone who is helping us by joining the Scrapstore or Library of Things, and helping to promote a circular economy and reduce consumption in Charnwood. You can read our nomination or nominate your own Net Zero Heros [here](https://www.leicestershire.gov.uk/environment-and-planning/net-zero/nominate-your-net-zero-heroes).
 
 
-![Carbon Literacy graphic](/assets/img/carbon-literacy-graphic.jpg)
+![Carbon Literacy graphic](/assets/img/carbon-literacy-infographic.jpg)
 
 Carbon Literacy is a day’s worth of accredited learning about climate change – it’s causes, impacts and solutions.  This course has been created specifically for community leaders in the following sectors:
 
