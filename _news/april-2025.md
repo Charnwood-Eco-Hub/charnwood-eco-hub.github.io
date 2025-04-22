@@ -19,14 +19,14 @@ With longer days and fresh spring energy in the air, we're excited to bring you 
 
 If you haven’t visited us yet, now’s the perfect time! Whether you're borrowing from our **Library of Things**, discovering treasures in the **Scrapstore**, or looking to **volunteer**, we’d love to see you. **From 28th April**, we will also be opening on **Monday evenings from 5pm-9pm**.
 
-**Our opening hours:**
-🕰 **Monday:** 5 PM – 9 PM
-🕰 **Wednesday:** 3 PM – 7 PM
-🕰 **Thursday:** 10 AM – 1 PM
+**Our opening hours:**<br/>
+🕰 **Monday:** 5 PM – 9 PM<br/>
+🕰 **Wednesday:** 3 PM – 7 PM<br/>
+🕰 **Thursday:** 10 AM – 1 PM<br/>
 🕰 **Saturday:** 10 AM – 2 PM
 
-📍 Find us on the first floor at **SOFA, Towles Mill Building, Clarence Street, Loughborough, LE11 1DY**
-👉 **Daytime entry:** via the SOFA main entrance
+📍 Find us on the first floor at **SOFA, Towles Mill Building, Clarence Street, Loughborough, LE11 1DY**<br/>
+👉 **Daytime entry:** via the SOFA main entrance<br/>
 👉 **Evening entry:** via the Clarence Street side entrance _(lift access available during the day only)_
 
 Keep reading for exciting workshops, events, and community projects happening this month. Let’s keep making a difference together! 💚♻️
