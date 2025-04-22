@@ -38,7 +38,7 @@ Congratulations to Alex, the winner of our Hub **Birdspotting** competition! �
 <p float="left" align="middle" width="100%">
   <a target="_blank" href="https://pay.sumup.com/b2c/QBBQK1RH"><img src="/assets/img/upholstery-workshop-april2025.png" width="45%" /></a>
   <a target="_blank" href="https://pay.sumup.com/b2c/Q45L007H"><img src="/assets/img/neurographic-art-workshop-may2025.png" width="45%" /></a>
-</p>
+</p><br/>
 
 <p float="left" align="middle" width="100%">
   <a target="_blank" href="https://pay.sumup.com/b2c/QSUXNBKR"><img src="/assets/img/origami-butterfly-workshop-may2025.png" width="45%" /></a>
@@ -47,7 +47,7 @@ Congratulations to Alex, the winner of our Hub **Birdspotting** competition! �
 
 # Announcing our new workshops!
 
-Exciting news from the Eco Hub! Our new workshops are kicking off this month, will run on the 2nd and 4th Saturday of every month, and we’d love for you to join us. On Saturday April 26th, we’re offering a beginners upholstery workshop with Dai, where you can learn the basics of this handy craft. Then on Saturday 10th May Amanda will be showing you how to create relaxing neurographic art, and on Saturday 23rd May Emma will be making beautiful origami fabric scrap butterflies. These workshops are a great way to get creative and make something special. For more details and to sign up, visit [our workshops page](). We can’t wait to see you there!
+Exciting news from the Eco Hub! Our new workshops are kicking off this month, will run on the 2nd and 4th Saturday of every month, and we’d love for you to join us. On Saturday April 26th, we’re offering a beginners upholstery workshop with Dai, where you can learn the basics of this handy craft. Then on Saturday 10th May Amanda will be showing you how to create relaxing neurographic art, and on Saturday 23rd May Emma will be making beautiful origami fabric scrap butterflies. These workshops are a great way to get creative and make something special. For more details and to sign up, visit [our workshops page](/workshops-and-events). We can’t wait to see you there!
 
 
 [![Plus size clothes swap poster](/assets/img/clothes-swap-april2025.png)](https://pay.sumup.com/b2c/QOPDM899)
