@@ -58,7 +58,7 @@ We're running a Plus Size Clothes Swap in the Hub on Sunday 27th April from 11am
 ![Refill station](/assets/img/refill-station-poster.png)
 
 # Coming soon!
- 
+
 We’re thrilled to announce the opening of our new refill station at the Eco Hub on **Saturday, May 10th**! This is a fantastic way to reduce waste and stock up on your everyday essentials without the plastic. From cleaning products to toiletries, we’ll have a variety of items available for you to refill in your own containers, or you can purchase a reusable glass bottle from the shop. Join us on opening day to learn more about how you can make more sustainable choices in your daily routine. We can’t wait to see you there and help you make the switch to zero-waste living!
 
 
