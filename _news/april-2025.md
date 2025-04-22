@@ -31,7 +31,7 @@ If you haven’t visited us yet, now’s the perfect time! Whether you're borrow
 
 Keep reading for exciting workshops, events, and community projects happening this month. Let’s keep making a difference together! 💚♻️
 
-![Birdspotting competition winner photo](/assets/img/birdspotting-competition-winner-april2025.jpg)
+![Birdspotting competition winner photo](/assets/img/birdspotting-competition-winner-april2025.jpg){:width="65%"}
 
 Congratulations to Alex, the winner of our Hub **Birdspotting** competition! 🐦🎉 Your keen eye for nature has earned you a delightful **Ringtons hamper** — enjoy your well-deserved prize!
 
@@ -55,7 +55,7 @@ Exciting news from the Eco Hub! Our new workshops are kicking off this month, wi
 We're running a Plus Size Clothes Swap in the Hub on Sunday 27th April from 11am-2pm. All genders welcome, suitable for size 16/XL+, and tickets are on a pay as you feel basis (suggested donations of between £2-£5).  You can book your tickets [here](https://pay.sumup.com/b2c/QOPDM899).
 
 
-![Refill station](/assets/img/refill-station-poster.png)
+![Refill station](/assets/img/refill-station-poster.png){:width="65%"}
 
 # Coming soon!
 
@@ -78,7 +78,7 @@ Don’t miss your chance to be part of these inspiring events!
 We're delighted to have been nominated for Leicestershire County Council Net Zero Heroes scheme, and proud to be in such illustrious company as our friends at Mountsorrel's The FixitGroup23! Thank you to everyone who is helping us by joining the Scrapstore or Library of Things, and helping to promote a circular economy and reduce consumption in Charnwood. You can read our nomination or nominate your own Net Zero Heros [here](https://www.leicestershire.gov.uk/environment-and-planning/net-zero/nominate-your-net-zero-heroes).
 
 
-![Carbon Literacy graphic](/assets/img/carbon-literacy-infographic.jpg)
+![Carbon Literacy graphic](/assets/img/carbon-literacy-infographic.jpg){:width="65%"}
 
 Carbon Literacy is a day’s worth of accredited learning about climate change – it’s causes, impacts and solutions.  This course has been created specifically for community leaders in the following sectors:
 
@@ -105,7 +105,7 @@ This course is in person at VAL in Leicester and is funded by the Universities P
 For an online version of this course go [here](https://www.eventbrite.co.uk/e/carbon-literacy-for-community-leaders-leicester-leicestershire-rutland-tickets-1312774526949). 
 
 
-![Eco Hub volunteer social photo](/assets/img/eco-hub-volunteers-social-photo-april2025.jpg)
+![Eco Hub volunteer social photo](/assets/img/eco-hub-volunteers-social-photo-april2025.jpg){:width="65%"}
 
 # Join the Charnwood Eco Hub Volunteer Team
 
