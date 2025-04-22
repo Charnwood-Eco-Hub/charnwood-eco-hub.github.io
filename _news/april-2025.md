@@ -132,7 +132,7 @@ VAL Offices, 9 Newarke Street, Leicester, LE1 5SN<br/>
 _Wednesday 7th May, 9.30am-4.30pm_
 
 **Nigel Temple talk on Bees**<br/>
-Incredible Edible (email ediblelboro@gmail.com to book)<br/>
+Incredible Edible (email [ediblelboro@gmail.com](mailto:ediblelboro@gmail.com) to book)<br/>
 Fearon Hall, Loughborough<br/>
 _Thursday 8th May 2025, 7.30pm to 9pm._
 
