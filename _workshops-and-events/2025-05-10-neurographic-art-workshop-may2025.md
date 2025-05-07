@@ -11,6 +11,8 @@ header:
 collection: workshops-and-events
 date: 2025-05-10
 released: true
+tags:
+- upcoming
 ---
 # Neurographic Art Workshop
  

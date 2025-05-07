@@ -11,6 +11,8 @@ header:
 collection: workshops-and-events
 date: 2025-04-12
 released: true
+tags:
+- archive
 ---
 # Macrame Plant Holder Workshop
  

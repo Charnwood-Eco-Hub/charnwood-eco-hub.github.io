@@ -11,6 +11,8 @@ header:
 collection: workshops-and-events
 date: 2025-04-26
 released: true
+tags:
+- archive
 ---
 # Upholstery Workshop - Saturday April 26th 2025
  

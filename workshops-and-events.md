@@ -1,6 +1,6 @@
 ---
 title: Workshops and Events
-layout: collection
+layout: double-collection
 paginate: true
 excerpt: Charnwood Eco Hub Workshops and Events
 permalink: /workshops-and-events/
@@ -13,4 +13,8 @@ header:
   actions:
     - label: "Donate"
       url: "https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY"
+tags:
+- archive
+- upcoming
 ---
+

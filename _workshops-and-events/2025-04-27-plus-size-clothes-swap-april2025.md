@@ -11,6 +11,8 @@ header:
 collection: workshops-and-events
 date: 2025-04-27
 released: true
+tags:
+- archive
 ---
 # Plus size clothes swap - 27th April 2025
  
