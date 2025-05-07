@@ -8,11 +8,7 @@ layout: archive
 <div class="entries-{{ entries_layout }} foobar">
   {% include documents-collection-tagged.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout tag='upcoming' %}
 </div>
-</div> <!-- archive -->
-
-<div class="archive">
-<h2>Previous events</h2>
-
+</div> <!-- archive --> <div class="archive"> <h2>Previous events</h2>
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }} barfoo">
   {% include documents-collection-tagged.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout tag='archive' %}
