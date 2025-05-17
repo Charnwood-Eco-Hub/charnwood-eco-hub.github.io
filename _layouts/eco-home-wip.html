@@ -1,0 +1,66 @@
+---
+layout: single
+---
+{{- content -}}
+{%- assign entries_layout = page.entries_layout | default: 'list' -%}
+<div>
+  <b>Charnwood Eco Hub is a not-for-profit, shared community hub based in Loughborough. Our aim is to provide a space to meet, make, fix, create and share sustainable ideas and resources.</b><br/><br/>
+</div>
+
+<div class="homepage_container">
+  <div class="grid__item" style="grid-column: 1; grid-row: 1">
+    <h1>Newsletter</h1>
+  </div>
+  <div class="grid__item" style="grid-column: 1; grid-row: 2">
+    <div class="entries-{{ entries_layout }}">
+      {%- include newsletter.html collection='news' sort_by=page.sort_by sort_order=page.sort_order type=entries_layout maxitems=1 -%}
+    </div>
+  </div>
+ </div>
+
+ <div class="homepage_container">
+  <div class="grid__item" style="grid-column: 1; grid-row: 1">
+    <h1>Upcoming Workshops and Events</h1>
+  </div>
+  <div class="grid__item" style="grid-column: 2; grid-row: 1">
+    <div class="entries-{{ entries_layout }}">
+    {%- include documents-collection-tagged.html collection='workshops-and-events' sort_by=page.sort_by sort_order=page.sort_order type=entries_layout tag='upcoming' maxitems=4 -%}
+    </div>
+  </div>
+</div>
+
+<div class="homepage_container">
+  <div class="grid__item" style="grid-column: 1; grid-row: 1">
+    <h1>Charnwood Eco Hub Updates</h1>
+  </div>
+  <div class="grid__item" style="grid-column: 2; grid-row: 2">
+    <div class="entries-{{ entries_layout }}">
+    {%- include documents-collection-tagged.html collection='updates' sort_by=page.sort_by sort_order=page.sort_order type=entries_layout maxitems=4 -%}
+    </div>
+  </div>
+ </div>
+
+ <div class="homepage_container">
+  <div class="grid__item" style="grid-column: 1; grid-row: 1">
+    <h1>Access and Location</h1>
+  </div>
+  <div class="grid__item" style="grid-column: 2; grid-row: 1">
+    <b>Email:</b> <a href="mailto:info@charnwoodecohub.org">info@charnwoodecohub.org</a></br>
+    <b>Phone:</b> 01509 447075<br/>
+    <br/>
+    <b>Opening Hours:</b>
+    <br/>
+    🕰 <b>Monday:</b> 5 PM – 9 PM (access via Clarence Street)<br/>
+    🕰 <b>Wednesday:</b> 3 PM – 7 PM (access via Clarence Street)<br/>
+    🕰 <b>Thursday:</b> 10 AM – 1 PM (access via main SOFA entrance)<br/>
+    🕰 <b>Saturday:</b> 10 AM – 2 PM (access via main SOFA entrance)<br/>
+  </div>
+  <div class="grid__item" style="grid-column: 2; grid-row: 2">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d603.393233533241!2d-1.1993882462333572!3d52.7759762073097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879e1897ec37229%3A0xf91f3a0d92774cc1!2sCharnwood%20Eco%20hub!5e0!3m2!1sen!2suk!4v1737726164221!5m2!1sen!2suk" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+  <div class="grid__item" style="grid-column: 1 / 2; grid-row: 3">
+    📍 Find us on the first floor at <b>SOFA, Towles Mill Building, Clarence Street, Loughborough, LE11 1DY</b><br/>
+    👉 <b>Daytime entry:</b> via the SOFA main entrance<br/>
+    👉 <b>Evening entry:</b> via the Clarence Street side entrance (lift access available during the day only)<br/>
+  </div>
+</div>

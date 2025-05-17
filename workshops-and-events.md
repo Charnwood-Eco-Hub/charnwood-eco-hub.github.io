@@ -1,8 +1,7 @@
 ---
-title: Workshops and Events
+title: Charnwood Eco Hub Workshops and Events
 layout: double-collection
 paginate: true
-excerpt: Charnwood Eco Hub Workshops and Events
 permalink: /workshops-and-events/
 entries_layout: grid
 collection: workshops-and-events

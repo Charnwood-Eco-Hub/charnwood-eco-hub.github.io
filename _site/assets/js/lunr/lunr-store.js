@@ -211,7 +211,7 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Neurographic Art Workshop",
         "excerpt":"Neurographic Art Workshop Unleash your creativity and de-stress! Join our Creative Art Workshop o Saturday 10th May from 11AM to 1PM and explore the world of Neurographic Art - a relaxing and intuitive way to transform thoughts and aemotions into beautiful, flowing designs. No experiences needed - just bring your...","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/neurographic-art-workshop-may2025/",
         "teaser": "/assets/img/neurographic-art-workshop-may2025-thumbnail.png"
       },{
@@ -220,4 +220,34 @@ var store = [{
         "tags": ["upcoming"],
         "url": "/workshops-and-events/origami-fabric-butterfly-workshop/",
         "teaser": "/assets/img/origami-butterfly-workshop-may2025-thumbnail.png"
+      },{
+        "title": "Charnwood Eco Hub Sustainable Sewing Workshop",
+        "excerpt":"Make a Morsbag Join us on 14th June 2025 for a hands-on sewing session where you’ll create your own Morsbag – a reusable, strong, and eco-friendly bag made entirely from recycled fabric that would otherwise go to landfill. Each participant will make at least two Morsbags: one to keep and...","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/morsbag-making-workshop-june2025/",
+        "teaser": "/assets/img/thumbs/morsbag-making-workshop-june25-thumb.png"
+      },{
+        "title": "Charnwood Eco Hub Mandala Sewing Workshop",
+        "excerpt":"Mandala Sewing Workshop Sit a while and stitch a beautiful mandala design with Amanda. Suitable for total beginners. The workshop costs £15 per person and includes all materials. You can book in person in the Hub, using the QR code on the poster below or here - Mandala Sewing Workshop...","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/mandala-sewing-workshop-june25/",
+        "teaser": "/assets/img/thumbs/mandala-sewing-workshop-june25-thumb.png"
+      },{
+        "title": "Charnwood Eco Hub Fabric Journal Roll Workshop",
+        "excerpt":"Fabric Journal Roll Workshop Discover the art of slow stitching and making a beautiful sari fabric journal roll. You will have the opportunity to make this item personal and sentimental by adding pieces of your own fabrics, buttons, beads, and broken jewellery. This unique item will be a keepsake you...","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/fabric-journal-roll-workshop/",
+        "teaser": "/assets/img/thumbs/fabric-roll-workshop-july25-thumb.png"
+      },{
+        "title": "Charnwood Sustainability Fair",
+        "excerpt":"The Charnwood Sustainability Fair This year’s Sustainability Fair will take place on Sunday 21st September 2025 in Queen’s Park Loughborough from 10am-3pm, highlighting green initiatives and fostering community collaboration. This much-anticipated event is a perfect opportunity for local businesses, organisations, and artisans to showcase their sustainable products and and eco-friendly...","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/charnwood-sustainability-fair-sept25/",
+        "teaser": "/assets/img/charnwood-sustainability-fair-2025.png"
+      },{
+        "title": "Christmas Eco Market",
+        "excerpt":"Christmas Eco Market We have confirmed that we will be running a Christmas Eco Market again this year in Loughborough Marketplace on Sunday 2nd November. It was a lovely day last year, and we had some amazing stallholders offering lovely handcrafted gifts, who were keen to come back. If you...","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/christmas-eco-market-nov25/",
+        "teaser": "/assets/img/christmas-market-2025.png"
       }]

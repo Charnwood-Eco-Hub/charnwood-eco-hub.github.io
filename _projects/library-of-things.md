@@ -2,7 +2,6 @@
 title: Charnwood Eco Hub Library of Things
 layout: single
 collection: projects
-excerpt: Helping Charnwood to reduce its carbon footprint
 header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   teaser: /assets/img/reception-portrait.jpg

@@ -1272,3 +1272,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
   .masthead, .toc, .page__share, .page__related, .pagination, .ads, .page__footer, .page__comments-form, .author__avatar, .author__content, .author__urls-wrapper, .nav__list, .sidebar, .adsbygoogle { display: none !important; height: 1px !important; } }
 @media (min-width: 37.5em) { .grid__item .archive__item-teaser { object-fit: contain; max-height: 200px; } }
 @media (min-width: 48em) { .grid__item .archive__item-teaser { object-fit: contain; max-height: 200px; } }
+
+.homepage_container .grid { display: grid; grid-template-columns: 50px auto; grid-template-rows: auto; grid-gap: 1rem; }
+.homepage_container .grid > div { background: #EDE7F6; padding: 1.5rem; border-radius: 1rem; }
+.homepage_container body { margin: 2rem; font: 12px system-ui; }

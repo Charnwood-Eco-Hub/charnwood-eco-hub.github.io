@@ -1,8 +1,7 @@
 ---
-title: Updates
+title: Charnwood Eco Hub Updates
 layout: collection
 paginate: true
-excerpt: Updates from Charnwood Eco Hub
 permalink: /updates/
 entries_layout: grid
 collection: updates

@@ -2,7 +2,6 @@
 title: Christmas Eco Market
 layout: single
 collection: projects
-excerpt: Helping Charnwood to reduce its carbon footprint
 header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   teaser: /assets/img/christmas-market-2025.png

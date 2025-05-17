@@ -12,4 +12,22 @@
   }
 }
 
+.homepage_container {
+  .grid {
+    display: grid;
+    grid-template-columns: 50px auto;
+    grid-template-rows: auto;
+    grid-gap: 1rem;
+  }
+  .grid > div {
+    background: #EDE7F6;
+    padding: 1.5rem;
+    border-radius: 1rem;
+  }
+  body {
+    margin: 2rem;
+    font: 12px system-ui;
+  }
+}
+
 
