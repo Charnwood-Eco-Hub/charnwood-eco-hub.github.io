@@ -13,3 +13,4 @@ header:
     - label: "Donate"
       url: "https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY"
 ---
+For all the latest Charnwood Eco Hub updates, [subscribe to our newsletter &raquo;](/contact)

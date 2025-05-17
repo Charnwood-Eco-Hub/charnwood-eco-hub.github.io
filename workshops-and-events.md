@@ -16,3 +16,4 @@ tags:
 - archive
 - upcoming
 ---
+To hear all about upcoming Charnwood Eco Hub workshops and events, [subscribe to our newsletter &raquo;](/contact)

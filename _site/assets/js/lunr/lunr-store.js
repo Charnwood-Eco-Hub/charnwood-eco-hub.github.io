@@ -222,19 +222,19 @@ var store = [{
         "teaser": "/assets/img/origami-butterfly-workshop-may2025-thumbnail.png"
       },{
         "title": "Charnwood Eco Hub Sustainable Sewing Workshop",
-        "excerpt":"Make a Morsbag Join us on 14th June 2025 for a hands-on sewing session where you’ll create your own Morsbag – a reusable, strong, and eco-friendly bag made entirely from recycled fabric that would otherwise go to landfill. Each participant will make at least two Morsbags: one to keep and...","categories": [],
+        "excerpt":"Make a Morsbag Join us on Saturday 14th June 2025 from 11AM to 1PM for a hands-on sewing session where you’ll create your own Morsbag – a reusable, strong, and eco-friendly bag made entirely from recycled fabric that would otherwise go to landfill. Each participant will make at least two...","categories": [],
         "tags": ["upcoming"],
         "url": "/workshops-and-events/morsbag-making-workshop-june2025/",
         "teaser": "/assets/img/thumbs/morsbag-making-workshop-june25-thumb.png"
       },{
         "title": "Charnwood Eco Hub Mandala Sewing Workshop",
-        "excerpt":"Mandala Sewing Workshop Sit a while and stitch a beautiful mandala design with Amanda. Suitable for total beginners. The workshop costs £15 per person and includes all materials. You can book in person in the Hub, using the QR code on the poster below or here - Mandala Sewing Workshop...","categories": [],
+        "excerpt":"Mandala Sewing Workshop Join us on Saturday 28th June from 11AM to 1PM to stitch a beautiful mandala design with Amanda. Suitable for total beginners. The workshop costs £15 per person and includes all materials. You can book in person in the Hub, using the QR code on the poster...","categories": [],
         "tags": ["upcoming"],
         "url": "/workshops-and-events/mandala-sewing-workshop-june25/",
         "teaser": "/assets/img/thumbs/mandala-sewing-workshop-june25-thumb.png"
       },{
         "title": "Charnwood Eco Hub Fabric Journal Roll Workshop",
-        "excerpt":"Fabric Journal Roll Workshop Discover the art of slow stitching and making a beautiful sari fabric journal roll. You will have the opportunity to make this item personal and sentimental by adding pieces of your own fabrics, buttons, beads, and broken jewellery. This unique item will be a keepsake you...","categories": [],
+        "excerpt":"Fabric Journal Roll Workshop Join us on Saturday July 12th 2025 from 11AM to 1PM to discover the art of slow stitching and making a beautiful sari fabric journal roll. You will have the opportunity to make this item personal and sentimental by adding pieces of your own fabrics, buttons,...","categories": [],
         "tags": ["upcoming"],
         "url": "/workshops-and-events/fabric-journal-roll-workshop/",
         "teaser": "/assets/img/thumbs/fabric-roll-workshop-july25-thumb.png"
