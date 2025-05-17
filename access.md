@@ -33,7 +33,7 @@ There is a <a href="https://www.google.co.uk/maps/place/The+Greyhound/@52.775385
 Public parking is available on Clarence Street, however please note that this is time limited during daytime hours.
 </div>
 <div class="grid__item">
-Disabled parking spaces can be arranged if required. Please contact us to arrange before yor visit.
+Disabled parking spaces can be arranged if required. Please contact us to arrange before your visit.
 </div>
 </div>
 
