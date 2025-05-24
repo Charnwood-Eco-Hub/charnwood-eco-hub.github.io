@@ -21,6 +21,7 @@ If you haven’t visited us yet, now’s the perfect time! Whether you're borrow
 
 **Our opening hours:**<br/>
 🕰 **Monday:** 5 PM – 9 PM<br/>
+(not bank holidays)<br/>
 🕰 **Wednesday:** 3 PM – 7 PM<br/>
 🕰 **Thursday:** 10 AM – 1 PM<br/>
 🕰 **Saturday:** 10 AM – 2 PM
