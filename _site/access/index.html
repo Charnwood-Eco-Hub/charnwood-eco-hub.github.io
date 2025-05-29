@@ -134,6 +134,11 @@
               <a href="/contact">Contact</a>
             </li></ul>
         
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">Toggle menu</span>
           <div class="navicon"></div>
@@ -237,9 +242,7 @@ Disabled parking spaces can be arranged if required. Please contact us to arrang
 </div>
 <div class="grid__item">
     🕰 <b>Opening Hours:</b><br />
-    <b>Monday:</b> 5PM–9PM<br />
-    (not bank holidays)<br />
-    <b>Wednesday:</b> 3PM–7PM<br />
+    <b>Wednesday:</b> 4PM–8PM<br />
     <b>Thursday:</b> 10AM–1PM<br />
     <b>Saturday:</b> 10AM–2PM<br />
 </div>
@@ -294,6 +297,17 @@ ing the day only)<br />
     </div>
 
     
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
 
     <div id="footer" class="page__footer">
       <footer>
@@ -346,6 +360,10 @@ Charnwood Eco Hub gratefully acknowledges the following organizations for their 
 
 
 
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
 
 
 

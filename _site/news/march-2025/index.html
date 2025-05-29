@@ -136,6 +136,11 @@
               <a href="/contact">Contact</a>
             </li></ul>
         
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">Toggle menu</span>
           <div class="navicon"></div>
@@ -209,7 +214,7 @@
 
 <p>Now that we’re officially open, we’d love for you to drop by and explore everything we have to offer. Whether you’re borrowing from our <a href="/projects/library-of-things">Library of Things</a>, finding hidden treasures in the <a href="/projects/scrapstore">Scrapstore</a>, or would like to volunteer with us, we’re here for it! Our <strong>opening hours</strong> are:</p>
 
-<p>🕰️ Wednesday: 3 PM – 7 PM<br />
+<p>🕰️ Wednesday: 4 PM – 8 PM<br />
 🕰️ Thursday 10 AM - 1 PM<br />
 🕰️ Saturday: 10 AM – 2 PM<br /></p>
 
@@ -320,7 +325,7 @@ March 11th, 6.30-8pm</p>
 <h1 id="where-to-find-us">Where to find us</h1>
 
 <p><strong>Opening Hours: (from 1st February 2025)</strong><br />
-Wednesdays 3-7pm (access via Clarence Street)<br />
+Wednesday 4-8pm (access via Clarence Street)<br />
 Thursday 10am-1pm (access via main SOFA entrance)<br />
 Saturday 10am-2pm (access via main SOFA entrance)<br /></p>
 
@@ -361,6 +366,17 @@ Saturday 10am-2pm (access via main SOFA entrance)<br /></p>
 
     </div>
 
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
     
 
     <div id="footer" class="page__footer">
@@ -414,6 +430,10 @@ Charnwood Eco Hub gratefully acknowledges the following organizations for their 
 
 
 
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
 
 
 
