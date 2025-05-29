@@ -20,9 +20,7 @@ With longer days and fresh spring energy in the air, we're excited to bring you 
 If you haven’t visited us yet, now’s the perfect time! Whether you're borrowing from our **Library of Things**, discovering treasures in the **Scrapstore**, or looking to **volunteer**, we’d love to see you. **From 28th April**, we will also be opening on **Monday evenings from 5pm-9pm**.
 
 **Our opening hours:**<br/>
-🕰 **Monday:** 5 PM – 9 PM<br/>
-(not bank holidays)<br/>
-🕰 **Wednesday:** 3 PM – 7 PM<br/>
+🕰 **Wednesday:** 4 PM – 8 PM<br/>
 🕰 **Thursday:** 10 AM – 1 PM<br/>
 🕰 **Saturday:** 10 AM – 2 PM
 
@@ -164,8 +162,7 @@ _Saturday 31st May, 9.30am-12.00pm_
 # Where to find us
 
 **Opening Hours: (from 1st February 2025)**<br/>
-Mondays 5-9pm (access via Clarence Street)
-Wednesdays 3-7pm (access via Clarence Street)<br/>
+Wednesdays 4-8pm (access via Clarence Street)<br/>
 Thursdays 10am-1pm (access via main SOFA entrance)<br/>
 Saturdays 10am-2pm (access via main SOFA entrance)<br/>
 

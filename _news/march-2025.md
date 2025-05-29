@@ -17,7 +17,7 @@ Welcome to the March edition of the Charnwood Eco Hub newsletter! As spring begi
 
 Now that we’re officially open, we’d love for you to drop by and explore everything we have to offer. Whether you’re borrowing from our [Library of Things](/projects/library-of-things), finding hidden treasures in the [Scrapstore](/projects/scrapstore), or would like to volunteer with us, we’re here for it! Our **opening hours** are:
 
-🕰️ Wednesday: 3 PM – 7 PM<br/>
+🕰️ Wednesday: 4 PM – 8 PM<br/>
 🕰️ Thursday 10 AM - 1 PM<br/>
 🕰️ Saturday: 10 AM – 2 PM<br/>
 
@@ -126,7 +126,7 @@ The **Great British Spring Clean** is back from **15th to 31st March**, and it�
 # Where to find us
 
 **Opening Hours: (from 1st February 2025)**<br/>
-Wednesdays 3-7pm (access via Clarence Street)<br/>
+Wednesday 4-8pm (access via Clarence Street)<br/>
 Thursday 10am-1pm (access via main SOFA entrance)<br/>
 Saturday 10am-2pm (access via main SOFA entrance)<br/>
 
