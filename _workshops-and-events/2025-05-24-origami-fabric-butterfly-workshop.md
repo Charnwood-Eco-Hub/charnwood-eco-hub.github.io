@@ -12,7 +12,7 @@ collection: workshops-and-events
 date: 2025-05-24
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Origami Fabric Butterfly Workshop
  
