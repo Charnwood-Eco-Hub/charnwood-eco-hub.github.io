@@ -24,7 +24,7 @@ No experience needed. Basic sewing skills helpful but not essential. All materia
 
 Slow down. Stitch memories. Take something meaningful home.
 
-The workshop costs £15 and includes all materials. You can book in person in the Hub, using the QR code on the poster below or here - [Sashiko-Style Slow Stitch Workshop poster](https://pay.sumup.com/b2c/QLFZ0JJC)
+The workshop costs £15 and includes all materials. You can book in person in the Hub, using the QR code on the poster below or here - [Sashiko-Style Slow Stitch Workshop](https://pay.sumup.com/b2c/QLFZ0JJC)
 
 [![Sashiko-Style Slow Stitch Workshop poster](/assets/img/sashiko-slow-stitch-workshop-poster-july2025.jpg){:width="75%"}]()
 
