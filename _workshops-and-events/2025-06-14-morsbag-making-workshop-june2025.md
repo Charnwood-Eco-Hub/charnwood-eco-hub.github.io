@@ -12,7 +12,7 @@ collection: workshops-and-events
 date: 2025-06-14
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Make a Morsbag
 
