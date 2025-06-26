@@ -223,7 +223,7 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Sustainable Sewing Workshop",
         "excerpt":"Make a Morsbag   Join us on Saturday 14th June 2025 from 11AM to 1PM for a hands-on sewing session where you’ll create your own Morsbag – a reusable, strong, and eco-friendly bag made entirely from recycled fabric that would otherwise go to landfill.   Each participant will make at least two Morsbags: one to keep and one to gift – spreading the message of sustainability. If you’re quick and make more than two, you’re welcome to keep them or take any unfinished ones home.   All materials will be provided, including pre-cut fabric, thread, and official Morsbag labels. Please bring your own fabric scissors if you have them. An iron and ironing board will be available at the venue.   Important Info:   🧵 Basic sewing experience is required – you should be comfortable using a sewing machine and rethreading it if needed. The sewing itself is simple (straight lines), but this session is not suitable for complete beginners.   👥 Ages 18+ only.   🧷 Sewing machines are available at the venue; workshop numbers will be limited accordingly.   ♻️ Morsbags are a fantastic way to reduce single-use plastic. Each one is unique, washable, and designed to last for years.   Let’s sew, chat, and make a real difference – one bag at a time!   The workshop costs £15 per person and includes all materials. You can book in person in the Hub, using the QR code on the poster below or here - Morsbag Making Workshop.      ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/morsbag-making-workshop-june2025/",
         "teaser": "/assets/img/thumbs/morsbag-making-workshop-june25-thumb.png"
       },{
@@ -240,7 +240,7 @@ var store = [{
         "teaser": "/assets/img/thumbs/fabric-roll-workshop-july25-thumb.png"
       },{
         "title": "Charnwood Eco Hub Sashiko-Style Slow Stitch Workshop",
-        "excerpt":"Sashiko-Style Slow Stitch Workshop   Join us from 11AM to 1PM on Saturday 26th July 2025 to discover the mindful art of slow stitching, inspired by Japanese Sashiko.   Create a unique patch for denim, a jar topper, a framed abstract piece - or simply enjoy the meditative processs.   No experience needed. Basic sewing skills helpful but not essential. All materials provided - or bring your own item to embellish.   Slow down. Stitch memories. Take something meaningful home.   The workshop costs £15 and includes all materials. You can book in person in the Hub, using the QR code on the poster below or here - Sashiko-Style Slow Stitch Workshop poster      ","categories": [],
+        "excerpt":"Sashiko-Style Slow Stitch Workshop   Join us from 11AM to 1PM on Saturday 26th July 2025 to discover the mindful art of slow stitching, inspired by Japanese Sashiko.   Create a unique patch for denim, a jar topper, a framed abstract piece - or simply enjoy the meditative processs.   No experience needed. Basic sewing skills helpful but not essential. All materials provided - or bring your own item to embellish.   Slow down. Stitch memories. Take something meaningful home.   The workshop costs £15 and includes all materials. You can book in person in the Hub, using the QR code on the poster below or here - Sashiko-Style Slow Stitch Workshop     ","categories": [],
         "tags": ["upcoming"],
         "url": "/workshops-and-events/sashiko-slow-stitch-workshop-july2025/",
         "teaser": "/assets/img/thumbs/sashiko-slow-stitch-workshop-poster-july2025-thumbnail.jpg"
@@ -250,6 +250,12 @@ var store = [{
         "tags": ["upcoming"],
         "url": "/workshops-and-events/charnwood-sustainability-fair-sept25/",
         "teaser": "/assets/img/charnwood-sustainability-fair-2025.png"
+      },{
+        "title": "Charnwood Eco Hub Creative Journalling Workshop",
+        "excerpt":"Creative Journalling Workshop   Join us from 11AM to 1PM on Saturday 25th October 2025 for a fun and interactive creative journalling workshop with Sam Berry, where you’ll explore unique techniques to using collage.   All materials are provided, but feel free to bring along a magazine to use in your collage if you’d like. Spaces are limited, so be sure to book in advance!   You can book in person in the Hub, using the QR code on the poster below or here - Creative Journalling Workshop      ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/creative-journalling-workshop-oct2025/",
+        "teaser": "/assets/img/thumbs/creative-journalling-workshop-oct2025-thumbnail.png"
       },{
         "title": "Christmas Eco Market",
         "excerpt":"Christmas Eco Market      We have confirmed that we will be running a Christmas Eco Market again this year in Loughborough Marketplace on Sunday 2nd November. It was a lovely day last year, and we had some amazing stallholders offering lovely handcrafted gifts, who were keen to come back. If you would like to book a stall, please complete a booking form here.   ","categories": [],
