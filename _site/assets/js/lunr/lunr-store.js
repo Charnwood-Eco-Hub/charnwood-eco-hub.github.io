@@ -239,11 +239,23 @@ var store = [{
         "url": "/workshops-and-events/fabric-journal-roll-workshop/",
         "teaser": "/assets/img/thumbs/fabric-roll-workshop-july25-thumb.png"
       },{
+        "title": "Charnwood Eco Hub Bicycle Repair Cafe",
+        "excerpt":"Bicycle Repair Cafe   Start your weekend with a useful and eco-friendly vibe!   Join us for a relaxing community bike repair cafe.   Enjoy the company, and repair your bike with us in the Charnwood Eco Hub Space with our bike repair volunteers.   1st Floor,  Towles Mill Building (SOFA),  Clarence Street,  Loughborough, LE11 1DY  info@charnwoodecohub.org  01509 447075   (We have a lift to bring your bikes upstairs!)   No Booking required   Free to attend but Donations Welcome     ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/bicycle-repair-cafe-july25/",
+        "teaser": "/assets/img/thumbs/bicycle-repair-cafe-july25.png"
+      },{
         "title": "Charnwood Eco Hub Sashiko-Style Slow Stitch Workshop",
         "excerpt":"Sashiko-Style Slow Stitch Workshop   Join us from 11AM to 1PM on Saturday 26th July 2025 to discover the mindful art of slow stitching, inspired by Japanese Sashiko.   Create a unique patch for denim, a jar topper, a framed abstract piece - or simply enjoy the meditative processs.   No experience needed. Basic sewing skills helpful but not essential. All materials provided - or bring your own item to embellish.   Slow down. Stitch memories. Take something meaningful home.   The workshop costs £15 and includes all materials. You can book in person in the Hub, using the QR code on the poster below or here - Sashiko-Style Slow Stitch Workshop     ","categories": [],
         "tags": ["upcoming"],
         "url": "/workshops-and-events/sashiko-slow-stitch-workshop-july2025/",
         "teaser": "/assets/img/thumbs/sashiko-slow-stitch-workshop-poster-july2025-thumbnail.jpg"
+      },{
+        "title": "Charnwood Eco Hub Pocket Journal Workshop",
+        "excerpt":"Pocket Journal Workshop   Join us from 11AM to 1PM on Saturday 9th August 2025 and learn to make you own pocket journal book using various papers such as recycled, handmade, maps and music sheets.   Fill the pockets with tags, cards and tickets. This will be a book and you can continue to create and decorate. Make for yourself or as a personalised gift for someone.   Spend a fulfilling afternoon learning and creating in a relaxed environment and discover the satisfaction of handmade art.   The workshop costs £15 and includes all materials. You can book in person in the Hub, using the QR code on the poster below or here - Pocket Journal Workshop     ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/pocket-journal-workshop-aug25/",
+        "teaser": "/assets/img/thumbs/pocket-journal-workshop-aug25.png"
       },{
         "title": "Charnwood Sustainability Fair",
         "excerpt":"The Charnwood Sustainability Fair      This year’s Sustainability Fair will take place on Sunday 21st September 2025 in Queen’s Park Loughborough from 10am-3pm, highlighting green initiatives and fostering community collaboration.   This much-anticipated event is a perfect opportunity for local businesses, organisations, and artisans to showcase their sustainable products and and eco-friendly services, and their knowledge and projects.   We will have stalls representing a variety of local sustainability and eco groups, including Transition Loughborough, Incredible Edibles, etc. sharing information on their projects, how you can get involved and how you can lower your own carbon footprint, as well as entertainment, workshops and local small businesses selling sustainable products and gifts, like Men &amp; Women in Sheds and Buckingham Bees.   Don’t miss your chance to be part of these inspiring events! Apply now to help shape a sustainable Charnwood.   ","categories": [],
