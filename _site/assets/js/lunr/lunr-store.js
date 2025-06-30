@@ -229,7 +229,7 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Mandala Sewing Workshop",
         "excerpt":"Mandala Sewing Workshop   Join us on Saturday 28th June from 11AM to 1PM to stitch a beautiful mandala design with Amanda. Suitable for total beginners.   The workshop costs £15 per person and includes all materials. You can book in person in the Hub, using the QR code on the poster below or here - Mandala Sewing Workshop      ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/mandala-sewing-workshop-june25/",
         "teaser": "/assets/img/thumbs/mandala-sewing-workshop-june25-thumb.png"
       },{
@@ -256,6 +256,12 @@ var store = [{
         "tags": ["upcoming"],
         "url": "/workshops-and-events/pocket-journal-workshop-aug25/",
         "teaser": "/assets/img/thumbs/pocket-journal-workshop-aug25-thumbnail.png"
+      },{
+        "title": "Charnwood Eco Hub Sustainable Fashion Workshop",
+        "excerpt":"Sustainable Fashion Workshop   Have clothes you don’t want to give up? Maybe from a beloved parent or child?   Something you fancied from a charity shop but didn’t fit? Shrunken wool sweaters?   Join us from 6PM to 8PM on Wednesday 17th September 2025 for a talk, demonstration and sharing of ideas on rescuing, altering and upcycling fabric.   Bring your own garments if you wish.   Keen upcycler Suella Postles will share her enthusiasm for making sure things have the longest life possible. Lots of examples of fabric reuse.   Light Refreshments. £5 to book a place.   You can book in person in the Hub, using the QR code on the poster below or here - Sustainable Fashion Workshop     ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/sustainable-fashion-workshop-sept25/",
+        "teaser": "/assets/img/thumbs/sustainable-fashion-workshop-sept25-thumbnail.png"
       },{
         "title": "Charnwood Sustainability Fair",
         "excerpt":"The Charnwood Sustainability Fair      This year’s Sustainability Fair will take place on Sunday 21st September 2025 in Queen’s Park Loughborough from 10am-3pm, highlighting green initiatives and fostering community collaboration.   This much-anticipated event is a perfect opportunity for local businesses, organisations, and artisans to showcase their sustainable products and and eco-friendly services, and their knowledge and projects.   We will have stalls representing a variety of local sustainability and eco groups, including Transition Loughborough, Incredible Edibles, etc. sharing information on their projects, how you can get involved and how you can lower your own carbon footprint, as well as entertainment, workshops and local small businesses selling sustainable products and gifts, like Men &amp; Women in Sheds and Buckingham Bees.   Don’t miss your chance to be part of these inspiring events! Apply now to help shape a sustainable Charnwood.   ","categories": [],

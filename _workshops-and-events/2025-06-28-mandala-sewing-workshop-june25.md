@@ -12,7 +12,7 @@ collection: workshops-and-events
 date: 2025-06-28
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Mandala Sewing Workshop
  
