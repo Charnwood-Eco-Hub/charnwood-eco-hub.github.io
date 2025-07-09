@@ -3,6 +3,7 @@ title: Charnwood Eco Hub Makerspace
 layout: single
 collection: projects
 header:
+  show_overlay_excerpt: false
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   teaser: /assets/img/charnwood-eco-hub-signage.jpg
   actions:

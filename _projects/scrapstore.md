@@ -3,6 +3,7 @@ title: Charnwood Eco Hub Scrapstore
 layout: single
 collection: projects
 header:
+  show_overlay_excerpt: false
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   teaser: /assets/img/scrapstore-1.jpg
   actions:
