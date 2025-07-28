@@ -12,7 +12,7 @@ collection: workshops-and-events
 date: 2025-07-12
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Fabric Journal Roll Workshop
  

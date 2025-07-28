@@ -12,7 +12,7 @@ collection: workshops-and-events
 date: 2025-07-26
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Sashiko-Style Slow Stitch Workshop
  

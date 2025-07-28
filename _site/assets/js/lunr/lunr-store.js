@@ -253,19 +253,19 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Fabric Journal Roll Workshop",
         "excerpt":"Fabric Journal Roll Workshop   Join us on Saturday July 12th 2025 from 11AM to 1PM to discover the art of slow stitching and making a beautiful sari fabric journal roll.      You will have the opportunity to make this item personal and sentimental by adding pieces of your own fabrics, buttons, beads, and broken jewellery.   This unique item will be a keepsake you can proudly take home.  Spend a fulfilling afternoon learning and creating in a relaxed environment and discover the satisfaction of handmade art.   The workshop costs £15 and includes all materials. You can book in person in the Hub, using the QR code on the poster below or here - Fabric Journal Roll Workshop      ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/fabric-journal-roll-workshop/",
         "teaser": "/assets/img/thumbs/fabric-roll-workshop-july25-thumb.png"
       },{
         "title": "Charnwood Eco Hub Bicycle Repair Cafe",
         "excerpt":"Bicycle Repair Cafe   Start your weekend with a useful and eco-friendly vibe!   Join us for a relaxing community bike repair cafe.   Enjoy the company, and repair your bike with us in the Charnwood Eco Hub Space with our bike repair volunteers.   1st Floor,  Towles Mill Building (SOFA),  Clarence Street,  Loughborough, LE11 1DY  info@charnwoodecohub.org  01509 447075   (We have a lift to bring your bikes upstairs!)   No Booking required   Free to attend but Donations Welcome     ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/bicycle-repair-cafe-july25/",
         "teaser": "/assets/img/thumbs/bicycle-repair-cafe-july25-thumbnail.png"
       },{
         "title": "Charnwood Eco Hub Sashiko-Style Slow Stitch Workshop",
         "excerpt":"Sashiko-Style Slow Stitch Workshop   Join us from 11AM to 1PM on Saturday 26th July 2025 to discover the mindful art of slow stitching, inspired by Japanese Sashiko.   Create a unique patch for denim, a jar topper, a framed abstract piece - or simply enjoy the meditative processs.   No experience needed. Basic sewing skills helpful but not essential. All materials provided - or bring your own item to embellish.   Slow down. Stitch memories. Take something meaningful home.   The workshop costs £15 and includes all materials. You can book in person in the Hub, using the QR code on the poster below or here - Sashiko-Style Slow Stitch Workshop     ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/sashiko-slow-stitch-workshop-july2025/",
         "teaser": "/assets/img/thumbs/sashiko-slow-stitch-workshop-poster-july2025-thumbnail.jpg"
       },{

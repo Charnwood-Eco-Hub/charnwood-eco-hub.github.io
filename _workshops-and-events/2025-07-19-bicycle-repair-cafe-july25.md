@@ -12,7 +12,7 @@ collection: workshops-and-events
 date: 2025-07-19
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Bicycle Repair Cafe
  
