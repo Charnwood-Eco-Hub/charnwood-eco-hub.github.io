@@ -21,7 +21,7 @@ Now that we’re officially open, we’d love for you to drop by and explore eve
 🕰️ Thursday 10 AM - 1 PM<br/>
 🕰️ Saturday: 10 AM – 2 PM<br/>
 
-You can find us on the first floor at SOFA, Towles Mill Building, Clarence Street, Loughborough, LE11 1DY. Daytime entry via the SOFA main entrance; evening access via the Clarence Street side entrance (lift access daytime only)
+You can find us on the first floor at SOFA, Towles Mill Building, Clarence Street, Loughborough, LE11 1DY. Daytime entry via the SOFA main entrance; evening access via the Clarence Street side entrance, opposite Travis Perkins (lift access daytime only)
 
 Read on for exciting events, workshops, and community projects happening soon. Let’s keep the momentum going! 💚♻️
 
@@ -126,7 +126,7 @@ The **Great British Spring Clean** is back from **15th to 31st March**, and it�
 # Where to find us
 
 **Opening Hours: (from 1st February 2025)**<br/>
-Wednesday 4-8pm (access via Clarence Street)<br/>
+Wednesday 4-8pm (access via Clarence Street, opposite Travis Perkins)<br/>
 Thursday 10am-1pm (access via main SOFA entrance)<br/>
 Saturday 10am-2pm (access via main SOFA entrance)<br/>
 

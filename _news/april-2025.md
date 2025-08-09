@@ -26,7 +26,7 @@ If you haven’t visited us yet, now’s the perfect time! Whether you're borrow
 
 📍 Find us on the first floor at **SOFA, Towles Mill Building, Clarence Street, Loughborough, LE11 1DY**<br/>
 👉 **Daytime entry:** via the SOFA main entrance<br/>
-👉 **Evening entry:** via the Clarence Street side entrance _(lift access available during the day only)_
+👉 **Evening entry:** via the Clarence Street side entrance opposite Travis Perkins _(lift access available during the day only)_
 
 Keep reading for exciting workshops, events, and community projects happening this month. Let’s keep making a difference together! 💚♻️
 

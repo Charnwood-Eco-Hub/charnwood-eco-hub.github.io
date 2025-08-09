@@ -155,7 +155,7 @@ Whether it’s a workshop, clean-up day, educational talk, or market, sharing yo
 # Where to find us
 
 **Opening Hours: (from 1st February 2025)**<br/>
-Wednesdays 4-8pm (access via Clarence Street)<br/>
+Wednesdays 4-8pm (access via Clarence Street, opposite Travis Perkins)<br/>
 Thursday 10am-1pm (access via main SOFA entrance)<br/>
 Saturday 10am-2pm (access via main SOFA entrance)<br/>
 
