@@ -12,7 +12,7 @@ collection: workshops-and-events
 date: 2025-08-09
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Pocket Journal Workshop
  
