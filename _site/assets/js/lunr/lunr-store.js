@@ -271,15 +271,27 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Pocket Journal Workshop",
         "excerpt":"Pocket Journal Workshop   Join us from 11AM to 1PM on Saturday 9th August 2025 and learn to make you own pocket journal book using various papers such as recycled, handmade, maps and music sheets.   Fill the pockets with tags, cards and tickets. This will be a book and you can continue to create and decorate. Make for yourself or as a personalised gift for someone.   Spend a fulfilling afternoon learning and creating in a relaxed environment and discover the satisfaction of handmade art.   The workshop costs £15 and includes all materials. You can book in person in the Hub, using the QR code on the poster below or here - Pocket Journal Workshop     ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/pocket-journal-workshop-aug25/",
         "teaser": "/assets/img/thumbs/pocket-journal-workshop-aug25-thumbnail.png"
       },{
         "title": "Charnwood Eco Hub Peg Doll Making Workshop",
         "excerpt":"Peg Doll Making Workshop   Join us from 10.30AM to 12.30PM on Thursday 14th August 2025 for a fun and creative session for adults and children aged 10 and up.   Learn how to design and decorate your very own wooden peg doll to take home.  No experience needed - just bring your imagination!   All materials provided. £7.50 per person. Suitable for adults and children (age 10+). Children must be accompanied by an adult.   You can book in person in the Hub, using the QR code on the poster below or here - Peg Doll Making workshop     ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/peg-doll-making-workshop-aug2025/",
         "teaser": "/assets/img/thumbs/peg-doll-making-workshop-aug2025-poster-thumbnail.jpg"
+      },{
+        "title": "Charnwood Eco Hub Screen Printing Workshop - Part 1",
+        "excerpt":"Screen Printing Workshop - Part 1   Join us from 11AM to 1PM on Saturday 23rd August 2025 for the first part of our screen printing workshop. £15 per person.   Learn to make your own design and screen.   You can book in person in the Hub, using the QR code on the poster below or here - Screen Printing Workshop Part 1     ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/screen-printing-workshop-part1/",
+        "teaser": "/assets/img/thumbs/screen-printing-workshop-aug2025-poster-thumbnail.png"
+      },{
+        "title": "Charnwood Eco Hub Screen Printing Workshop - Part 2",
+        "excerpt":"Screen Printing Workshop - Part 2   Join us from 11AM to 1PM on Saturday 13th September 2025 for the second half of our screen printing workshop. £15 per person.   Learn to make your own design and screen.   You can book in person in the Hub, using the QR code on the poster below or here - Screen Printing Workshop Part 2     ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/screen-printing-workshop-part2/",
+        "teaser": "/assets/img/thumbs/screen-printing-workshop-sep2025-poster-thumbnail.png"
       },{
         "title": "Charnwood Eco Hub Sustainable Fashion Workshop",
         "excerpt":"Sustainable Fashion Workshop   Have clothes you don’t want to give up? Maybe from a beloved parent or child?   Something you fancied from a charity shop but didn’t fit? Shrunken wool sweaters?   Join us from 6PM to 8PM on Wednesday 17th September 2025 for a talk, demonstration and sharing of ideas on rescuing, altering and upcycling fabric.   Bring your own garments if you wish.   Keen upcycler Suella Postles will share her enthusiasm for making sure things have the longest life possible. Lots of examples of fabric reuse.   Light Refreshments. £5 to book a place.   You can book in person in the Hub, using the QR code on the poster below or here - Sustainable Fashion Workshop     ","categories": [],
@@ -292,6 +304,12 @@ var store = [{
         "tags": ["upcoming"],
         "url": "/workshops-and-events/charnwood-sustainability-fair-sept25/",
         "teaser": "/assets/img/charnwood-sustainability-fair-2025.png"
+      },{
+        "title": "Charnwood Eco Hub Rag Rug Workshop",
+        "excerpt":"Rag Rug Workshop   Join us from 11AM to 1PM on Saturday 27th September 2025 and learn how to make a rag rug.   Slow down. Weave memories. Take something meaningful home.   Learn this traditional technique by creating a small sample piece - perfect for beginners. No experience needed.   All material provided, using recycled fabric from the Scrapstore - or bring your own to reimagine.  £15 per person.   You can book in person in the Hub, using the QR code on the poster below or here - Rag Rug Workshop     ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/rag-rug-workshop-sep2025/",
+        "teaser": "/assets/img/thumbs/rag-rug-workshop-sep2025-poster-thumbnail.png"
       },{
         "title": "Charnwood Eco Hub Creative Journalling Workshop",
         "excerpt":"Creative Journalling Workshop   Join us from 11AM to 1PM on Saturday 25th October 2025 for a fun and interactive creative journalling workshop with Sam Berry, where you’ll explore unique techniques to using collage.   All materials are provided, but feel free to bring along a magazine to use in your collage if you’d like. Spaces are limited, so be sure to book in advance!   You can book in person in the Hub, using the QR code on the poster below or here - Creative Journalling Workshop      ","categories": [],
