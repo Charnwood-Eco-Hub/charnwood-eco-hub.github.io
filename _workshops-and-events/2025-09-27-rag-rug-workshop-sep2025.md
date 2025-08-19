@@ -26,4 +26,4 @@ All material provided, using recycled fabric from the Scrapstore - or bring your
 
 You can book in person in the Hub, using the QR code on the poster below or here - [Rag Rug Workshop](https://www.eventbookings.com/b/event/rag-rug-taster-workshop)
 
-[![Rag Rug Workshop](/assets/img/rag-rug-workshop-sept2025-poster.png){:width="75%"}](https://www.eventbookings.com/b/event/rag-rug-taster-workshop)
+[![Rag Rug Workshop](/assets/img/rag-rug-workshop-sep2025-poster.png){:width="75%"}](https://www.eventbookings.com/b/event/rag-rug-taster-workshop)

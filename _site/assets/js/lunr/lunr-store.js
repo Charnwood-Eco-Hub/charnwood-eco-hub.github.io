@@ -281,14 +281,14 @@ var store = [{
         "url": "/workshops-and-events/peg-doll-making-workshop-aug2025/",
         "teaser": "/assets/img/thumbs/peg-doll-making-workshop-aug2025-poster-thumbnail.jpg"
       },{
-        "title": "Charnwood Eco Hub Screen Printing Workshop - Part 1",
-        "excerpt":"Screen Printing Workshop - Part 1   Join us from 11AM to 1PM on Saturday 23rd August 2025 for the first part of our screen printing workshop. £15 per person.   Learn to make your own design and screen.   You can book in person in the Hub, using the QR code on the poster below or here - Screen Printing Workshop Part 1     ","categories": [],
+        "title": "Charnwood Eco Hub Screenprinting Workshop - Part 1",
+        "excerpt":"Screenprinting Workshop - Part 1   Join us from 11AM to 1PM on Saturday 23rd August 2025 for the first part of our screenprinting workshop. £15 per person.   Learn to make your own design and screen.   You can book in person in the Hub, using the QR code on the poster below or here - Screenprinting Workshop Part 1     ","categories": [],
         "tags": ["upcoming"],
         "url": "/workshops-and-events/screen-printing-workshop-part1/",
         "teaser": "/assets/img/thumbs/screen-printing-workshop-aug2025-poster-thumbnail.png"
       },{
-        "title": "Charnwood Eco Hub Screen Printing Workshop - Part 2",
-        "excerpt":"Screen Printing Workshop - Part 2   Join us from 11AM to 1PM on Saturday 13th September 2025 for the second half of our screen printing workshop. £15 per person.   Learn to make your own design and screen.   You can book in person in the Hub, using the QR code on the poster below or here - Screen Printing Workshop Part 2     ","categories": [],
+        "title": "Charnwood Eco Hub Screenprinting Workshop - Part 2",
+        "excerpt":"Screenprinting Workshop - Part 2   Join us from 11AM to 1PM on Saturday 13th September 2025 for the second half of our screenprinting workshop. £15 per person.   Learn the principles of screenprinting and have a go!   You can book in person in the Hub, using the QR code on the poster below or here - Screenprinting Workshop Part 2     ","categories": [],
         "tags": ["upcoming"],
         "url": "/workshops-and-events/screen-printing-workshop-part2/",
         "teaser": "/assets/img/thumbs/screen-printing-workshop-sep2025-poster-thumbnail.png"

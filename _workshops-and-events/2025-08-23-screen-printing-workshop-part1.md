@@ -1,5 +1,5 @@
 ---
-title: Charnwood Eco Hub Screen Printing Workshop - Part 1
+title: Charnwood Eco Hub Screenprinting Workshop - Part 1
 layout: single
 header:
   show_overlay_excerpt: false
@@ -14,12 +14,12 @@ released: true
 tags:
 - upcoming
 ---
-# Screen Printing Workshop - Part 1
+# Screenprinting Workshop - Part 1
  
-Join us from 11AM to 1PM on Saturday 23rd August 2025 for the first part of our screen printing workshop. £15 per person.
+Join us from 11AM to 1PM on Saturday 23rd August 2025 for the first part of our screenprinting workshop. £15 per person.
 
 **Learn to make your own design and screen.**
 
-You can book in person in the Hub, using the QR code on the poster below or here - [Screen Printing Workshop Part 1](https://www.eventbookings.com/b/event/screenprinting-workshop-part-one)
+You can book in person in the Hub, using the QR code on the poster below or here - [Screenprinting Workshop Part 1](https://www.eventbookings.com/b/event/screenprinting-workshop-part-one)
 
-[![Screen Printing Workshop Part 1 Poster](/assets/img/screen-printing-workshop-aug2025-poster.png){:width="75%"}](https://www.eventbookings.com/b/event/screenprinting-workshop-part-one)
+[![Screenprinting Workshop Part 1 Poster](/assets/img/screen-printing-workshop-aug2025-poster.png){:width="75%"}](https://www.eventbookings.com/b/event/screenprinting-workshop-part-one)
