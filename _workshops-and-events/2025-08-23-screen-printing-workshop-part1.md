@@ -16,7 +16,7 @@ tags:
 ---
 # Screenprinting Workshop - Part 1
  
-Join us from 11AM to 1PM on Saturday 23rd August 2025 for the first part of our screenprinting workshop. £15 per person.
+Join us from 11AM to 1PM on Saturday 23rd August 2025 for the first half of our screenprinting workshop. £15 per person.
 
 **Learn to make your own design and screen.**
 
