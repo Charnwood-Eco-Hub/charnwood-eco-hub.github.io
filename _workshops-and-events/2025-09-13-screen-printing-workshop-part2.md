@@ -18,6 +18,8 @@ tags:
  
 Join us from 11AM to 1PM on Saturday 13th September 2025 for the second half of our screenprinting workshop. £15 per person.
 
+This 2-hour screenprinting class introduces the core principles of the craft, guiding participants through designing, preparing a screen, and pulling their first print. You can book onto this class without booking on to part one.
+
 **Learn the principles of screenprinting and have a go!**
 
 You can book in person in the Hub, using the QR code on the poster below or here - [Screenprinting Workshop Part 2](https://www.eventbookings.com/b/event/screenprinting-workshop-part-two)
