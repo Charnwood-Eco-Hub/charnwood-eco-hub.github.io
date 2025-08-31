@@ -1,5 +1,5 @@
 ---
-title: Charnwood Eco Hub Membership Application
+title: Charnwood Eco Hub Membership Application - Scrapstore
 layout: single
 sitemap: false
 header:

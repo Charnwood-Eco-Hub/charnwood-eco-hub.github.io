@@ -4,7 +4,7 @@ layout: single
 header:
   show_overlay_excerpt: false
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
-  teaser: /assets/img/neurographic-art-workshop-may2025-thumbnail.png
+  teaser: /assets/img/thumbs/neurographic-art-workshop-may2025-thumbnail.png
   actions:
     - label: "Donate"
       url: "https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY"

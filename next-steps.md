@@ -1,5 +1,5 @@
 ---
-title: Thanks and Next Steps
+title: Thanks and Next Steps - Scrapstore Membership
 layout: single
 sitemap: false
 header:
@@ -11,7 +11,7 @@ header:
 
 **Thanks and Next Steps**
 
-Thank you for your interest in Charnwood Eco Hub!  To activate your membership, you now need to pay your membership dues.  You can do this by clicking on the relevant link below or scanning the QR code for the membership plan.
+Thank you for your interest in Charnwood Eco Hub!  To activate your scrapstore membership, you now need to pay your membership dues.  You can do this by clicking on the relevant link below or scanning the QR code for the membership plan.
 
 **Payment links**
 

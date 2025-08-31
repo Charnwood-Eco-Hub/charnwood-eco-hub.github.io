@@ -5,11 +5,6 @@
         "content": "# Charnwood Eco Hub Terms and Conditions\n\n{% include feature_row id=\"feature_row_terms\" %}\n\n# Charnwood Eco Hub Policies\n\n{% include feature_row id=\"feature_row_policies\" %}"
     },
     {
-        "title": "Page Not Found",
-        "url": "/404.html",
-        "content": "Basically, these are not the droids you are looking for."
-    },
-    {
         "title": "Charnwood Eco Hub Projects",
         "url": "/projects.html",
         "content": "To find out more about Charnwood Eco Hub projects, [subscribe to our newsletter &raquo;](/contact)"
@@ -30,17 +25,12 @@
         "content": "**Subscribe to our newsletter**\n\n{% include signup.html %}\n\n**Get in touch**\n\n![Charnwood Eco Hub logo](/assets/img/charnwood-eco-hub-cropped.jpg \"Charnwood Eco Hub Logo\"){: .align-left} Charnwood Eco Hub CIC, 102 Ashby Road, Loughborough, United Kingdom\n\nEmail: [info@charnwoodecohub.org](mailto:info@charnwoodecohub.org) or phone: [01509 447075](tel:+44-1509-447075)\n\nYou can also [contact us via our Facebook Page](https://www.facebook.com/CharnwoodEcoHub)"
     },
     {
-        "title": "",
-        "url": "/README.html",
-        "content": "# charnwood-eco-hub.github.io"
-    },
-    {
         "title": "Charnwood Eco Hub Workshops and Events",
         "url": "/workshops-and-events.html",
         "content": "To hear all about upcoming Charnwood Eco Hub workshops and events, [subscribe to our newsletter &raquo;](/contact)"
     },
     {
-        "title": "Charnwood Eco Hub Membership Application",
+        "title": "Charnwood Eco Hub Membership Application - Scrapstore",
         "url": "/signup.html",
         "content": "**Thank you for your interest in Charnwood Eco Hub!**\n\nPlease complete the application form below to apply for membership of the Charnwood Eco Hub Scrapstore. The Charnwood Eco Hub Library of Things has its own application process which is available separately.\n\n<form id=\"signup_form\" method=\"POST\" action=\"https://script.google.com/macros/s/AKfycbznGrjwMz91HIu8LhqD1cYvy_H8Rc6ccdUPRzjq4JlPggbU1i6lqC01ZJRiKHdWpWO3_g/exec\">\n<label for=\"Membership_Type\">Membership Type</label>\n<select id=\"Membership_Type\" name=\"Membership_Type\" type=\"text\" required>\n<option value=\"Scrapstore:Indiv\">Scrapstore: Individual/Family/Childminder Membership (\u00a315.00/Yearly)</option>\n<option value=\"Scrapstore:Disc\">Scrapstore: Student/Low income/Unwaged Membership (\u00a310.00/Yearly)</option>\n<option value=\"Scrapstore:Group\">Scrapstore: Community Groups/Schools Membership (from \u00a340.00/Yearly)</option>\n</select>\n<label for=\"Name\">Your Name (required)</label>\n<input id=\"Name\" name=\"Name\" type=\"text\" placeholder=\"Your name\" required>\n<label for=\"Organisation\">Community Group / School (where applicable)</label>\n<input id=\"Organisation\" name=\"Organisation\" type=\"text\" placeholder=\"Your community group or school's name\">\n<label for=\"Phone\">Contact Phone Number (required)</label>\n<input id=\"Phone\" name=\"Phone\" type=\"text\" placeholder=\"Phone Number\" required>\n<label for=\"Email\">Contact Email Addresss (required)</label>\n<input id=\"Email\" name=\"Email\" type=\"email\" placeholder=\"Email Address\">\n<label for=\"How_Found\">How did you find out about Charnwood Eco Hub?</label>\n<select name=\"How_Found\" type=\"text\">\n<option value=\"Leaflet_Poster\">Leaflet/Poster</option>\n<option value=\"Website\">Website</option>\n<option value=\"Word_of_mouth\">Word of mouth</option>\n<option value=\"Social_Media\">Social Media</option>\n<option value=\"Other\">Other</option>\n</select>\n<label for=\"Accepted_Policies\" required>By ticking this box I accept Charnwood Eco Hub's <a href=\"/policies\">Terms & Conditions and Data Protection Policy</a>.</label><input id=\"Accepted_Policies\" name=\"Accepted_Policies\" value=\"yes\" type=\"checkbox\">\n<div id=\"foo\">\n<p>\n</p>\n</div>\n<button type=\"submit\">Submit Your Application</button>\n</form>\n\n<script type = \"text/javascript\" >\n    window.addEventListener(\"DOMContentLoaded\", function() {\n        const yourForm = document.getElementById('signup_form');\n        yourForm.addEventListener(\"submit\", function(e) {\n            e.preventDefault();\n            const data = new FormData(yourForm);\n            const action = e.target.action;\n            fetch(action, {\n                method: 'POST',\n                body: data,\n            }).then(() => {\n                window.location.replace('https://charnwoodecohub.org/next-steps')\n            })\n        })\n    });\n</script>"
     },
@@ -48,11 +38,6 @@
         "title": "Donate to Charnwood Eco Hub",
         "url": "/donate.html",
         "content": "**Why not make a donation to support Charnwood Eco Hub?**\n\n<form action=\"https://www.paypal.com/donate\" method=\"post\" target=\"_top\" style=\"background-color: #ffffff\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"V54MWPK2EZGPY\" />\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif\" border=\"0\"\nname=\"submit\" title=\"Donate to Charnwood Eco Hub via PayPal\" alt=\"Donate with PayPal button\" />\n</form>"
-    },
-    {
-        "title": "Thanks and Next Steps",
-        "url": "/next-steps.html",
-        "content": "**Thanks and Next Steps**\n\nThank you for your interest in Charnwood Eco Hub!  To activate your membership, you now need to pay your membership dues.  You can do this by clicking on the relevant link below or scanning the QR code for the membership plan.\n\n**Payment links**\n\n<div>\n<p><a href=\"https://pay.sumup.com/b2c/QTCMKGXS\">Scrapstore: Group membership</a> - \u00a340 Yearly\n<details>\n<summary>Show QR code</summary>\n<img alt=\"Scrapstore group membership QR code\" src=\"/assets/img/scrapstore-group-qr.png\" style=\"width:250px; height:250px\"/>\n</details>\n</p>\n</div>\n\n<div>\n<p><a href=\"https://pay.sumup.com/b2c/Q3IYYC1L\">Scrapstore: Individual / Family membership</a> - \u00a315 Yearly\n<details>\n<summary>Show QR code</summary>\n<img alt=\"Scrapstore individual / family membership QR code\" src=\"/assets/img/scrapstore-indiv-qr.png\" style=\"width:250px; height:250px\"/>\n</details>\n</p>\n</div>\n\n<div>\n<p><a href=\"https://pay.sumup.com/b2c/QYTXLKU1\">Scrapstore: Student / Low income / unwaged membership</a> - \u00a310 Yearly\n<details>\n<summary>Show QR code</summary>\n<img alt=\"Scrapstore student / low income / unwaged membership QR code\" src=\"/assets/img/scrapstore-disc-qr.png\" style=\"width:250px; height:250px\"/>\n</details>\n</p>\n</div>\n\nPlease note, your application will not be approved until payment has been received. If you need to use a different payment method, please call 01509447075 or email [info@charnwoodecohub.org](mailto:info@charnwoodecohub.org)."
     },
     {
         "title": "Visiting Charnwood Eco Hub",
@@ -315,6 +300,11 @@
         "content": "# Christmas Eco Market\n\n![Christmas Eco Market](/assets/img/christmas-market-2025.png)\n\nWe have confirmed that we will be running a Christmas Eco Market again this year in Loughborough Marketplace on Sunday 2nd November. It was a lovely day last year, and we had some amazing stallholders offering lovely handcrafted gifts, who were keen to come back. If you would like to book a stall, please complete a booking form [here](https://forms.gle/251BuviM8sUUjtHE6)."
     },
     {
+        "title": "Charnwood Eco Hub Peg Doll Making Workshop",
+        "url": "/2025-10-23-peg-doll-making-workshop-oct25.html",
+        "content": "# Peg Doll Making Workshop\n \nJoin us from 10.30AM to 12.30PM on Thursday 23rd October 2025 for a fun and creative session for adults and children aged 10 and up.\n\n**Learn how to design and decorate your very own wooden peg doll to take home.  No experience needed - just bring your imagination!**\n\nAll materials provided. \u00a37.50 per person. Suitable for adults and children (age 10+). Children must be accompanied by an adult.\n\nYou can book in person in the Hub, using the QR code on the poster below or here - [Peg Doll Making workshop](https://www.eventbookings.com/b/event/peg-doll-workshop)\n\n[![Peg Doll Making workshop poster](/assets/img/peg-doll-making-workshop-oct25.png){:width=\"75%\"}](https://www.eventbookings.com/b/event/peg-doll-workshop)"
+    },
+    {
         "title": "Charnwood Eco Hub Plus Size Clothes Swap",
         "url": "/2025-04-27-plus-size-clothes-swap-april2025.html",
         "content": "# Plus size clothes swap - 27th April 2025\n \nWe're running a Plus Size Clothes Swap in the Hub on Sunday 27th April from 11AM to 2PM. All genders welcome, suitable for size 16/XL+, and tickets are on a pay as you feel basis (suggested donations of between \u00a32-\u00a35).  You can book your tickets [here](https://pay.sumup.com/b2c/QOPDM899).\n\n[![Plus size clothes swap poster](/assets/img/clothes-swap-april2025.png){:width=\"75%\"}](https://pay.sumup.com/b2c/QOPDM899)"
@@ -338,5 +328,10 @@
         "title": "Charnwood Eco Hub Mandala Sewing Workshop",
         "url": "/2025-06-28-mandala-sewing-workshop-june25.html",
         "content": "# Mandala Sewing Workshop\n \nJoin us on Saturday 28th June from 11AM to 1PM to stitch a beautiful mandala design with Amanda. Suitable for total beginners.\n\nThe workshop costs \u00a315 per person and includes all materials. You can book in person in the Hub, using the QR code on the poster below or here - [Mandala Sewing Workshop](https://pay.sumup.com/b2c/QY0DLSRT)\n\n[![Mandala Sewing Workshop](/assets/img/mandala-sewing-workshop-poster-june25.png){:width=\"75%\"}](https://pay.sumup.com/b2c/QY0DLSRT){:width=\"400px\"}"
+    },
+    {
+        "title": "Charnwood Eco Hub Paper Flower Making Workshop",
+        "url": "/2025-10-11-paper-flower-workshop-oct25.html",
+        "content": "# Paper Flower Making Workshop\n \nJoin us from 11.00AM to 1.00PM on Saturday 11th October 2025 and learn how to make **Creatively Crafted Paper Roses.**\n\n_In this workshop you will be creating gorgeous paper roses and I will show you three ways of adding colour to your flowers._\n\nYou will be able to mount your flower in a deep box frame once it is thoroughly dry. No prior painting experience needed.\n\n\u00a315 per person. Suitable for 10 years+, with an accompanying adult.\n\nYou can book in person in the Hub, using the QR code on the poster below or here - [Paper Flower making workshop](https://www.eventbookings.com/b/event/paper-flower-workshop)\n\n[![Paper Flower making workshop poster](/assets/img/paper-flower-making-workshop-oct25.png){:width=\"75%\"}](https://www.eventbookings.com/b/event/paper-flower-workshop)"
     }
 ]

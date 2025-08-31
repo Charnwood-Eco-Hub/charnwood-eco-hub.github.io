@@ -9,7 +9,7 @@ header:
     - label: "Donate"
       url: "https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY"
 collection: workshops-and-events
-date: 2025-08-17
+date: 2025-08-14
 released: true
 tags:
 - archive

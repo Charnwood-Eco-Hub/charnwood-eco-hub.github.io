@@ -1,25 +1,30 @@
-.grid__item {
-  .archive__item-teaser {
+.archive__item {
+    p { margin-bottom: 0.1em; }
+    :hover { transform: scale(1.1); }
+}
+
+.archive__item-teaser {
+    img {
+        transition: transform .2s;
+        //height: auto;
+        //@include breakpoint($small) { height: auto; }
+        //@include breakpoint($medium) { height: auto; }
+        //@include breakpoint($large) { height: auto; }
+    }
+}
+
+.archive__item-title {
     @include breakpoint($small) {
-      object-fit: contain;
-      max-height: 200px;
+      margin-top: 0.1em;
     }
 
     @include breakpoint($medium) {
-      object-fit: contain;
-      max-height: 200px;
+      margin-top: 0.1em;
     }
-  }
 }
 
 .homepage_container {
-  .grid {
-    display: grid;
-    grid-template-columns: 50px auto;
-    grid-template-rows: auto;
-    grid-gap: 1rem;
-  }
-  .grid > div {
+  .entities-grid > div {
     background: #EDE7F6;
     padding: 1.5rem;
     border-radius: 1rem;
@@ -29,5 +34,4 @@
     font: 12px system-ui;
   }
 }
-
 
