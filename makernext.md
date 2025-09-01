@@ -16,7 +16,7 @@ Thank you for your interest in Charnwood Eco Hub!  To activate your makerspace m
 **Payment links**
 
 <div>
-<p><a href="">Makerspace: individual membership</a> - £??
+<p><a href="">Makerspace: individual membership</a> - £15
 <details>
 <summary>Show QR code</summary>
 <img alt="Scrapstore individual membership QR code" src="" style="width:250px; height:250px"/>
@@ -25,16 +25,7 @@ Thank you for your interest in Charnwood Eco Hub!  To activate your makerspace m
 </div>
 
 <div>
-<p><a href="">Makerspace: group membership</a> - £??
-<details>
-<summary>Show QR code</summary>
-<img alt="Makerspace group membership QR code" src="" style="width:250px; height:250px"/>
-</details>
-</p>
-</div>
-
-<div>
-<p><a href="">Makerspace: Student / Low income / unwaged membership</a> - £??
+<p><a href="">Makerspace: Student / Low income / unwaged membership</a> - £10
 <details>
 <summary>Show QR code</summary>
 <img alt="Makerspace student / low income / unwaged membership QR code" src="" style="width:250px; height:250px"/>
@@ -42,5 +33,5 @@ Thank you for your interest in Charnwood Eco Hub!  To activate your makerspace m
 </p>
 </div>
 
-Please note, your application will not be approved until payment has been received. If you need to use a different payment method, please call 01509447075 or email [info@charnwoodecohub.org](mailto:info@charnwoodecohub.org).
+Please note, your application will not be approved until payment has been received. If you need to use a different payment method, please call 01509 447075 or email [info@charnwoodecohub.org](mailto:info@charnwoodecohub.org).
 

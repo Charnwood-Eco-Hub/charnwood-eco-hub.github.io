@@ -3,10 +3,7 @@ title: Charnwood Eco Hub Membership Application - Makerspace
 layout: single
 sitemap: false
 header:
-  overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
-  actions:
-    - label: "Donate"
-      url: "https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY"
+  overlay_image: /assets/img/makerspace-banner.jpg
 ---
 
 **Thank you for your interest in Charnwood Eco Hub!**
@@ -25,9 +22,8 @@ Please complete the application form below to apply for membership of the Charnw
 <input id="Email" name="Email" type="email" placeholder="Your email address">
 <label for="Membership_Type">Membership Type</label>
 <select id="Membership_Type" name="Membership_Type" type="text" required>
-<option value="Maker:Indiv">Makerspace: Individual Membership (£??)</option>
-<option value="Maker:Disc">Makerspace: Student/Low income/Unwaged Membership (£??)</option>
-<option value="Maker:Group">Makerspace: Groups Membership (£??)</option>
+<option value="Maker:Indiv">Makerspace: Individual Membership (£15/month)</option>
+<option value="Maker:Disc">Makerspace: Student/Low income/Unwaged Membership (£10/month)</option>
 </select>
 <label for="How_Found">How did you find out about Charnwood Eco Hub?</label>
 <select name="How_Found" type="text">
@@ -74,17 +70,10 @@ Please complete the application form below to apply for membership of the Charnw
 <div><input id="Volunteering_Other" name="Volunteering_Other" type="checkbox">Other volunteering (please list)</div>
 <div><textarea id="Volunteering_Other_List" name="Volunteering_Other_List" placeholder="Tell us about other ways you could contribute to the Makerspace / Eco Hub"></textarea></div>
 
-<h2>4. Health &amp; Safety</h2>
+<h2>4. Terms and Conditions</h2>
 
-<label for="EmergencyContact">Emergency Contact</label>
-<textarea id="EmergencyContact" name="EmergencyContact" placeholder="Who should we contact if you are taken unwell?"></textarea>
-<label for="Medical">Medical Information</label>
-<textarea id="Medical" name="Medical" placeholder="Any medical conditions or medication which might affect your use of the Makerspace"></textarea>
-
-<h2>5. Policies</h2>
-
+<div><p>Please note that there is a mandatory induction for new Makerspace members. This is to ensure that everyone understands how to use the equipment safely and what to do in an emergency. As part of this we will also ask you for details of any medical conditions or medication which might affect your use of the Makerspace, and emergency contact information in the event that you should be taken ill.</p></div>
 <div><input id="Accepted_Policies" name="Accepted_Policies" value="yes" type="checkbox"> By ticking this box I confirm that I am over 18, and that I accept Charnwood Eco Hub's <a href="/policies">Terms & Conditions and Data Protection Policy</a>.</div>
-<div><p></p></div>
 <div><button type="submit">Submit Your Application</button></div>
 </form>
 
