@@ -105,7 +105,7 @@ Together, we can keep useful materials and tools out of landfill and put them in
 
 <br/>
 
-![Makerspace vision poster](/assets/img/makerspace-vision.jpg){:width="75%"}
+![Makerspace signage going up](/assets/img/charnwood-eco-hub-signage.jpg){:width="75%"}
 
 # Be Part of Bringing Our Makerspace to Life!
 
