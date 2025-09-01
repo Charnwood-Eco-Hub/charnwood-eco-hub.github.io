@@ -13,7 +13,7 @@ header:
 
 # Be Part of Bringing Our Makerspace to Life!
 
-![Makerspace vision poster](/assets/img/makerspace-vision.jpg){:width="75%"}
+![Makerspace signage going up](/assets/img/charnwood-eco-hub-signage.jpg){:width="75%"}
 
 You’ve already heard us talk about our plans for a community Makerspace – a place where people can come together to learn, share, and create. Now, we’re at the stage where we need some extra hands and hearts to help make it happen!
 
