@@ -3,7 +3,7 @@ title: Thanks and Next Steps - Makerspace Membership
 layout: single
 sitemap: false
 header:
-  overlay_image: /assets/img/makerspace-banner.png
+  overlay_image: /assets/img/makerspace-banner-dim.png
 ---
 
 **Thanks and Next Steps**

@@ -3,7 +3,7 @@ title: Charnwood Eco Hub Membership Application - Makerspace
 layout: single
 sitemap: false
 header:
-  overlay_image: /assets/img/makerspace-banner.png
+  overlay_image: /assets/img/makerspace-banner-dim.png
 ---
 
 **Thank you for your interest in Charnwood Eco Hub!**
