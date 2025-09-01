@@ -5,9 +5,6 @@ header:
   show_overlay_excerpt: false
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   teaser: /assets/img/thumbs/bbc-article-jan2025.png
-  actions:
-    - label: "Donate"
-      url: "https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY"
 collection: updates
 date: 2025-01-29
 ---

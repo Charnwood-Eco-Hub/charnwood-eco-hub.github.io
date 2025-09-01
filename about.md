@@ -3,9 +3,6 @@ title: About Charnwood Eco Hub
 layout: single
 header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
-  actions:
-    - label: "Donate"
-      url: "https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY"
 gallery:
   - image_path: /assets/img/directors-small.jpg
     alt: "Sarah Goode, Emma Ward and Clive Bagley"

@@ -6,9 +6,6 @@ header:
   show_overlay_excerpt: false
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   teaser: /assets/img/charnwood-sustainability-fair-2024-small.png
-  actions:
-    - label: "Donate"
-      url: "https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY"
 collection: updates
 date: 2024-04-01
 ---

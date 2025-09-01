@@ -219,13 +219,13 @@ var store = [{
         "excerpt":"Macrame Plant Holder Workshop   Come to the Eco Hub on Saturday April 12th 2025 from 11AM to 1PM and learn how to make a macrame plant holder. The workshop costs £15 each and includes all materials. You can book in person in the Hub, using the QR code on the relevant poster or here - macrame workshop   )   ","categories": [],
         "tags": ["archive"],
         "url": "/workshops-and-events/macrame-workshop-april2025/",
-        "teaser": "/assets/img/macrame-workshop-thumbnail-april2025.png"
+        "teaser": "/assets/img/thumbs/macrame-workshop-thumbnail-april2025.png"
       },{
         "title": "Charnwood Eco Hub Upholstery Workshop",
         "excerpt":"Upholstery Workshop - Saturday April 26th 2025   Come to the Eco Hub on Saturday April 26th 2025 from 11AM to 1PM for a beginners upholstery class. Workshops cost £15 each and include all materials. You can book in person in the Hub, using the QR code on the relevant poster or here - upholstery workshop.      ","categories": [],
         "tags": ["archive"],
         "url": "/workshops-and-events/upholstery-workshop-april2025/",
-        "teaser": "/assets/img/upholstery-workshop-thumbnail-april2025.png"
+        "teaser": "/assets/img/thumbs/upholstery-workshop-thumbnail-april2025.png"
       },{
         "title": "Charnwood Eco Hub Plus Size Clothes Swap",
         "excerpt":"Plus size clothes swap - 27th April 2025   We’re running a Plus Size Clothes Swap in the Hub on Sunday 27th April from 11AM to 2PM. All genders welcome, suitable for size 16/XL+, and tickets are on a pay as you feel basis (suggested donations of between £2-£5).  You can book your tickets here.      ","categories": [],

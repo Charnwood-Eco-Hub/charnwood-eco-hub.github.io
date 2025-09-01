@@ -5,9 +5,6 @@ header:
   show_overlay_excerpt: false
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   teaser: /assets/img/thumbs/fabric-roll-workshop-july25-thumb.png
-  actions:
-    - label: "Donate"
-      url: "https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY"
 collection: workshops-and-events
 date: 2025-07-12
 released: true

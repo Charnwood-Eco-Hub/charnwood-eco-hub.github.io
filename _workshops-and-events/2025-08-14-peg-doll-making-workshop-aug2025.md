@@ -5,9 +5,6 @@ header:
   show_overlay_excerpt: false
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   teaser: /assets/img/thumbs/peg-doll-making-workshop-aug2025-poster-thumbnail.jpg
-  actions:
-    - label: "Donate"
-      url: "https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY"
 collection: workshops-and-events
 date: 2025-08-14
 released: true
