@@ -1,13 +1,14 @@
 ---
-title: Charnwood Eco Hub Makerspace
+title: Help Us Make A Makerspace!
 layout: single
-collection: projects
 header:
   show_overlay_excerpt: false
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   teaser: /assets/img/thumbs/charnwood-eco-hub-signage.jpg
+collection: updates
+date: 2025-09-02
 ---
-# Help us make a makerspace!
+# Be Part of Bringing Our Makerspace to Life
 
 ![Makerspace signage going up](/assets/img/charnwood-eco-hub-signage.jpg){:width="75%"}
 
@@ -42,5 +43,5 @@ We’re building more than just a workshop — we’re building a community reso
 
 👉 Interested? Drop us a message at [charnwoodecohub@gmail.com](mailto:charnwoodecohub@gmail.com).
 
-Let’s create something incredible — together. 
+Let’s create something incredible — together.
 

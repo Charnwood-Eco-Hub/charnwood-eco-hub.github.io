@@ -10,7 +10,7 @@ header:
 
 Please complete the application form below to apply for membership of the Charnwood Eco Hub Makerspace. The Charnwood Eco Hub [Library of Things](/projects/library-of-things) and [Scrapstore](/scrapstore) have their own application processes - please see their pages for more information.
 
-<form id="signup_form" method="POST" action="">
+<form id="signup_form" class="gform" method="POST" action="https://script.google.com/macros/s/AKfycbxwOdeSJHZYcrUlILf786-A7WwEQsv9LZcx1LLjnuePVTUV2WWThSeXVfH3Z_aK8tmy/exec">
 
 <h2>1. Your Details</h2>
 
