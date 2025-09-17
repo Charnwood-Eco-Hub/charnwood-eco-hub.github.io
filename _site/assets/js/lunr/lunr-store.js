@@ -301,13 +301,13 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Screenprinting Workshop - Part 2",
         "excerpt":"Screenprinting Workshop - Part 2   Join us from 11AM to 1PM on Saturday 13th September 2025 for the second half of our screenprinting workshop. £15 per person.   This 2-hour screenprinting class introduces the core principles of the craft, guiding participants through designing, preparing a screen, and pulling their first print. You can book onto this class without booking on to part one.   Learn the principles of screenprinting and have a go!   You can book in person in the Hub, using the QR code on the poster below or here - Screenprinting Workshop Part 2     ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/screen-printing-workshop-part2/",
         "teaser": "/assets/img/thumbs/screen-printing-workshop-sep2025-poster-thumbnail.png"
       },{
         "title": "Charnwood Eco Hub Sustainable Fashion Workshop",
         "excerpt":"Sustainable Fashion Workshop   Have clothes you don’t want to give up? Maybe from a beloved parent or child?   Something you fancied from a charity shop but didn’t fit? Shrunken wool sweaters?   Join us from 6PM to 8PM on Wednesday 17th September 2025 for a talk, demonstration and sharing of ideas on rescuing, altering and upcycling fabric.   Bring your own garments if you wish.   Keen upcycler Suella Postles will share her enthusiasm for making sure things have the longest life possible. Lots of examples of fabric reuse.   Light Refreshments. £5 to book a place.   You can book in person in the Hub, using the QR code on the poster below or here - Sustainable Fashion Workshop     ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/sustainable-fashion-workshop-sept25/",
         "teaser": "/assets/img/thumbs/sustainable-fashion-workshop-sept25-thumbnail.png"
       },{

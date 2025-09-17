@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2025-09-13
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Screenprinting Workshop - Part 2
  
