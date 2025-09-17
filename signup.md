@@ -38,7 +38,7 @@ Please complete the application form below to apply for membership of the Charnw
 <p>
 </p>
 </div>
-<button type="submit">Submit Your Application</button>
+<div><p><button type="submit">Submit Your Application</button></p></div>
 <div id="lds-ripple" class="lds-ripple"><div></div><div></div></div>
 <p id="interstitial" class="interstitial">You should be redirected to the Scrapstore payment page shortly.</p>
 </form>
