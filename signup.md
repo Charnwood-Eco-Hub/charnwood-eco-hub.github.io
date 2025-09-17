@@ -39,6 +39,8 @@ Please complete the application form below to apply for membership of the Charnw
 </p>
 </div>
 <button type="submit">Submit Your Application</button>
+<div id="lds-ripple" class="lds-ripple"><div></div><div></div></div>
+<p id="interstitial" class="interstitial">You should be redirected to the Scrapstore payment page shortly.</p>
 </form>
 
 <script type = "text/javascript" >
@@ -48,6 +50,22 @@ Please complete the application form below to apply for membership of the Charnw
             e.preventDefault();
             const data = new FormData(yourForm);
             const action = e.target.action;
+
+            var r = document.getElementById("lds-ripple");
+            r.style.display = "block";
+            r.style.visibility = "visible";
+
+            setTimeout(function(){
+            var f = document.getElementById("interstitial");
+                f.style.display = "block";
+                f.style.visibility = "visible";
+            },2000);
+
+            //setTimeout(function(){
+            //var f = document.getElementById("interstitial");
+            //    f.innerHTML = "
+            //},6000);
+
             fetch(action, {
                 method: 'POST',
                 body: data,
