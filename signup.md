@@ -33,7 +33,8 @@ Please complete the application form below to apply for membership of the Charnw
 <option value="Social_Media">Social Media</option>
 <option value="Other">Other</option>
 </select>
-<label for="Accepted_Policies" required>By ticking this box I accept Charnwood Eco Hub's <a href="/policies">Terms & Conditions and Data Protection Policy</a>.&nbsp;&nbsp;</label><input id="Accepted_Policies" name="Accepted_Policies" value="yes" type="checkbox">
+<div><p><input id="Accepted_Policies" class="Accepted_Policies" name="Accepted_Policies" value="yes" type="checkbox" required> <label for="Accepted_Po
+licies">By ticking this box I accept Charnwood Eco Hub's <a href="/policies">Terms & Conditions and Data Protection Policy</a>.</label></p></div>
 <div><p><button type="submit">Submit Your Application</button></p></div>
 <div id="lds-ripple" class="lds-ripple"><div></div><div></div></div>
 <p id="interstitial" class="interstitial">You should be redirected to the Scrapstore payment page shortly.</p>
