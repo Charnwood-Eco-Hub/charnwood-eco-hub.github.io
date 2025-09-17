@@ -23,7 +23,7 @@ Please complete the application form below to apply for membership of the Charnw
 <input id="Organisation" name="Organisation" type="text" placeholder="Your community group or school's name">
 <label for="Phone">Contact Phone Number (required)</label>
 <input id="Phone" name="Phone" type="text" placeholder="Phone Number" required>
-<label for="Email">Contact Email Addresss (required)</label>
+<label for="Email">Contact Email Addresss</label>
 <input id="Email" name="Email" type="email" placeholder="Email Address">
 <label for="How_Found">How did you find out about Charnwood Eco Hub?</label>
 <select name="How_Found" type="text">
@@ -35,7 +35,7 @@ Please complete the application form below to apply for membership of the Charnw
 </select>
 <div><p><input id="Accepted_Policies" class="Accepted_Policies" name="Accepted_Policies" value="yes" type="checkbox" required> <label for="Accepted_Po
 licies">By ticking this box I accept Charnwood Eco Hub's <a href="/policies">Terms & Conditions and Data Protection Policy</a>.</label></p></div>
-<div><p><button type="submit">Submit Your Application</button></p></div>
+ediv><p><button type="submit">Submit Your Application</button></p></div>
 <div id="lds-ripple" class="lds-ripple"><div></div><div></div></div>
 <p id="interstitial" class="interstitial">You should be redirected to the Scrapstore payment page shortly.</p>
 </form>
