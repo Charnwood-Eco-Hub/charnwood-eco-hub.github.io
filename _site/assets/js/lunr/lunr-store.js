@@ -319,13 +319,13 @@ var store = [{
       },{
         "title": "Charnwood Sustainability Fair",
         "excerpt":"The Charnwood Sustainability Fair      This year’s Sustainability Fair will take place on Sunday 21st September 2025 in Queen’s Park Loughborough from 10am-3pm, highlighting green initiatives and fostering community collaboration.   This much-anticipated event is a perfect opportunity for local businesses, organisations, and artisans to showcase their sustainable products and and eco-friendly services, and their knowledge and projects.   We will have stalls representing a variety of local sustainability and eco groups, including Transition Loughborough, Incredible Edibles, etc. sharing information on their projects, how you can get involved and how you can lower your own carbon footprint, as well as entertainment, workshops and local small businesses selling sustainable products and gifts, like Men &amp; Women in Sheds and Buckingham Bees.   Don’t miss your chance to be part of these inspiring events! Apply now to help shape a sustainable Charnwood.   ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/charnwood-sustainability-fair-sept25/",
         "teaser": "/assets/img/thumbs/charnwood-sustainability-fair-2025-thumbnail.png"
       },{
         "title": "Charnwood Eco Hub Rag Rug Workshop",
         "excerpt":"Rag Rug Workshop   Join us from 11AM to 1PM on Saturday 27th September 2025 and learn how to make a rag rug.   Slow down. Weave memories. Take something meaningful home.   Learn this traditional technique by creating a small sample piece - perfect for beginners. No experience needed.   All material provided, using recycled fabric from the Scrapstore - or bring your own to reimagine.  £15 per person.   You can book in person in the Hub, using the QR code on the poster below or here - Rag Rug Workshop     ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/rag-rug-workshop-sep2025/",
         "teaser": "/assets/img/thumbs/rag-rug-workshop-sep2025-poster-thumbnail.png"
       },{

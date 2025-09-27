@@ -9,7 +9,7 @@ header:
 date: 2025-09-21
 released: true
 tags:
-- upcoming
+- archive
 ---
 
 # The Charnwood Sustainability Fair

@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2025-09-27
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Rag Rug Workshop
  
