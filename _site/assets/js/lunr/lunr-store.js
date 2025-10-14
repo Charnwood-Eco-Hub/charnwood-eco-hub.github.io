@@ -101,6 +101,12 @@ var store = [{
         "url": "/projects/makerspace/",
         "teaser": "/assets/img/thumbs/charnwood-eco-hub-signage.jpg"
       },{
+        "title": "Charnwood Eco Hub Party Kit",
+        "excerpt":"Planning a celebration?      We’re excited to launch our brand-new Party Kit, designed to make hosting easier, more affordable, and more eco-friendly.   For just £10 for a week, you can hire:           30 place settings (plates, cups, bowls, cutlery)            Colourful bunting to brighten up your space            A ready-to-use Pass the Parcel kit for guaranteed fun!          &lt;/a&gt;   &lt;/a&gt;    But that’s not all — Also available through our Library of Things, you can hire extras to take your party to the next level, including a bingo set, a karaoke machine, a tin can alley, and even a prize wheel.   And if you’re looking for crafty ways to decorate or keep guests entertained, don’t forget we’ve got lots of crackers and supplies in the Scrapstore too!   To borrow the Party Kit, you will need to join our Library of Things.   ","categories": [],
+        "tags": [],
+        "url": "/projects/party-kit/",
+        "teaser": "/assets/img/thumbs/new-party-kit-thumbnail.jpg"
+      },{
         "title": "Charnwood Eco Hub Refill Station",
         "excerpt":"We’re excited to announce that our new Refill Station is now open!      Our new station offers a range of eco-friendly cleaning products including washing up liquid, laundry liquid and fabric conditioner and white vinegar, and personal care products, like shampoo conditioner and body wash, helping you reduce plastic waste and shop more sustainably. BYOB or buy one of our glass or plastic reusable bottles.      Refill Station Products and Prices                  Product       500ML       750ML       11                       Eco White Vinegar - Sorrento Lemon       £1.25       £1.75       £2.25                 Anti Bac Surface Cleaner - French Lavender       £1.50       £2.50       £3.00                 Laundry Liquid - Tropical Coconut       £2.00       £3.00       £4.00                 Fabric Conditioner - Pink Grapefruit and Aloe Vera       £2.00       £3.00       £4.00                 Washing Up Liquid - Apple Orchard       £1.50       £2.50       £3.00                 Anti Bac Liquid Hand Soap - Sweet Clementine       £3.00       £4.50       £6.00                 Toilet Cleaner       £1.50       £2.50       £3.00                 Body Wash - Pink Grapefruit and Aloe Vera       £3.00       £4.50       £6.00                 Shampoo - Pink Grapefruit and Aloe Vera       £3.00       £4.50       £6.00                 Conditioner - Pink Grapefruit and Aloe Vera       £3.00       £4.50       £6.00                 Plastic Bottles - 500ML       £2.00                                 Plastic Bottles - 750ML               £2.00                         Plastic Bottles - IL                       £2.00                 Glass Bottles - 500ML       £2.50                                 Pump/spray Attachment       £1.50                           ","categories": [],
         "tags": [],
@@ -331,9 +337,9 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Paper Flower Making Workshop",
         "excerpt":"Paper Flower Making Workshop   Join us from 11.00AM to 1.00PM on Saturday 11th October 2025 and learn how to make Creatively Crafted Paper Roses.   In this workshop you will be creating gorgeous paper roses and I will show you three ways of adding colour to your flowers.   You will be able to mount your flower in a deep box frame once it is thoroughly dry. No prior painting experience needed.   £15 per person. Suitable for 10 years+, with an accompanying adult.   You can book in person in the Hub, using the QR code on the poster below or here - Paper Flower making workshop     ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/paper-flower-workshop-oct25/",
-        "teaser": "/assets/img/thumbs/paper-flower-making-workshop-oct25-thumbnail.png"
+        "teaser": "/assets/img/thumbs/paper-flower-making-workshop-oct25-thumbnail.jpg"
       },{
         "title": "Charnwood Eco Hub Peg Doll Making Workshop",
         "excerpt":"Peg Doll Making Workshop   Join us from 10.30AM to 12.30PM on Thursday 23rd October 2025 for a fun and creative session for adults and children aged 10 and up.   Learn how to design and decorate your very own wooden peg doll to take home.  No experience needed - just bring your imagination!   All materials provided. £7.50 per person. Suitable for adults and children (age 10+). Children must be accompanied by an adult.   You can book in person in the Hub, using the QR code on the poster below or here - Peg Doll Making workshop     ","categories": [],
@@ -352,4 +358,10 @@ var store = [{
         "tags": ["upcoming"],
         "url": "/workshops-and-events/christmas-eco-market-nov25/",
         "teaser": "/assets/img/thumbs/christmas-eco-market.png"
+      },{
+        "title": "Charnwood Eco Christmas Card Making Workshop",
+        "excerpt":"Christmas Card Making Workshop   Join us from 11AM to 1PM on Saturday 8th November 2025 and spend a lovely afternoon creating and designing your own set of cards using sequins, sequin waste, and beautiful fabrics.   Designed for all skill levels, our supportive atmosphere will put you at ease.   All material provided, using recycled fabric from the Scrapstore - or bring your own to reimagine. The workshop costs £15 per person, or £10 for scrapstore or library of things members..   You can book in person in the Hub, using the QR code on the poster below or here - Christmas Card Making Workshop.      ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/christmas-card-making-workshop-nov25/",
+        "teaser": "/assets/img/thumbs/christmas-card-making-workshop-nov25.jpg"
       }]
