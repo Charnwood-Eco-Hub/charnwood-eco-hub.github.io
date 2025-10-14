@@ -21,10 +21,10 @@ For just **£10 for a week**, you can hire:
 
 - A ready-to-use **Pass the Parcel kit** for guaranteed fun!
 
-<p float="left" align="middle" width="100%">
+<p float="left" align="left" width="100%">
   <img src="/assets/img/partykit2.jpg" width="75%" />
 </p>
-<p float="left" align="middle" width="100%">
+<p float="left" align="left" width="100%">
   <img src="/assets/img/partykit3a.jpg" width="75%" />
 </p>
 
