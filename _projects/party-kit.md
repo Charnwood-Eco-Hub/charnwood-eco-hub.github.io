@@ -22,8 +22,10 @@ For just **£10 for a week**, you can hire:
 - A ready-to-use **Pass the Parcel kit** for guaranteed fun!
 
 <p float="left" align="middle" width="100%">
-  <img src="/assets/img/partykit2.jpg" width="45%" /></a>
-  <img src="/assets/img/partykit3.jpg" width="45%" /></a>
+  <img src="/assets/img/partykit2.jpg" width="75%" />
+</p>
+<p float="left" align="middle" width="100%">
+  <img src="/assets/img/partykit3a.jpg" width="75%" />
 </p>
 
 But that’s not all — Also available through our [Library of Things](/projects/library-of-things/), you can hire extras to take your party to the next level, including a **bingo set**, a **karaoke machine**, a **tin can alley**, and even a **prize wheel**.

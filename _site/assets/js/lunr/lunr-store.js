@@ -102,7 +102,7 @@ var store = [{
         "teaser": "/assets/img/thumbs/charnwood-eco-hub-signage.jpg"
       },{
         "title": "Charnwood Eco Hub Party Kit",
-        "excerpt":"Planning a celebration?      We’re excited to launch our brand-new Party Kit, designed to make hosting easier, more affordable, and more eco-friendly.   For just £10 for a week, you can hire:           30 place settings (plates, cups, bowls, cutlery)            Colourful bunting to brighten up your space            A ready-to-use Pass the Parcel kit for guaranteed fun!          &lt;/a&gt;   &lt;/a&gt;    But that’s not all — Also available through our Library of Things, you can hire extras to take your party to the next level, including a bingo set, a karaoke machine, a tin can alley, and even a prize wheel.   And if you’re looking for crafty ways to decorate or keep guests entertained, don’t forget we’ve got lots of crackers and supplies in the Scrapstore too!   To borrow the Party Kit, you will need to join our Library of Things.   ","categories": [],
+        "excerpt":"Planning a celebration?      We’re excited to launch our brand-new Party Kit, designed to make hosting easier, more affordable, and more eco-friendly.   For just £10 for a week, you can hire:           30 place settings (plates, cups, bowls, cutlery)            Colourful bunting to brighten up your space            A ready-to-use Pass the Parcel kit for guaranteed fun!                    But that’s not all — Also available through our Library of Things, you can hire extras to take your party to the next level, including a bingo set, a karaoke machine, a tin can alley, and even a prize wheel.   And if you’re looking for crafty ways to decorate or keep guests entertained, don’t forget we’ve got lots of crackers and supplies in the Scrapstore too!   To borrow the Party Kit, you will need to join our Library of Things.   ","categories": [],
         "tags": [],
         "url": "/projects/party-kit/",
         "teaser": "/assets/img/thumbs/new-party-kit-thumbnail.jpg"
@@ -360,8 +360,8 @@ var store = [{
         "teaser": "/assets/img/thumbs/christmas-eco-market.png"
       },{
         "title": "Charnwood Eco Christmas Card Making Workshop",
-        "excerpt":"Christmas Card Making Workshop   Join us from 11AM to 1PM on Saturday 8th November 2025 and spend a lovely afternoon creating and designing your own set of cards using sequins, sequin waste, and beautiful fabrics.   Designed for all skill levels, our supportive atmosphere will put you at ease.   All material provided, using recycled fabric from the Scrapstore - or bring your own to reimagine. The workshop costs £15 per person, or £10 for scrapstore or library of things members..   You can book in person in the Hub, using the QR code on the poster below or here - Christmas Card Making Workshop.      ","categories": [],
+        "excerpt":"Christmas Card Making Workshop   Join us from 11AM to 1PM on Saturday 8th November 2025 and spend a lovely afternoon creating and designing your own set of cards using sequins, sequin waste, and beautiful fabrics.   Designed for all skill levels, our supportive atmosphere will put you at ease.   All materials provided, or bring your own to reimagine. The workshop costs £15 per person, or £10 for scrapstore or library of things members.   You can book in person in the Hub, using the QR code on the poster below or here - Christmas Card Making Workshop.      ","categories": [],
         "tags": ["upcoming"],
         "url": "/workshops-and-events/christmas-card-making-workshop-nov25/",
-        "teaser": "/assets/img/thumbs/christmas-card-making-workshop-nov25.jpg"
+        "teaser": "/assets/img/thumbs/christmas-card-making-workshop-nov25-thumbnail.jpg"
       }]
