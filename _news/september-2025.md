@@ -76,7 +76,7 @@ Join us at Charnwood Eco Hub this season for a hands-on series of creative and s
 
 <br/>
 
-![New Party Kit](/assets/img/new-party-kit.jpg){:width="75%"}
+![New Party Kit](/assets/img/partykit-setup1.jpg){:width="75%"}
 
 # New Party Kit Coming Soon!
 

@@ -5,11 +5,11 @@ collection: projects
 header:
   show_overlay_excerpt: false
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
-  teaser: /assets/img/thumbs/new-party-kit-thumbnail.jpg
+  teaser: /assets/img/thumbs/partykit-setup1-thumbnail.jpg
 ---
 # Planning a celebration?
 
-![Photo of a party setting](/assets/img/new-party-kit.jpg){:width="75%"}
+![Photo of a party setting](/assets/img/partykit-setup1.jpg){:width="75%"}
 
 We’re excited to launch our brand-new [Party Kit](https://www.partykitnetwork.org/uk/charnwoodecohub), designed to make hosting easier, more affordable, and more eco-friendly.
 
