@@ -43,9 +43,9 @@ Browse a wonderful selection of **sustainable, handmade, and upcycled gifts**, c
 
 Enjoy festive refreshments, connect with like-minded locals, and soak up the community spirit in a warm, welcoming atmosphere. It’s the perfect opportunity to shop local, support small businesses, and make your Christmas a little greener this year.
 
-🌿 When: Saturday 2nd November
-📍 Where: Charnwood Eco Hub
-🕒 Time: 10am - 3pm
+🌿 When: Saturday 2nd November<br/>
+📍 Where: Charnwood Eco Hub<br/>
+🕒 Time: 10am - 3pm<br/>
 
 Sustainable gifts, local makers, and good vibes — we can’t wait to see you there!
 
@@ -116,7 +116,6 @@ LE11 1DY
 
 Don't forget to [let us know](mailto:info@charnwoodecoohub.org.uk) about your upcoming events so that we can feature them!
 
-<br/>
 <br/>
 <br/>
 
