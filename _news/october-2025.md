@@ -35,7 +35,7 @@ Stay tuned for dates, details, and more ways to get involved. Together, we’re 
 [![Christmas Eco Market Poster](/assets/img/christmas-market-2025.png){:width="75%"}](/workshops-and-events/)
 
 
-# Charnwood Eco Hub Christmas Eco Market  Sunday 2nd November 
+# Charnwood Eco Hub Christmas Eco Market - Sunday 2nd November 
 
 Get ready to kick off the festive season the eco-friendly way! Join us at **Charnwood Eco Hub on Saturday 2nd November** for our **Christmas Eco Market** — a celebration of creativity, community, and conscious living.
 
@@ -48,6 +48,8 @@ Enjoy festive refreshments, connect with like-minded locals, and soak up the com
 🕒 Time: 10am - 3pm<br/>
 
 Sustainable gifts, local makers, and good vibes — we can’t wait to see you there!
+
+<br/>
 
 ![We Want Your Scrap Poster](/assets/img/we-want-your-scrap.png){:width="75%"}
 
