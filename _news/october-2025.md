@@ -37,14 +37,14 @@ Stay tuned for dates, details, and more ways to get involved. Together, we’re 
 
 # Charnwood Eco Hub Christmas Eco Market - Sunday 2nd November 
 
-Get ready to kick off the festive season the eco-friendly way! Join us at **Charnwood Eco Hub on Saturday 2nd November** for our **Christmas Eco Market** — a celebration of creativity, community, and conscious living.
+Get ready to kick off the festive season the eco-friendly way! Join us at **Loughborough Market Place on Sunday 2nd November** for our **Christmas Eco Market** — a celebration of creativity, community, and conscious living.
 
 Browse a wonderful selection of **sustainable, handmade, and upcycled gifts**, crafted by local makers who care about the planet. From unique decorations and natural self-care treats to eco homeware and thoughtful stocking fillers, there’s something for everyone — all with a lighter footprint.
 
 Enjoy festive refreshments, connect with like-minded locals, and soak up the community spirit in a warm, welcoming atmosphere. It’s the perfect opportunity to shop local, support small businesses, and make your Christmas a little greener this year.
 
-🌿 When: Saturday 2nd November<br/>
-📍 Where: Charnwood Eco Hub<br/>
+🌿 When: Sunday 2nd November<br/>
+📍 Where: Loughborough Market Place, LE11 3EB<br/>
 🕒 Time: 10am - 3pm<br/>
 
 Sustainable gifts, local makers, and good vibes — we can’t wait to see you there!
