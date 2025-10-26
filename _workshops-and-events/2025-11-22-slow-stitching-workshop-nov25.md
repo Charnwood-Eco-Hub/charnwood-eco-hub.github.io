@@ -15,7 +15,7 @@ tags:
  
 Join us from 11AM to 1PM on Saturday 22nd November 2025 for a Slow Stitching Workshop.
 
-**Using simple stitching, we calm our emotions and enjoy the tactile rhythm of eachstitch rather than rushing to finish.**
+**Using simple stitching, we calm our emotions and enjoy the tactile rhythm of each stitch rather than rushing to finish.**
 
 You'll choose fabric scraps that speak to you, sew them together intuitively, and embrace imperfections along the way - because this workshop is about presence, not perfection.
 

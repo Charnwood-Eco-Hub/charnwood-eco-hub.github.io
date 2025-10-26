@@ -372,7 +372,7 @@ var store = [{
         "teaser": "/assets/img/thumbs/christmas-card-making-workshop-nov25-thumbnail.jpg"
       },{
         "title": "Charnwood Eco Hub Slow Stitching Workshop",
-        "excerpt":"Slow Stitching Workshop   Join us from 11AM to 1PM on Saturday 22nd November 2025 for a Slow Stitching Workshop.   Using simple stitching, we calm our emotions and enjoy the tactile rhythm of eachstitch rather than rushing to finish.   You’ll choose fabric scraps that speak to you, sew them together intuitively, and embrace imperfections along the way - because this workshop is about presence, not perfection.   The workshop costs £15 and includes all materials. You can book in person in the Hub, using the QR code on the poster below or here - Slow Stitching Workshop     ","categories": [],
+        "excerpt":"Slow Stitching Workshop   Join us from 11AM to 1PM on Saturday 22nd November 2025 for a Slow Stitching Workshop.   Using simple stitching, we calm our emotions and enjoy the tactile rhythm of each stitch rather than rushing to finish.   You’ll choose fabric scraps that speak to you, sew them together intuitively, and embrace imperfections along the way - because this workshop is about presence, not perfection.   The workshop costs £15 and includes all materials. You can book in person in the Hub, using the QR code on the poster below or here - Slow Stitching Workshop     ","categories": [],
         "tags": ["upcoming"],
         "url": "/workshops-and-events/slow-stitching-workshop-nov25/",
         "teaser": "/assets/img/thumbs/slow-stitching-workshop-nov25.png"
