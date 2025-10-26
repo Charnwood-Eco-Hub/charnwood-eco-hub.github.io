@@ -349,13 +349,13 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Peg Doll Making Workshop",
         "excerpt":"Peg Doll Making Workshop   Join us from 10.30AM to 12.30PM on Thursday 23rd October 2025 for a fun and creative session for adults and children aged 10 and up.   Learn how to design and decorate your very own wooden peg doll to take home.  No experience needed - just bring your imagination!   All materials provided. £7.50 per person. Suitable for adults and children (age 10+). Children must be accompanied by an adult.   You can book in person in the Hub, using the QR code on the poster below or here - Peg Doll Making workshop     ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/peg-doll-making-workshop-oct25/",
         "teaser": "/assets/img/thumbs/peg-doll-making-workshop-oct25-poster-thumbnail.png"
       },{
         "title": "Charnwood Eco Hub Creative Journalling Workshop",
         "excerpt":"Creative Journalling Workshop   Join us from 11AM to 1PM on Saturday 25th October 2025 for a fun and interactive creative journalling workshop with Sam Berry, where you’ll explore unique techniques to using collage.   All materials are provided, but feel free to bring along a magazine to use in your collage if you’d like. Spaces are limited, so be sure to book in advance!   You can book in person in the Hub, using the QR code on the poster below or here - Creative Journalling Workshop      ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/creative-journalling-workshop-oct2025/",
         "teaser": "/assets/img/thumbs/creative-journalling-workshop-oct2025-thumbnail.png"
       },{
@@ -370,4 +370,10 @@ var store = [{
         "tags": ["upcoming"],
         "url": "/workshops-and-events/christmas-card-making-workshop-nov25/",
         "teaser": "/assets/img/thumbs/christmas-card-making-workshop-nov25-thumbnail.jpg"
+      },{
+        "title": "Charnwood Eco Hub Slow Stitching Workshop",
+        "excerpt":"Slow Stitching Workshop   Join us from 11AM to 1PM on Saturday 22nd November 2025 for a Slow Stitching Workshop.   Using simple stitching, we calm our emotions and enjoy the tactile rhythm of eachstitch rather than rushing to finish.   You’ll choose fabric scraps that speak to you, sew them together intuitively, and embrace imperfections along the way - because this workshop is about presence, not perfection.   The workshop costs £15 and includes all materials. You can book in person in the Hub, using the QR code on the poster below or here - Slow Stitching Workshop     ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/slow-stitching-workshop-nov25/",
+        "teaser": "/assets/img/thumbs/slow-stitching-workshop-nov25.png"
       }]

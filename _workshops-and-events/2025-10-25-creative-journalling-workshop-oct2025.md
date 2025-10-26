@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2025-10-25
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Creative Journalling Workshop
  

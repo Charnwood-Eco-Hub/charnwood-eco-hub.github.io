@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2025-10-23
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Peg Doll Making Workshop
  
