@@ -158,15 +158,7 @@ _Saturday 31st May, 9.30am-12.00pm_
 
 # Where to find us
 
-**Opening Hours: (from 1st February 2025)**<br/>
-Wednesdays 4-8pm (access via Clarence Street)<br/>
-Thursdays 10am-1pm (access via main SOFA entrance)<br/>
-Saturdays 10am-2pm (access via main SOFA entrance)<br/>
-
-**Address:** Clarence St, Loughborough LE11 1DY<br/>
-**Website:** [charnwoodecohub.org](https://charnwoodecohub.org)<br/>
-**Email:** [info@charnwoodecohub.org](mailto:info@charnwoodecohub.org)<br/>
-**Phone:** 01509 447075
+{% include where-to-find-us.html %}
 
 [Donate to Charnwood Eco Hub](https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY){: .btn .btn--success}
 

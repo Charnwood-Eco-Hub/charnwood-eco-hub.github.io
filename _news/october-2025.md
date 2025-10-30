@@ -125,17 +125,7 @@ Don't forget to [let us know](mailto:info@charnwoodecoohub.org.uk) about your up
 
 # Where to find us
 
-**Opening Hours:**<br/>
-Wednesdays 4-8pm (access via Clarence Street, opposite Travis Perkins)<br/>
-Thursdays 10am-1pm (access via main SOFA entrance)<br/>
-Saturdays 10am-2pm (access via main SOFA entrance)<br/>
-
-_Please note that we have no disabled access on Wednesday evenings. This is due to SOFA being closed and us not having access to the lift, and is sadly beyond our control._
-
-**Address:** Clarence St, Loughborough LE11 1DY<br/>
-**Website:** [charnwoodecohub.org](https://charnwoodecohub.org)<br/>
-**Email:** [info@charnwoodecohub.org](mailto:info@charnwoodecohub.org)<br/>
-**Phone:** 01509 447075
+{% include where-to-find-us.html %}
 
 <br/>
 
