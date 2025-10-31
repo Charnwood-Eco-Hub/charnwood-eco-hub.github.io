@@ -378,7 +378,7 @@ var store = [{
         "teaser": "/assets/img/thumbs/slow-stitching-workshop-nov25.png"
       },{
         "title": "Charnwood Eco Hub DIY Christmas Jumper Workshop",
-        "excerpt":"DIY Christmas Jumper Workshop   Join us from 11AM to 1PM on Saturday 6th December 2025 for a fun and festive DIY Christmas Jumper Making Workshop!   Get creative by transforming old clothes and scrap materials into unique, eco-friendly holiday jumpers.   No sewing experience needed - just bring your imagination and a spirit of sustainability!   The workshop costs £10 per person, mince pie and soft drink included.   You can book in person in the Hub, using the QR code on the poster below or here - DIY Christmas Jumper Workshop     ","categories": [],
+        "excerpt":"DIY Christmas Jumper Workshop   Join us from 11AM to 1PM on Saturday 6th December 2025 for a fun and festive DIY Christmas Jumper Making Workshop!   Get creative by transforming old clothes and scrap materials into unique, eco-friendly holiday jumpers.   No sewing experience needed - just bring your imagination and a spirit of sustainability!   The workshop costs £10 per person, mince pie and hot drink included. Bring your own jumper, all other materials provided.   You can book in person in the Hub, using the QR code on the poster below or here - DIY Christmas Jumper Workshop     ","categories": [],
         "tags": ["upcoming"],
         "url": "/workshops-and-events/christmas-jumper-workshop-dec25/",
         "teaser": "/assets/img/thumbs/christmas-jumper-workshop-thumb-dec25.png"

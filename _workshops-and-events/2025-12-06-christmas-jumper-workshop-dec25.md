@@ -19,7 +19,7 @@ Join us from 11AM to 1PM on Saturday 6th December 2025 for a fun and festive DIY
 
 No sewing experience needed - just bring your imagination and a spirit of sustainability!
 
-The workshop costs £10 per person, mince pie and soft drink included.
+The workshop costs £10 per person, mince pie and hot drink included. Bring your own jumper, all other materials provided.
 
 You can book in person in the Hub, using the QR code on the poster below or here - [DIY Christmas Jumper Workshop](https://www.eventbookings.com/b/event/diy-christmas-jumper-workshop)
 
