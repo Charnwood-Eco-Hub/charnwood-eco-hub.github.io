@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2025-11-08
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Christmas Card Making Workshop
  

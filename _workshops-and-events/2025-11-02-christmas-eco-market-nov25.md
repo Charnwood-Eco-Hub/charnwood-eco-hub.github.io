@@ -9,7 +9,7 @@ header:
 date: 2025-11-02
 released: true
 tags:
-- upcoming
+- archive
 ---
 
 # Christmas Eco Market

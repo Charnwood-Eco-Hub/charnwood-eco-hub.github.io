@@ -361,13 +361,13 @@ var store = [{
       },{
         "title": "Christmas Eco Market",
         "excerpt":"Christmas Eco Market      We have confirmed that we will be running a Christmas Eco Market again this year in Loughborough Marketplace on Sunday 2nd November. It was a lovely day last year, and we had some amazing stallholders offering lovely handcrafted gifts, who were keen to come back. If you would like to book a stall, please complete a booking form here.   ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/christmas-eco-market-nov25/",
         "teaser": "/assets/img/thumbs/christmas-eco-market.png"
       },{
         "title": "Charnwood Eco Christmas Card Making Workshop",
         "excerpt":"Christmas Card Making Workshop   Join us from 11AM to 1PM on Saturday 8th November 2025 and spend a lovely afternoon creating and designing your own set of cards using sequins, sequin waste, and beautiful fabrics.   Designed for all skill levels, our supportive atmosphere will put you at ease.   All materials provided, or bring your own to reimagine. The workshop costs £15 per person, or £10 for scrapstore or library of things members.   You can book in person in the Hub, using the QR code on the poster below or here - Christmas Card Making Workshop.      ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/christmas-card-making-workshop-nov25/",
         "teaser": "/assets/img/thumbs/christmas-card-making-workshop-nov25-thumbnail.jpg"
       },{
