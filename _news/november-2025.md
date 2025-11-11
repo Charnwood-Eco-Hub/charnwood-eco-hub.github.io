@@ -36,7 +36,7 @@ With festive cheer,
 <br/>
 
 <p float="left" align="middle" width="100%">
-  <a target="_blank" href="/workshops-and-events/slow-stitching-workshop-nov25/"><img src="/assets/img/slow-stitching-workshop-poster-nov25.png" width="45%" /></a>
+  <a target="_blank" href="/workshops-and-events/slow-stitching-workshop-nov25/"><img src="/assets/img/slow-stitching-workshop-nov25.png" width="45%" /></a>
   <a target="_blank" href="/workshops-and-events/christmas-jumper-workshop-dec25/"><img src="/assets/img/christmas-jumper-workshop-dec25.png" width="45%" /></a>
 </p>
 
@@ -57,18 +57,19 @@ Join us at Charnwood Eco Hub this season for a hands-on series of creative and s
 Sue, The lovely Community Champion at Tesco The Rushes contacted us recently to ask if we would be able to take some stock they needed to dispose of - those who have visited in the last few weeks may have picked up a bag of charcoal or compost already, we now have all the camping chairs you could possibly need!  We will be selling these for £5 each (all proceeds go back into Eco Hub projects). 
 
 <br/>
-<br/>
 
 # Collaboratory Research Placement Opportunity
 
 We are delighted to announce this research opportunity involving the Eco Hub, in collaboration with Loughborough University and De Montfort University. All of Collaboratory’s research projects are centred around one or more challenges relevant to local communities. Projects are carried out by a research candidate, and are supported by teams of researchers and partners from local community-focused organisations. This 10-week scoping study will explore how the Eco Hub makerspace can be developed into a genuinely inclusive community hub. The deadline is 30th November. You can find out more info or apply [here](https://collaboratoryresearchhub.ac.uk/inclusive-sustainability-eco-hub/). 
 
-![Research placement poster](/assets/img/eco-hub-research-placement.jpg){:width="75%"}
+[![Research placement poster](/assets/img/eco-hub-research-placement.jpg)](https://collaboratoryresearchhub.ac.uk/inclusive-sustainability-eco-hub/){:width="75%"}
 
 <br/>
 <br/>
 
 ![SENsory Atelier photograph](/assets/img/sensory-atelier-nov25.jpg){:width="75%"}
+
+# Charnwood Eco Hub hosts The SENsory Atelier
 
 The team from Attenborough Arts Centre’s [SENsory Atelier](https://attenborougharts.com/sensory-atelier/) recently brought their innovative continuing professional development (CPD) programme to life at Charnwood Eco Hub, engaging staff from 14 local schools running inclusive education settings across Leicestershire. The session immersed educators in hands-on sensory practices and collaborative arts-based strategies designed for learners with SEND, and provided each school with a group membership to the Scrapstore, and a basket full of materials. . Through tactile materials, sound, light, movement and reflective dialogue, teachers and support staff gained fresh confidence to design bespoke creative experiences in their own classrooms—reinforcing the Atelier’s belief that creativity is a human right and that children with special educational needs are “children with special rights”.  
 
@@ -81,9 +82,9 @@ If you would like us to host your group at the Hub, we can offer bespoke package
 
 # The Green Place
 
-Nestled in the heart of Sileby, The Green Place is a vibrant eco-centre and café that welcomes the community with sustainable workshops, live events and a relaxed garden atmosphere. They are looking for eco stall holders for this year's Sileby Christmas Lights Switch On event from 5-8pm on Friday 28th november. Stalls are free - if you're interested contact them here.
+Nestled in the heart of Sileby, The Green Place is a vibrant eco-centre and café that welcomes the community with sustainable workshops, live events and a relaxed garden atmosphere. They are looking for eco stall holders for this year's Sileby Christmas Lights Switch On event from 5-8pm on Friday 28th november. Stalls are free - if you're interested contact them [here](https://thegreenplace.completewasters.co.uk/).
 
-They will also be running a 'Santa's Emporium of Preloved Toys' in December (see What's On section below) - All of the gifts have been sourced from charity shops and are in ‘like new’ condition to create ‘Santa’s Emporium of Preloved Toys’ from which the child can choose rather than getting a prewrapped gift of cheap origin, which they might not like. Darren from The Green Place said: 'In doing this we have supported loads of different charities by buying the gifts in charity shops and reducing wasted gifts. We will also plant one tree at Cossington Meadows Nature reserve for each child's ticket purchased.' 
+They will also be running a [Santa's Emporium of Preloved Toys](https://www.tickettailor.com/events/thegreenplace) in December (see What's On section below) - All of the gifts have been sourced from charity shops and are in ‘like new’ condition to create ‘Santa’s Emporium of Preloved Toys’ from which the child can choose rather than getting a prewrapped gift of cheap origin, which they might not like. Darren from The Green Place said: 'In doing this we have supported loads of different charities by buying the gifts in charity shops and reducing wasted gifts. We will also plant one tree at Cossington Meadows Nature reserve for each child's ticket purchased.' 
 
 # Coming up
 
