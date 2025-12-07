@@ -15,7 +15,7 @@ Charnwood Eco Hub is on the first floor of the Towles Mill Building (SOFA), on t
 During daytime hours the Eco Hub is normally accessed via SOFA's main entrance then the stairs to the first floor. In the evening, the Eco Hub is accessed via a separate signposted entrance on Clarence Street, opposite Travis Perkins.
 </div>
 <div class="grid__item">
-Lift access to the first floor can be arranged if required. Before your visit, email <a href="mailto:info@charnwoodecohub.org">info@charnwoodecohub.org</a> or contact us on <a href="tel:+441509447075">01509 447075</a> to arrange.
+Lift access to the first floor can normally be arranged if required, however please note that at present the lift is out of order. Before your visit, email <a href="mailto:info@charnwoodecohub.org">info@charnwoodecohub.org</a> or contact us on <a href="tel:+441509447075">01509 447075</a> to <!--arrange-->check the current status.
 </div>
 </div>
 

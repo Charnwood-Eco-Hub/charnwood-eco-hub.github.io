@@ -1332,3 +1332,4 @@ input[type="select"]:focus, input[type="checkbox"]:focus { outline: 4px solid #d
   4.9% { top: 36px; left: 36px; width: 8px; height: 8px; opacity: 0; }
   5% { top: 36px; left: 36px; width: 8px; height: 8px; opacity: 1; }
   100% { top: 0; left: 0; width: 80px; height: 80px; opacity: 0; } }
+hr { border: 0; height: 1em; background: linear-gradient(to right, red, yellow, green); }

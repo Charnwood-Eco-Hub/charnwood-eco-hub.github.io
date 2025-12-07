@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2025-12-06
 released: true
 tags:
-- upcoming
+- archive
 ---
 # DIY Christmas Jumper Workshop
  
