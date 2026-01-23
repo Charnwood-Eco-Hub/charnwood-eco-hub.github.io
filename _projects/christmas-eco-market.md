@@ -1,7 +1,7 @@
 ---
 title: Christmas Eco Market
 layout: single
-collection: projects
+collection: projects-other
 header:
   show_overlay_excerpt: false
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg

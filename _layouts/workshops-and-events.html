@@ -1,0 +1,21 @@
+---
+layout: archive
+---
+{{ content }}
+{%- assign entries_layout = page.entries_layout | default: 'list' -%}
+<div class="homepage_container">
+<div class="grid__item">
+<h1>Upcoming events</h1>
+</div>
+<div class="entries-{{ entries_layout }}">
+{%- include documents-collection-tagged.html collection=page.collection sort_by=date sort_order='ascending' type=entries_layout tag='upcoming' -%}
+</div>
+</div>
+<div class="homepage_container">
+<div class="grid__item">
+<h1>Previous events</h1>
+</div>
+<div class="entries-{{ entries_layout }}">
+{%- include documents-collection-tagged.html collection=page.collection sort_by=date sort_order='descending' type=entries_layout tag='archive' -%}
+</div>
+</div>

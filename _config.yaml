@@ -109,6 +109,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  projects-other:
+    output: true
+    permalink: /projects/:title/
 
 #category_archive:
 #  type: liquid

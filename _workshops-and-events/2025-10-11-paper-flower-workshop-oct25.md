@@ -4,7 +4,7 @@ layout: single
 header:
   show_overlay_excerpt: false
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
-  teaser: /assets/img/thumbs/paper-flower-making-workshop-oct25-thumbnail.jpg
+  teaser: /assets/img/thumbs/paper-flower-making-workshop-oct25-thumbnail.png
 collection: workshops-and-events
 date: 2025-10-11
 released: true

@@ -1,13 +1,12 @@
 ---
 title: Charnwood Eco Hub Projects
-layout: collection
+layout: projects
 paginate: true
 permalink: /projects/
 entries_layout: grid
-collection: projects
-sort_by: date
-sort_order: reverse
 header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
+collection: projects
 ---
 To find out more about Charnwood Eco Hub projects, [subscribe to our newsletter &raquo;](/contact) 
+

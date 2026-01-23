@@ -1,0 +1,18 @@
+---
+layout: single
+---
+{%- assign entries_layout = page.entries_layout | default: 'list' -%}
+
+<h1>Our Main Projects</h1>
+
+<div class="homepage_container">
+  {%- include documents-collection-tagged.html collection='projects' sort_by=page.sort_by sort_order=page.sort_order type=entries_layout tag='shop' -%}
+  {%- include documents-collection-tagged.html collection='projects' sort_by=page.sort_by sort_order=page.sort_order type=entries_layout tag='project' -%}
+</div>
+
+<h1>Featured Eco Hub Initiatives</h1>
+
+<div class="homepage_container">
+  {%- include documents-collection-tagged.html collection='projects' sort_by=page.sort_by sort_order=page.sort_order type=entries_layout tag='featured-shop' -%}
+  {%- include documents-collection-tagged.html collection='projects' sort_by=page.sort_by sort_order=page.sort_order type=entries_layout tag='featured-lot' -%}
+</div>

@@ -53,14 +53,10 @@ Public parking is available on Clarence Street, however please note that this is
 </div>
 <div class="grid__item">
     👉 <b>Daytime entry:</b> via the SOFA main entrance<br/>
-    👉 <b>Evening entry:</b> via the Clarence Street side entrance opposite Travis Perkins (lift access available dur
-ing the day only)<br/>
+    👉 <b>Evening entry:</b> via the Clarence Street side entrance opposite Travis Perkins (please note that the lift is currently out of order)<br/>
 </div>
 <div class="grid__item">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d603.393233533241!2d-1.
-1993882462333572!3d52.7759762073097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879e
-1897ec37229%3A0xf91f3a0d92774cc1!2sCharnwood%20Eco%20hub!5e0!3m2!1sen!2suk!4v1737726164221!5m
-2!1sen!2suk" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" ref
-errerpolicy="no-referrer-when-downgrade"></iframe>
+    <a target="_blank" href="https://www.google.com/maps/place/Charnwood+Eco+Hub/@52.7760403,-1.2018344,17z/data=!3m1!4b1!4m6!3m5!1s0x4879e1897ec37229:0xf91f3a0d92774cc1!8m2!3d52.7760403!4d-1.1992595!16s%2Fg%2F11wwx3845k?entry=ttu&g_ep=EgoyMDI2MDEyMC4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D">
+    <img src="/assets/img/mini-map.png" alt="Map graphic">Find us on the map &raquo;</a>
 </div>
 </div>

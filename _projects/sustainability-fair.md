@@ -1,11 +1,11 @@
 ---
 title: Charnwood Sustainability Fair
 layout: single
-collection: projects
 header:
   show_overlay_excerpt: false
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   teaser: /assets/img/thumbs/charnwood-sustainability-fair-2025-thumbnail.png
+collection: projects-other
 ---
 
 # The Charnwood Sustainability Fair

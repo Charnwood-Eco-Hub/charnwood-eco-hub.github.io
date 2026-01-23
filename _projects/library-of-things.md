@@ -1,11 +1,13 @@
 ---
 title: Charnwood Eco Hub Library of Things
 layout: single
-collection: projects
 header:
   show_overlay_excerpt: false
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
   teaser: /assets/img/thumbs/reception-portrait.jpg
+collection: projects
+tags:
+- project
 ---
 
 # The Charnwood Eco Hub Library of Things 
