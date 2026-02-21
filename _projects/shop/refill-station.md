@@ -4,7 +4,7 @@ layout: single
 header:
   show_overlay_excerpt: false
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
-  teaser: /assets/img/refill-station-containers.jpg
+  teaser: /assets/img/thumbs/refill-station-containers.jpg
 collection: projects
 redirect_from: /projects/refill-station/
 tag:

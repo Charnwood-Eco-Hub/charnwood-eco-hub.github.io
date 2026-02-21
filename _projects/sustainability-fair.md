@@ -4,19 +4,19 @@ layout: single
 header:
   show_overlay_excerpt: false
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
-  teaser: /assets/img/thumbs/charnwood-sustainability-fair-2025-thumbnail.png
-collection: projects-other
+  teaser: /assets/img/thumbs/sustainability-fair-2026-poster.png
+collection: projects
+tags:
+- featured-susfair
 ---
+# Celebrating Positive Action
 
-# The Charnwood Sustainability Fair
+The fair is a celebration of positive action - bringing together people who care about the environment, community wellbeing, and practical solutions for more sustainable living.
 
-![Charnwood Sustainability Fair](/assets/img/charnwood-sustainability-fair-2025.png)
+We invite you to come and join us in Queens Park, Loughborough on May 3rd 2026 from 10AM to 3PM for conversation, inspiration, activities and ideas.
 
-This year’s Sustainability Fair will take place on Sunday 21st September 2025 in Queen’s Park Loughborough from 10am-3pm, highlighting green initiatives and fostering community collaboration.
+![Charnwood Sustainability Fair 2026 poster](/assets/img/sustainability-fair-2026-poster.png)
 
-This much-anticipated event is a perfect opportunity for local businesses, organisations, and artisans to showcase their sustainable products and and eco-friendly services, and their knowledge and projects.
+If you are interested in holding a stall at this event, there are details available to read on [the application form](https://docs.google.com/forms/d/e/1FAIpQLSeNWu5HIpyn14zF6dsSn6W4V1ltHEq5KNO_HFJMfXmB7E2X3g/viewform).
 
-We will have stalls representing a variety of local sustainability and eco groups, including Transition Loughborough, Incredible Edibles, etc. sharing information on their projects, how you can get involved and how you can lower your own carbon footprint, as well as entertainment, workshops and local small businesses selling sustainable products and gifts, like Men & Women in Sheds and Buckingham Bees.
-
-Don’t miss your chance to be part of these inspiring events! <a href="https://docs.google.com/forms/d/e/1FAIpQLSf2mnGIMpkyc2NDdWitvRAt_lU1gaLYp078gaHj2V_p6TcmGw/viewform">Apply now</a> to help shape a sustainable Charnwood.
-
+Stall holders require their own gazebo and table. Stalls are £20 each.

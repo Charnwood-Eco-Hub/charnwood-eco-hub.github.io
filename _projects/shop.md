@@ -7,7 +7,7 @@ header:
   teaser: /assets/img/thumbs/eco-hub-shop.jpg
 collection: projects
 tag:
-- shop
+- project
 ---
 # We’re excited to announce that our shop is now open!
 

@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-02-07
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Celebrating Our First Year
  

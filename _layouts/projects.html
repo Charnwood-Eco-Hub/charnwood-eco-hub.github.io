@@ -1,18 +1,23 @@
 ---
-layout: single
+layout: archive
 ---
+{{ content }}
 {%- assign entries_layout = page.entries_layout | default: 'list' -%}
 
-<h1>Our Main Projects</h1>
-
 <div class="homepage_container">
-  {%- include documents-collection-tagged.html collection='projects' sort_by=page.sort_by sort_order=page.sort_order type=entries_layout tag='shop' -%}
-  {%- include documents-collection-tagged.html collection='projects' sort_by=page.sort_by sort_order=page.sort_order type=entries_layout tag='project' -%}
+  <div class="grid__item" style="width:100%"><h1>Our Main Projects</h1></div>
+  <div class="entries-{{ entries_layout }}">
+    {%- include documents-collection-tagged.html collection='projects' sort_by=page.sort_by sort_order=page.sort_order type=entries_layout tag='shop' -%}
+    {%- include documents-collection-tagged.html collection='projects' sort_by=page.sort_by sort_order=page.sort_order type=entries_layout tag='project' -%}
+  </div>
 </div>
 
-<h1>Featured Eco Hub Initiatives</h1>
-
 <div class="homepage_container">
-  {%- include documents-collection-tagged.html collection='projects' sort_by=page.sort_by sort_order=page.sort_order type=entries_layout tag='featured-shop' -%}
-  {%- include documents-collection-tagged.html collection='projects' sort_by=page.sort_by sort_order=page.sort_order type=entries_layout tag='featured-lot' -%}
+  <div class="grid__item" style="width:100%"><hr/></div>
+  <div class="grid__item" style="width:100%"><h1>Featured Eco Hub Initiatives</h1></div>
+  <div class="entries-{{ entries_layout }}">
+    {%- include documents-collection-tagged.html collection='projects' sort_by=page.sort_by sort_order=page.sort_order type=entries_layout tag='featured-shop' -%}
+    {%- include documents-collection-tagged.html collection='projects' sort_by=page.sort_by sort_order=page.sort_order type=entries_layout tag='featured-lot' -%}
+    {%- include documents-collection-tagged.html collection='projects' sort_by=page.sort_by sort_order=page.sort_order type=entries_layout tag='featured-susfair' -%}
+  </div>
 </div>
