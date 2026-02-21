@@ -1,0 +1,31 @@
+<div class="page__footer-follow">
+  <div>Follow Charnwood Eco Hub on social media:</div>
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
+
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+
+    {% unless site.atom_feed.hide %}
+      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    {% endunless %}
+  </ul>
+</div>
+
+<div class="page__footer-copyright">Copyright {{ site.time | date: '%Y' }} {{ site.copyright | default: site.title }}. Charnwood Eco Hub is a Community Interest Company Limited by Guarantee (No. 14801163), registered in England and Wales. Please see our <a href="/policies">Terms and Conditions</a> and <a href="/policies">Policies</a> for more information about how Charnwood Eco Hub operates.
+</div>
+<br/>
+<div class="page__footer-copyright">
+Charnwood Eco Hub gratefully acknowledges the following organizations for their invaluable support:</div>
+<br/>
+<div class="page__footer-copyright">
+<a href="https://www.charnwood.gov.uk/"><img style="max-width:25%" alt="Charnwood Borough Council" src="/assets/img/footer/charnwood-borough-council-logo-small.png"></a>&nbsp;<a href="https://www.intelligent-energy.com/"><img style="max-width:20%" alt="Intelligent Energy logo" src="/assets/img/footer/intelligent-energy-logo.png"></a>&nbsp;<a href="https://chestertonhouse.co.uk/foundation/"><img style="max-width:25%" alt="Chesterton House logo" src="/assets/img/footer/chesterton-house-logo-small.png"></a>&nbsp;<a href="https://www.tnlcommunityfund.org.uk/"><img style="max-width:25%" alt="National Lottery Community Fund logo" src="/assets/img/footer/national-lottery-logo.png"></a>&nbsp;<a href="https://martinh.net/"><img style="max-width:25%" alt="MartinH.Net logo" src="/assets/img/footer/martinh-net-logo-small.png"></a>
+</div>
+
