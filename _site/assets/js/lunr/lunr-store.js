@@ -421,9 +421,21 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Slow Stitching workshop",
         "excerpt":"Charnwood Eco Hub Slow Stitching workshop   Using simple stitching, we calm our emotions and enjoy the tactile rhythm of each stitch rather than rushing to finish.   You’ll choose fabric scraps that speak to you, sew them together intuitively, and embrace imperfections along the way — because this workshop is about presence, not perfection.   You can book by scanning the QR code on the poster or here.      ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/slow-stitching-workshop/",
         "teaser": "/assets/img/thumbs/slow-stitching-workshop-march26.png"
+      },{
+        "title": "Charnwood Eco Hub Sock Monster Workshop",
+        "excerpt":"Charnwood Eco Hub Sock Monster Workshop   Do you have a stash of lonely, lost, odd socks? Come to Charnwood Eco Hub on Saturday 21st March 2026 from 11am-1pm, and learn how to repurpose them to make a sock monster with character.   If you don’t have your own socks to bring along, don’t worry, there will be plenty for you to choose from.   This workshop uses basic handsewing techniques so has a minimum age requirement of 10 years. We ask that all children are accompanied by an adult for the duration of the workshop, the accompanying adult does not have to be taking part in the workshop if they do not wish to do so. Please note that only people who have paid for tickets will be able to participate with the activity.   You can book your place by scanning the QR code on the poster or here. The workshop costs £15, discounted to £10 for students and Eco Hub members.      ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/sock-monster-workshop/",
+        "teaser": "/assets/img/thumbs/sock-monster-workshop-mar26.png"
+      },{
+        "title": "Charnwood Eco Hub Sari Necklace Workshop",
+        "excerpt":"Charnwood Eco Hub Sari Necklace Workshop   Come to Charnwood Eco Hub from 11am-1pm on Saturday 18th April 2026 and learn how to make your very own, lovely, hand sewn, unique necklace, using beautiful colourful sari fabric   You can book your place by scanning the QR code on the poster or here. The workshop costs £15, discounted to £10 for students and Eco Hub members.      ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/sari-necklace-workshop-apr26/",
+        "teaser": "/assets/img/thumbs/sari-necklace-workshop-apr26.png"
       },{
         "title": "Charnwood Sustainability Fair May 2026",
         "excerpt":"Celebrating Positive Action   The fair is a celebration of positive action - bringing together people who care about the environment, community wellbeing, and practical solutions for more sustainable living.   We invite you to come and join us in Queens Park, Loughborough on May 3rd 2026 from 10AM to 3PM for conversation, inspiration, activities and ideas.      If you are interested in holding a stall at this event, there are details available to read on the application form.   Stall holders require their own gazebo and table. Stalls are £20 each.   ","categories": [],

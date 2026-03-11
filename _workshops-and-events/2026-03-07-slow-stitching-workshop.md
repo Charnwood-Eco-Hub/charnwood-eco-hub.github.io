@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-03-07
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Hub Slow Stitching workshop
 
@@ -19,5 +19,5 @@ You’ll choose fabric scraps that speak to you, sew them together intuitively, 
 
 You can book by scanning the QR code on the poster or [here](https://www.eventbookings.com/b/event/slow-stitching-workshop-6978be437a9fa9-11220393).
 
-![[Slow stitching workshop poster](https://www.eventbookings.com/b/event/slow-stitching-workshop-6978be437a9fa9-11220393)](/assets/img/slow-stitching-workshop-march26.png)
+[![Slow stitching workshop poster](/assets/img/slow-stitching-workshop-march26.png)](https://www.eventbookings.com/b/event/slow-stitching-workshop-6978be437a9fa9-11220393)
 
