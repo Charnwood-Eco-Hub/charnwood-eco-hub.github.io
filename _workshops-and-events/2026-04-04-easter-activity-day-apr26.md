@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-04-04
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Hub Easter Activity Day
 
