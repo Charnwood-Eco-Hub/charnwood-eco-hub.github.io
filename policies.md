@@ -5,10 +5,6 @@ sitemap: false
 header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
 feature_row_terms:
-  - image_path: /assets/img/thumbs/ceh-makerspace-terms-thumbnail.png
-    alt: "Charnwood Eco Hub Makerspace Terms and Conditions"
-    btn_label: "Makerspace Terms and Conditions"
-    url: "/policies/Charnwood Eco Hub Makerspace Terms and Conditions.pdf"
   - image_path: /assets/img/thumbs/ceh-library-of-things-terms-thumbnail.png
     alt: "Charnwood Eco Hub Library of Things Terms and Conditions"
     btn_label: "Library of Things Terms and Conditions"
