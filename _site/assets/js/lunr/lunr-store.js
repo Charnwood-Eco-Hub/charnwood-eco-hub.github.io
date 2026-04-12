@@ -454,4 +454,16 @@ var store = [{
         "tags": ["upcoming"],
         "url": "/workshops-and-events/sustainability-fair-2026/",
         "teaser": "/assets/img/thumbs/sustainability-fair-2026-poster.png"
+      },{
+        "title": "Charnwood Eco Hub Creative Journalling Workshop",
+        "excerpt":"Charnwood Eco Hub Creative Journalling Workshop   Join us on Saturday May 9th 2026 from 11AM-1PM to learn about Creative Journalling, how to create your own journal and build a writing practice.   We will use collage to create a set of self collage cards and you will take writing prompts and visual ideas home to carry on building your own creative journal.   You can book your place by scanning the QR code on the poster or here. The workshop costs £15, discounted to £10 for students and Eco Hub members.      ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/creative-journalling-workshop-may26/",
+        "teaser": "/assets/img/thumbs/creative-journalling-workshop-may26.png"
+      },{
+        "title": "Charnwood Eco Hub Burlesque Craft Workshop (18+)",
+        "excerpt":"Charnwood Eco Hub Burlesque Craft Workshop (18+)   Join us on Saturday May 23rd 2026 from 11AM-1PM for a relaxed, body-positive craft workshop where you’ll design and make your own decorative tassel pasties using reclaimed and upcycled materials.   Whether you go bold and sparkly or simple and stylish, this is all about creativity, confidence, and having fun in a safe, welcoming space. Inspired by the playful art of burlesque, this workshop focuses on costume design, self-expression,and sustainable making.   What to expect:      Step-by-step guidance   All materials provided (sustainably sourced)   No experience needed   Inclusive of all genders and body types   No pressure to wear or model your creation.   Optional: Bring your own fabrics, trims or embellishments to personalise your design.   Please note: This is a friendly, respectful, adult-only (18+) workshop.   You can book your place by scanning the QR code on the poster or here. The workshop costs £15, discounted to £10 for Eco Hub members.      ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/burlesque-craft-workshop-may26/",
+        "teaser": "/assets/img/thumbs/burlesque-craft-workshop-may26.png"
       }]
