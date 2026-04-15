@@ -17,7 +17,7 @@ tags:
 
 We will use collage to create a set of self collage cards and you will take writing prompts and visual ideas home to carry on building your own creative journal.
 
-You can book your place by scanning the QR code on the poster or [here](https://www.eventbookings.com/b/event/creative-journalling-workshop-69d94aa97adf97-17684473). The workshop costs £15, discounted to £10 for students and Eco Hub members.
+You can book your place by scanning the QR code on the poster or [here](https://www.eventbookings.com/b/event/creative-journalling-workshop-69d94aa97adf97-17684473). The workshop costs £15, discounted to £10 for students, low income and Eco Hub members.
 
 [![Creative Journalling poster](/assets/img/creative-journalling-workshop-may26.png)](https://www.eventbookings.com/b/event/creative-journalling-workshop-69d94aa97adf97-17684473)
 
