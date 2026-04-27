@@ -14,9 +14,10 @@ Welcome to the March edition of the Charnwood Eco Hub newsletter! As spring begi
 
 Now that we’re officially open, we’d love for you to drop by and explore everything we have to offer. Whether you’re borrowing from our [Library of Things](/projects/library-of-things), finding hidden treasures in the [Scrapstore](/projects/scrapstore), or would like to volunteer with us, we’re here for it! Our **opening hours** are:
 
-🕰️ Wednesday: 4 PM – 8 PM<br/>
-🕰️ Thursday 10 AM - 2 PM<br/>
-🕰️ Saturday: 10 AM – 2 PM<br/>
+🕰️ Monday: 2PM – 6PM<br/>
+🕰️ Wednesday: 4PM – 8PM<br/>
+🕰️ Thursday 10AM - 2PM<br/>
+🕰️ Saturday: 10AM – 2PM<br/>
 
 You can find us on the first floor at SOFA, Towles Mill Building, Clarence Street, Loughborough, LE11 1DY. Daytime entry via the SOFA main entrance; evening access via the Clarence Street side entrance, opposite Travis Perkins (lift access daytime only)
 

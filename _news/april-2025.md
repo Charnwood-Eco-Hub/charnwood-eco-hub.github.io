@@ -14,12 +14,13 @@ date: 2025-04-22
 
 With longer days and fresh spring energy in the air, we're excited to bring you the latest updates, initiatives, and events helping to build a greener, more sustainable Charnwood. April is a time for new beginnings, and what better way to embrace the season than by getting involved in our growing eco-conscious community?
 
-If you haven’t visited us yet, now’s the perfect time! Whether you're borrowing from our **Library of Things**, discovering treasures in the **Scrapstore**, or looking to **volunteer**, we’d love to see you. **From 28th April**, we will also be opening on **Monday evenings from 5pm-9pm**.
+If you haven’t visited us yet, now’s the perfect time! Whether you're borrowing from our **Library of Things**, discovering treasures in the **Scrapstore**, or looking to **volunteer**, we’d love to see you.
 
 **Our opening hours:**<br/>
-🕰 **Wednesday:** 4 PM – 8 PM<br/>
-🕰 **Thursday:** 10 AM – 1 PM<br/>
-🕰 **Saturday:** 10 AM – 2 PM
+🕰 **Monday:** 2PM – 6PM<br/>
+🕰 **Wednesday:** 4PM – 8PM<br/>
+🕰 **Thursday:** 10AM – 1PM<br/>
+🕰 **Saturday:** 10AM – 2PM
 
 📍 Find us on the first floor at **SOFA, Towles Mill Building, Clarence Street, Loughborough, LE11 1DY**<br/>
 👉 **Daytime entry:** via the SOFA main entrance<br/>
