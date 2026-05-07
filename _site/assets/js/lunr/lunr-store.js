@@ -451,7 +451,7 @@ var store = [{
       },{
         "title": "Charnwood Sustainability Fair May 2026",
         "excerpt":"Celebrating Positive Action   The fair is a celebration of positive action - bringing together people who care about the environment, community wellbeing, and practical solutions for more sustainable living.   We invite you to come and join us in Queens Park, Loughborough on May 3rd 2026 from 10AM to 3PM for conversation, inspiration, activities and ideas.      If you are interested in holding a stall at this event, there are details available to read on the application form.   Stall holders require their own gazebo and table. Stalls are £20 each.   ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/sustainability-fair-2026/",
         "teaser": "/assets/img/thumbs/sustainability-fair-2026-poster.png"
       },{

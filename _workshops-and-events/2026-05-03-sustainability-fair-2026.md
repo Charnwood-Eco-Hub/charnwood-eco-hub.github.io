@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-05-03
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Celebrating Positive Action
 
