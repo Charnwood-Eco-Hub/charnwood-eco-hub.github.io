@@ -457,7 +457,7 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Creative Journalling Workshop",
         "excerpt":"Charnwood Eco Hub Creative Journalling Workshop   Join us on Saturday May 9th 2026 from 11AM-1PM to learn about Creative Journalling, how to create your own journal and build a writing practice.   We will use collage to create a set of self collage cards and you will take writing prompts and visual ideas home to carry on building your own creative journal.   You can book your place by scanning the QR code on the poster or here. The workshop costs £15, discounted to £10 for students, low income and Eco Hub members.      ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/creative-journalling-workshop-may26/",
         "teaser": "/assets/img/thumbs/creative-journalling-workshop-may26.png"
       },{
