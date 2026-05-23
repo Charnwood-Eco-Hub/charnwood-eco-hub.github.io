@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-05-23
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Hub Burlesque Craft Workshop (18+)
 
