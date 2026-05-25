@@ -33,8 +33,8 @@ or make a thoughtful handmade gift.**
 
 You can book your place by scanning the QR code on the poster or [click
 here](https://www.eventbookings.com/b/event/upcycled-terrarium-workshop). The
-workshop costs £10 per person for students / retired / low income, £15 per
-person standard price.
+workshop costs £10 per person for students, low income, retired or Eco Hub
+members, £15 per person standard price.
 
 [![Upcycled Coffee Jar Terrarium Workshop poster](/assets/img/terrarium-workshop-jul26.png)](https://www.eventbookings.com/b/event/upcycled-terrarium-workshop)
 

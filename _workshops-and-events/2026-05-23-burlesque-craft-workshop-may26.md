@@ -30,7 +30,7 @@ Optional: Bring your own fabrics, trims or embellishments to personalise your de
 
 Please note: This is a friendly, respectful, adult-only (18+) workshop.
 
-You can book your place by scanning the QR code on the poster or [here](https://www.eventbookings.com/b/event/burlesque-pasties-workshop). The workshop costs £15, discounted to £10 for students, low income and Eco Hub members.
+You can book your place by scanning the QR code on the poster or [here](https://www.eventbookings.com/b/event/burlesque-pasties-workshop). The workshop costs £15, discounted to £10 for students, low income, retired and Eco Hub members.
 
 [![Burlesque Craft Workshop poster](/assets/img/burlesque-craft-workshop-may26.png)](https://www.eventbookings.com/b/event/burlesque-pasties-workshop)
 

@@ -26,8 +26,8 @@ supplied by Two Wheel Campus.
 
 You can book your place by scanning the QR code on the poster or [click
 here](https://www.eventbookings.com/b/event/inner-tube-jewellery-workshop).
-The workshop costs £10 per person for students / retired / low income, £15 per
-person standard price.
+The workshop costs £10 per person for students, low income, retired or Eco Hub
+members, £15 per person standard price.
 
 
 [![Upcycled Inner Tube Jewellery workshop poster](/assets/img/upcycled-innertube-workshop-jun26.png)](https://www.eventbookings.com/b/event/inner-tube-jewellery-workshop).

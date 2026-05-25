@@ -31,7 +31,7 @@ printed pieces and the confidence to continue screen printing at home.
 
 You can book your place by scanning the QR code on the poster or [click
 here](https://www.eventbookings.com/b/event/screen-printing-workshop). The
-workshop costs £10 per person for students / retired / low income, £15 per
-person standard price.
+workshop costs £10 per person for students, retired, low income or Eco Hub
+members, £15 per person standard price.
 
 [![Screenprinting Workshop poster](/assets/img/screenprinting-workshop-jul26.png)](https://www.eventbookings.com/b/event/screen-printing-workshop)

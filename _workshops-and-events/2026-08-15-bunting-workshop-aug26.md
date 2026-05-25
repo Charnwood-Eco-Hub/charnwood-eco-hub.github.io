@@ -32,8 +32,8 @@ making your own at home for any occasion.**
 
 You can book your place by scanning the QR code on the poster or [click
 here](https://www.eventbookings.com/b/event/bunting-making-workshop). The
-workshop costs £10 per person for students / retired / low income, £15 per
-person standard price.
+workshop costs £10 per person for students, retired, low income or Eco Hub
+members, £15 per person standard price.
 
 [![Bunting Workshop poster](/assets/img/bunting-workshop-aug26.png)](https://www.eventbookings.com/b/event/bunting-making-workshop)
 
