@@ -13,6 +13,6 @@ layout: archive
   <div class="grid__item" style="width:100%"><hr/></div>
   <div class="grid__item" style="width:100%"><h1>Previous events</h1></div>
   <div class="entries-{{ entries_layout }}">
-    {%- include documents-collection-tagged.html collection=page.collection sort_by=date sort_order='descending' type=entries_layout tag='archive' -%}
+    {%- include documents-collection-tagged.html collection=page.collection sort_by=date sort_order='reverse' type=entries_layout tag='archive' -%}
   </div>
 </div>

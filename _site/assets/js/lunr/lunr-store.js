@@ -485,11 +485,23 @@ var store = [{
         "url": "/workshops-and-events/upcycled-innertube-workshop-jun26/",
         "teaser": "/assets/img/thumbs/upcycled-innertube-workshop-jun26.png"
       },{
+        "title": "Charnwood Eco Hub Plant Swap",
+        "excerpt":"Charnwood Eco Hub Plant Swap   Join us on Saturday 20th June 2026 from 11am-1pm at Charnwood Eco Hub, SOFA Building, Clarence Street, Loughborough, LE11 1DY for our first Plant Swap. It’s free, and no need to book.   Got spare seedlings, cuttings, houseplants, herbs, or garden plants?   Bring them along to our friendly community Plant Swap and exchange them for something new!   Come along for a chat, share gardening tips, and help support a greener, more sustainable future.   Please make sure any plants you bring are healthy and happy!      ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/plant-swap/",
+        "teaser": "/assets/img/thumbs/plant-swap-jun26.png"
+      },{
         "title": "Charnwood Eco Hub Handmade Book Workshop",
         "excerpt":"Charnwood Eco Hub Handmade Book Workshop   Join us on Saturday June 27th 2026, from 11am-1pm at Charnwood Eco Hub, SOFA Building, Clarence Street, Loughborough, LE11 1DY for a creative, hands-on Upcycled Bookmaking Workshop, where discarded materials are transformed into beautiful, one-of-a-kind notebooks and sketchbooks.   Using reclaimed paper, fabric offcuts, packaging and other salvaged materials, you’ll learn simple bookbinding techniques to design and assemble your own unique book from scratch. This workshop is perfect for beginners and seasoned makers alike, and is all about creativity, sustainability, and giving new life to forgotten materials.   Expect a relaxed, welcoming atmosphere, plenty of inspiration, and the chance to experiment with texture, colour, and form while reducing waste in a meaningful way.   Leave with a finished handmade book—and the skills to keep creating at home.   You can book your place by scanning the QR code on the poster or click here. The workshop costs £10 per person for students, low income, retired or Eco Hub members, £15 per person standard price.      ","categories": [],
         "tags": ["upcoming"],
         "url": "/workshops-and-events/handmade-book-workshop-jun26/",
         "teaser": "/assets/img/thumbs/handmade-book-workshop-jun26.png"
+      },{
+        "title": "Charnwood Eco Hub Tabletop Sale",
+        "excerpt":"Charnwood Eco Hub Tabletop Sale   Join us on Saturday 4th July 2026 from 10am-2pm at Charnwood Eco Hub, SOFA Building, Clarence Street, Loughborough, LE11 1DY for our first Tabletop Sale. It’s free, and no need to book.   We’re having a clear out!   Come and rummage through a treasure trove of tools, homeware, books, eco bits, and all sorts of useful odds and ends looking for a new home.   Bargains, surprises, and sustainable shopping galore — because one person’s surplus is another person’s inspiration!      ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/tabletop-sale/",
+        "teaser": "/assets/img/thumbs/tabletop-sale-jul26.png"
       },{
         "title": "Charnwood Eco Hub Upcycled Coffee Jar Terrarium Workshop",
         "excerpt":"Charnwood Eco Hub Upcycled Coffee Jar Terrarium Workshop   Join us on Saturday July 11th 2026 from 11am-1pm at Charnwood Eco Hub, SOFA Building, Clarence Street, Loughborough, LE11 1DY for a hands-on Upcycled Coffee Jar Terrarium Workshop, where you’ll turn used glass coffee jars into beautiful miniature ecosystems.   Working with reclaimed materials and natural elements, you’ll learn how to layer soil, stones, moss and plants to create a self-contained terrarium that thrives in glass. We’ll guide you through the process step-by-step, including how to choose the right plants and care for your finished creation.   This is a relaxing, creative workshop suitable for all skill levels, and a great way to explore sustainability through design while giving everyday waste a second life.   You’ll leave with your own finished terrarium, ready to brighten your home or make a thoughtful handmade gift.   You can book your place by scanning the QR code on the poster or click here. The workshop costs £10 per person for students, low income, retired or Eco Hub members, £15 per person standard price.      ","categories": [],
