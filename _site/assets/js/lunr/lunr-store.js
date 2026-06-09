@@ -469,13 +469,13 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Natural History Drawing Workshop (12+)",
         "excerpt":"Charnwood Eco Hub Natural History Drawing Workshop (12+)   Join us on Thursday May 28th 2026, from 10.30am-12pm or 12.30pm-2pm at Charnwood Eco Hub, SOFA Building, Clarence Street, Loughborough, LE11 1DY for a relaxed observational drawing session featuring museum specimens from The Skull Index CIC. Network and chat with other creatives of all ages while studying the form, texture, and light of various animal skulls, fossils, feathers, and more.   What’s happening:      Bring your own sketchbook/supplies OR use the materials provided (all sustainably sourced)   No experience needed - From Novice to Professional, all skill levels are welcome.   Three scenes of a large selection of specimens will be available to sketch (30min rotation, or focus on one scene!)   Zero pressure to share your sketches at the end of the workshop, you can sit back, chat, sketch, and enjoy!   You can book your place by scanning the QR code on the poster or click here. The workshop costs £5 per person, free for 12-16 years old. Please note: an adult must accompany under-18s.      ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/observational-drawing-workshop-may26/",
         "teaser": "/assets/img/thumbs/observational-drawing-workshop-may26.png"
       },{
         "title": "Charnwood Eco Hub Paint A Birdbox Family Workshop",
         "excerpt":"Charnwood Eco Hub Paint A Birdbox Family Workshop   Join us on Saturday May 30th 2026, from 11am-1pm at Charnwood Eco Hub, SOFA Building, Clarence Street, Loughborough, LE11 1DY   Decorate your own swift box and create a cosy home for these acrobatic migratory birds!   A fun creative workshop with paints, craft materials and guidance provided. Suitable for all ages. £5 each (birdbox included). Birdboxes provided by ID Verde. Book your ticket and drop in any time between 11am-1pm. Children must be accompanied by an adult.   You can book your place by scanning the QR code on the poster or click here     ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/birdbox-workshop-may26/",
         "teaser": "/assets/img/thumbs/birdbox-workshop-may26.png"
       },{

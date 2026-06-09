@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-05-28
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Hub Natural History Drawing Workshop (12+)
 

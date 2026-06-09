@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-05-30
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Hub Paint A Birdbox Family Workshop
 
