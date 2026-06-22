@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-06-20
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Hub Plant Swap
 
