@@ -13,10 +13,10 @@ tags:
 ---
 # Charnwood Eco Hub Bunting Workshop
 
-Join us on Saturday 15th August 2026 from 11am-1pm at Charnwood Eco Hub,
-SOFA Building, Clarence Street, Loughborough, LE11 1DY for a fun and creative
-*Bunting Making Workshop*, where you’ll design and sew your own unique bunting
-using reclaimed and repurposed fabrics.
+Join us on Saturday 15th August 2026 from 11am-1pm at Charnwood Eco Hub, 7-8
+Baxter Gate, Loughborough, LE11 1TG for a fun and creative *Bunting Making
+Workshop*, where you’ll design and sew your own unique bunting using reclaimed
+and repurposed fabrics.
 
 Choose from a wide range of colourful offcuts, vintage textiles and surplus
 materials to create a personalised string of flags perfect for home décor,

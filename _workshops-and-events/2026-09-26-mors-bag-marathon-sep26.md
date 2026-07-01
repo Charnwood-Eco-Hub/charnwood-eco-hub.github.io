@@ -13,10 +13,10 @@ tags:
 ---
 # Charnwood Eco Marathon Mors Bag Make
 
-Join us on Saturday 26th September 2026 from 11am-1pm at Charnwood Eco Hub,
-SOFA Building, Clarence Street, Loughborough, LE11 1DY for our *Marathon Mors
-Bag Make Session*, a creative, hands-on workshop where you’ll design and make
-your own reusable bag using reclaimed and surplus materials.
+Join us on Saturday 26th September 2026 from 11am-1pm at Charnwood Eco Hub, 7-8
+Baxter Gate, Loughborough, LE11 1TG for our *Marathon Mors Bag Make Session*, a
+creative, hands-on workshop where you’ll design and make your own reusable bag
+using reclaimed and surplus materials.
 
 Working with durable offcuts and repurposed textiles, you’ll learn simple
 construction techniques to create a strong, practical bag that’s perfect

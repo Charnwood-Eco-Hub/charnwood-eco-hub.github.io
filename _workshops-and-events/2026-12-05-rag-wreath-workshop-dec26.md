@@ -13,10 +13,10 @@ tags:
 ---
 # Charnwood Eco Hub Rag Wreath Workshop
 
-Join us at the Eco Hub on Saturday 5th December 2026 from 11am-1pm for a
-creative and calming *Rag Wreath Making Workshop*, where you’ll transform
-fabric offcuts and reclaimed textiles into a beautiful, seasonal wreath for
-your home.
+Join us on Saturday 5th December 2026 at Charnwood Eco Hub, 7-8 Baxter Gate,
+Loughborough, LE11 1TG from 11am-1pm for a creative and calming *Rag Wreath
+Making Workshop*, where you’ll transform fabric offcuts and reclaimed textiles
+into a beautiful, seasonal wreath for your home.
 
 Using a simple knotting technique, you’ll build texture, colour and shape
 as you work with a variety of rescued materials—giving new life to fabric
