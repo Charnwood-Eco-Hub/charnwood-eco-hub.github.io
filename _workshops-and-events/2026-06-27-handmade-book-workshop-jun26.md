@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-06-27
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Hub Handmade Book Workshop
 
