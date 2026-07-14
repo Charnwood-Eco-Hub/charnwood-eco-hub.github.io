@@ -9,40 +9,27 @@ collection: projects
 tag:
 - project
 ---
-# Help us make a makerspace!
+# Help us make a Makerspace!
 
 ![Makerspace signage going up](/assets/img/charnwood-eco-hub-signage.jpg){:width="75%"}
 
-We’re excited to announce that our new **makerspace** is coming together — a place where creativity, craftsmanship, and community meet. To make it happen, we’re looking for skilled and enthusiastic people who can help us set things up and get everything running smoothly.
+We’re excited to announce that our new Makerspace is on its way - a place where creativity, craftsmanship, and community meet. 
 
-If you’ve got experience in woodworking, metalworking, electronics, workshop setup, or just a knack for problem-solving, we’d love to hear from you!
+Here are some examples of what we have in the workshop:
 
-**Here’s what we already have in the workshop:**
-
-- Laser Cutter
-- Vacuum Former
 - Industrial Sewing Machine & Overlocker
 - Vinyl cutter
-- Pillar Drill
-- Lathe
-- CNC Router
-- Table Saw
 - 3D printers
-- Electric planer
-- A growing set of hand tools
-
-**And here’s what’s on the way:**
-
-- Bench saw
-- Band Saw
-- Belt Sander
 - Knitting machine
-- Soldering Stations
-- More specialist tools and equipment as we expand
+- Soldering Station
+- Electronics desk
+- Jewellery making tools
+- Screenprinting equipment
+- Die cutting machines
 
 We’re building more than just a workshop — we’re building a community resource. By volunteering your time and skills now, you’ll be helping lay the foundations for a space where people can learn, share, and make amazing things together.
 
-👉 Interested? Drop us a message at [charnwoodecohub@gmail.com](mailto:charnwoodecohub@gmail.com).
+Machine inductions cost £5, with equipment available to hire by the hour/half day. If you sign up for a Hub membership (which includes access to both the [Scrapstore](/projects/scrapstore) and [Library of Things](/projects/library-of-things)), your first induction is free! 
 
-Let’s create something incredible — together. 
+[Drop us an email](charnwoodecohub@gmail.com) or pop in for more information.
 

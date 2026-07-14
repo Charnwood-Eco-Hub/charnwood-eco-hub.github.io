@@ -13,8 +13,13 @@ tag:
 
 ![Charnwood Eco Hub Shop](/assets/img/eco-hub-shop.jpg)
 
-Our shop is stocked with a beautiful range of small upcycled and sustainably handmade items—perfect for
-meaningful presents that support local makers and reduce waste.
+Our shop is stocked with a small range of small upcycled and sustainably
+handmade items—perfect for meaningful presents that support local makers
+and reduce waste.We also stock some brand new donated craft items like
+papers, paints and glues, perfect for your craft projects. We’re also now
+offering gift vouchers, ideal for those who’d love to choose their own
+eco-friendly treats, gift a Hub, Scrapstore or Library of Things
+membership, or experience one of our upcoming workshops.
 
 ![Eco Hub shop sample items](/assets/img/eco-hub-shop2.jpg)
 

@@ -35,5 +35,5 @@ here](https://www.eventbookings.com/b/event/rag-wreath-workshop). The
 workshop costs £10 per person for students, retired, low income or Eco Hub
 members, £15 per person standard price.
 
-[![Marathon Mors Bag Make poster](/assets/img/rag-wreath-workshop-dec26.png)](https://www.eventbookings.com/b/event/rag-wreath-workshop)
+[![Rag Wreath WorkshopRag poster](/assets/img/rag-wreath-workshop-dec26.png)](https://www.eventbookings.com/b/event/rag-wreath-workshop)
 

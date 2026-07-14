@@ -14,7 +14,13 @@ tag:
 
 ![Refill Station Containers](/assets/img/refill-station-containers.jpg){:width="75%"}
 
-Our new station offers a range of eco-friendly cleaning products including washing up liquid, laundry liquid and fabric conditioner and white vinegar, and personal care products, like shampoo conditioner and body wash, helping you reduce plastic waste and shop more sustainably. BYOB or buy one of our glass or plastic reusable bottles.
+We're excited to soon be expanding our refill station to include a range of
+dried food staples, making it even easier for our community to shop
+sustainably. Alongside our household cleaning and personal care refills,
+you'll soon be able to refill everyday essentials such as pasta, rice,
+lentils, cereals and more using your own containers. It's a simple way to
+reduce single-use packaging, cut food waste and help make sustainable
+shopping more affordable for everyone.
 
 ## Refill Station Products and Prices
 

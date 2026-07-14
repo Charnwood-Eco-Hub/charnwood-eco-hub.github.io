@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-07-11
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Hub Upcycled Coffee Jar Terrarium Workshop
 
