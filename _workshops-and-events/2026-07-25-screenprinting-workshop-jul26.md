@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-07-25
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Hub Screenprinting Workshop
 
