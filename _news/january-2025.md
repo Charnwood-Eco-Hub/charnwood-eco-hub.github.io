@@ -35,8 +35,6 @@ We hope you'll join us for our opening weekend!!
 **Towles Mill Building, Clarence Street, Loughborough, LE11 1DY**
 
 
-![Thank You!](/assets/img/thankyou.png)
-
 # Thank You!
 
 On behalf of the Eco Hub team, we extend our heartfelt thanks to all who have supported us over the last year —whether through volunteering, financial contributions, or donations of materials and equipment. Your time, energy, and generosity have been instrumental in helping us to grow our initiatives and be able to make a meaningful impact in the community.
