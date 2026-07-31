@@ -176,11 +176,11 @@ Don't forget to [let us know](mailto:info@charnwoodecoohub.org.uk) about your up
 <br/>
 <br/>
 
-[![Where to find us](/assets/img/where-to-find-us.jpg)](https://maps.app.goo.gl/U3KPymetAdaABK8s7)
-
 # Where to find us
 
 {% include where-to-find-us.html %}
+
+[![Where to find us](/assets/img/eco-hub-baxter-gate-map.png)](https://maps.app.goo.gl/U3KPymetAdaABK8s7)
 <br/>
 
 [Donate to Charnwood Eco Hub](https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY){: .btn .btn--success}

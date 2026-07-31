@@ -19,7 +19,9 @@ Now that we’re officially open, we’d love for you to drop by and explore eve
 🕰️ Thursday 10AM - 2PM<br/>
 🕰️ Saturday: 10AM – 2PM<br/>
 
-📍 Find us on the first floor at SOFA, Towles Mill Building, Clarence Street, Loughborough, LE11 1DY.
+~~📍 Find us on the first floor at SOFA, Towles Mill Building, Clarence Street, Loughborough, LE11 1DY.~~
+
+*Charnwood Eco Hub has moved to 7–8 Baxter Gate, Loughborough LE11 1TG*
 
 Stay tuned for exciting events, workshops, and community projects happening soon. Let’s keep the momentum going! 💚♻️
 
@@ -146,13 +148,12 @@ Whether it’s a workshop, clean-up day, educational talk, or market, sharing yo
 | ![Transition Repair Cafe](/assets/img/transition-loughborough-logo.png){:width="400px"}<br/> | **Transition Repair Cafe**<br/> *Saturday 8th March, 10AM-1PM*<br/> Fearon Hall, Loughborough |
 | ![Eco Fair](/assets/img/ecofair-logo.jpg){:width="400px"}<br/> | **Eco Fair**<br/> *Saturday 15th March, 10AM-4PM*<br/> Thorpe Acre Church, Loughborough |
 
-
-
-![Where to find us](/assets/img/where-to-find-us.jpg)
-
 # Where to find us
 
 {% include where-to-find-us.html %}
+
+[![Where to find us](/assets/img/eco-hub-baxter-gate-map.png)](https://maps.app.goo.gl/U3KPymetAdaABK8s7)
+
 
 [Donate to Charnwood Eco Hub](https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY){: .btn .btn--success}
 

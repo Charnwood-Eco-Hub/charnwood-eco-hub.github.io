@@ -22,9 +22,11 @@ If you haven’t visited us yet, now’s the perfect time! Whether you're borrow
 🕰 **Thursday:** 10AM – 1PM<br/>
 🕰 **Saturday:** 10AM – 2PM
 
-📍 Find us on the first floor at **SOFA, Towles Mill Building, Clarence Street, Loughborough, LE11 1DY**<br/>
-👉 **Daytime entry:** via the SOFA main entrance<br/>
-👉 **Evening entry:** via the Clarence Street side entrance opposite Travis Perkins _(lift access available during the day only)_
+~~📍 Find us on the first floor at **SOFA, Towles Mill Building, Clarence Street, Loughborough, LE11 1DY**<br/>~~
+~~👉 **Daytime entry:** via the SOFA main entrance<br/>~~
+~~👉 **Evening entry:** via the Clarence Street side entrance opposite Travis Perkins _(lift access available during the day only)_~~
+
+*Charnwood Eco Hub has moved to 7–8 Baxter Gate, Loughborough LE11 1TG*
 
 Keep reading for exciting workshops, events, and community projects happening this month. Let’s keep making a difference together! 💚♻️
 
@@ -155,11 +157,12 @@ Fearon Hall, Rectory Rd, Loughborough<br/>
 _Saturday 31st May, 9.30am-12.00pm_
 
 
-![Where to find us](/assets/img/where-to-find-us.jpg)
-
 # Where to find us
 
 {% include where-to-find-us.html %}
+
+[![Where to find us](/assets/img/eco-hub-baxter-gate-map.png)](https://maps.app.goo.gl/U3KPymetAdaABK8s7)
+
 
 [Donate to Charnwood Eco Hub](https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY){: .btn .btn--success}
 

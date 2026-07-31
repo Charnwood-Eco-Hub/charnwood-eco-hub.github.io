@@ -19,7 +19,9 @@ Now that we’re officially open, we’d love for you to drop by and explore eve
 🕰️ Thursday 10AM - 2PM<br/>
 🕰️ Saturday: 10AM – 2PM<br/>
 
-You can find us on the first floor at SOFA, Towles Mill Building, Clarence Street, Loughborough, LE11 1DY. Daytime entry via the SOFA main entrance; evening access via the Clarence Street side entrance, opposite Travis Perkins (lift access daytime only)
+~~You can find us on the first floor at SOFA, Towles Mill Building, Clarence Street, Loughborough, LE11 1DY. Daytime entry via the SOFA main entrance; evening access via the Clarence Street side entrance, opposite Travis Perkins (lift access daytime only)~~
+
+*Charnwood Eco Hub has moved to 7–8 Baxter Gate, Loughborough LE11 1TG*
 
 Read on for exciting events, workshops, and community projects happening soon. Let’s keep the momentum going! 💚♻️
 
@@ -119,11 +121,11 @@ The **Great British Spring Clean** is back from **15th to 31st March**, and it�
 
 
 
-![Where to find us](/assets/img/where-to-find-us.jpg)
-
 # Where to find us
 
 {% include where-to-find-us.html %}
+
+[![Where to find us](/assets/img/eco-hub-baxter-gate-map.png)](https://maps.app.goo.gl/U3KPymetAdaABK8s7)
 
 [Donate to Charnwood Eco Hub](https://www.paypal.com/donate/?hosted_button_id=V54MWPK2EZGPY){: .btn .btn--success}
 

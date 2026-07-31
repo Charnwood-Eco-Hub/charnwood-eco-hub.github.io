@@ -32,7 +32,9 @@ The hub will then open for the first time to the general public on Saturday, 1st
 
 We hope you'll join us for our opening weekend!!
 
-**Towles Mill Building, Clarence Street, Loughborough, LE11 1DY**
+~~**Towles Mill Building, Clarence Street, Loughborough, LE11 1DY**~~
+
+*Charnwood Eco Hub has moved to 7–8 Baxter Gate, Loughborough LE11 1TG*
 
 
 # Thank You!
