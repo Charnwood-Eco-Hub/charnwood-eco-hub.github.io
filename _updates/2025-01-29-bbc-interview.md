@@ -12,11 +12,13 @@ date: 2025-01-29
 
 We're really pleased that there is so much interest in our Eco Hub projects, including the Library of Things :-) Thank you to BBC Radio Leicester Journalist Kevin Ncube for coming to have a look around last week. Remember, we open our doors at 10am on Saturday 1st February.
 
-**Charnwood Eco Hub/SOFA**<br/>
+~~**Charnwood Eco Hub/SOFA**<br/>
 **Towles Mill Building**<br/>
 **Clarence Street**<br/>
 **Loughborough**<br/>
-**LE11 1DY**
+**LE11 1DY**~~
+
+*Charnwood Eco Hub has moved to 7–8 Baxter Gate, Loughborough LE11 1TG*
 
 You can listen to Kevin's interview with Charnwood Eco Hub co-director Emma Ward and SOFA's Julio Pacheco on [BBC Sounds](https://www.bbc.co.uk/programmes/p0kmkhs6){:target="_blank"}:
 
