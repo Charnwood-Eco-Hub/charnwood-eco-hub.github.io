@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-08-03
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Hub Kids Collage Workshop
 

@@ -529,7 +529,7 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Kids Collage Workshop",
         "excerpt":"Charnwood Eco Hub Kids Collage Workshop   Join us on Monday 3rd August 2026 from 2.30pm-4.30pm at Charnwood Eco Hub, 7-8 Baxter Gate, Loughborough, LE11 1TG for a fun-filled collage workshop where children can cut, stick and create their own unique masterpiece using recycled magazines, colourful papers, stickers and more. £5 per child. suitable for 8 years upwards (an adult must stay).   You can book your place by scanning the QR code on the poster or click here.      ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/kids-collage-workshop-aug26/",
         "teaser": "/assets/img/thumbs/kids-collage-workshop-poster-aug26.png"
       },{
