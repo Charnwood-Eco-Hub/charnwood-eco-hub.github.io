@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-08-10
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Hub Kaleidoscope Making Workshop
 

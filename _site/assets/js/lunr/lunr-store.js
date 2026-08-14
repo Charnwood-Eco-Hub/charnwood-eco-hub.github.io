@@ -535,13 +535,13 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Pride Flag Making Workshop",
         "excerpt":"Charnwood Eco Hub Pride Flag Making Workshop   Join us on Saturday 8th August 2026 from 11am-1pm at Charnwood Eco Hub, 7-8 Baxter Gate, Loughborough, LE11 1TG for a colourful felt flag making workshop.   Celebrate diversity and self-expression by designing and crafting your own Pride flag in a supportive, inclusive environment.   The workshop is free, but booking is required. You can book your place by scanning the QR code on the poster or click here.      ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/pride-flag-making-workshop-aug26/",
         "teaser": "/assets/img/thumbs/pride-flag-making-workshop-aug26.png"
       },{
         "title": "Charnwood Eco Hub Kaleidoscope Making Workshop",
         "excerpt":"Charnwood Eco Hub Kaleidoscope Making Workshop   Join us on Monday 10th August 2026 from 2.30pm-4.30pm at Charnwood Eco Hub, 7-8 Baxter Gate, Loughborough, LE11 1TG to create your own magical kaleidoscope from upcycled materials and discover the colourful patterns hidden inside!   A fun, hands-on workshop that sparks creativity while giving everyday items a new life. All materials provided. Adult must stay. £5 per child.   You can book your place by scanning the QR code on the poster or click here.      ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/kaleidoscope-making-workshop-aug26/",
         "teaser": "/assets/img/thumbs/kaleidoscope-making-workshop-aug26.png"
       },{
