@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-08-22
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Hub Simple Clothing Alterations Workshop
 

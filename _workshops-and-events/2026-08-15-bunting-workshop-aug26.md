@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-08-15
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Hub Bunting Workshop
 
