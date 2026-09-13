@@ -559,7 +559,7 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Beer Can Butterfly Workshop",
         "excerpt":"Charnwood Eco Hub Beer Can Butterfly Workshop   Join us on Saturday 12th September 2026 from 11am-1pm at Charnwood Eco Hub, 7-8 Baxter Gate, Loughborough, LE11 1TG and turn discarded aluminium cans into beautiful, colourful butterflies in this creative upcycling workshop, where you’ll learn how to transform everyday waste into unique garden or home decorations. All materials provided. £10/£15 per person*   You can book your place by scanning the QR code on the poster or click here.      ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/beer-can-butterfly-workshop-sep26/",
         "teaser": "/assets/img/thumbs/beer-can-butterfly-workshop-poster-sep26.png"
       },{

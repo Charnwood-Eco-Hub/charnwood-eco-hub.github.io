@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-09-12
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Hub Beer Can Butterfly Workshop
 
