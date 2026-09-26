@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-09-19
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Hub Crocheted Granny Squares Workshop
 

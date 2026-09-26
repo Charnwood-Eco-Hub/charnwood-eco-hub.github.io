@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-09-26
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Marathon Mors Bag Make
 

@@ -565,13 +565,13 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Crocheted Granny Squares Workshop",
         "excerpt":"Charnwood Eco Hub Crocheted Granny Squares Workshop   Join us on Saturday 19th September 2026 from 11am-1pm at Charnwood Eco Hub, 7-8 Baxter Gate, Loughborough, LE11 1TG and learn how to make colourful granny squares to use on your own project!   Unlock your creativity with this beginner-friendly workshop, where you’ll craft colourful granny squares to turn into blankets, bags, or more.   You can book your place by scanning the QR code on the poster or click here.  The workshop costs £10 per person for students, low income, retired or Eco Hub members, £15 per person standard price. Over 10s only.      ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/crocheted-granny-squares-sep26/",
         "teaser": "/assets/img/thumbs/crocheted-granny-squares-workshop-sep26.png"
       },{
         "title": "Charnwood Eco Hub Marathon Mors Bag Make",
         "excerpt":"Charnwood Eco Marathon Mors Bag Make   Join us on Saturday 26th September 2026 from 11am-1pm at Charnwood Eco Hub, 7-8 Baxter Gate, Loughborough, LE11 1TG for our Marathon Mors Bag Make Session, a creative, hands-on workshop where you’ll design and make your own reusable bag using reclaimed and surplus materials.   Working with durable offcuts and repurposed textiles, you’ll learn simple construction techniques to create a strong, practical bag that’s perfect for everyday use—whether for shopping, work, or carrying your creative projects. We’ll guide you step-by-step through cutting, assembling, and finishing your design, with plenty of room to personalise your bag with colour, pattern, and detail.   This is a relaxed, beginner-friendly session focused on sustainability, creativity, and reducing single-use waste by making something both beautiful and useful.   You’ll leave with a finished handmade bag ready to take on your next marathon of errands—or anything else the day throws at you.   You can book your place by scanning the QR code on the poster or click here. The workshop costs £10 per person for students / retired / low income, £15 per person standard price.      ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/mors-bag-marathon-sep26/",
         "teaser": "/assets/img/thumbs/mors-bag-marathon-sep26.png"
       },{
@@ -580,6 +580,12 @@ var store = [{
         "tags": ["upcoming"],
         "url": "/workshops-and-events/thermal-cooker-making-workshop-sept26/",
         "teaser": "/assets/img/thumbs/thermal-cooker-workshop-poster-sep26.png"
+      },{
+        "title": "Charnwood Eco Hub Upcycled Jar Terrarium Workshop",
+        "excerpt":"Charnwood Eco Hub Upcycled Jar Terrarium Workshop   Sat 3rd October 2026 11am - 12pm or 12pm-1pm. £15/£10 per person   Give an old jar a new lease of life by turning it into your very own miniature indoor garden!   In this hands-on workshop, you’ll learn how to create a beautiful terrarium using an upcycled jar, natural materials and plants. A fun, creative and sustainable activity — and you’ll leave with your own little ecosystem to take home and enjoy.   You can book your place by scanning the QR code on the poster or click here      ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/upcycled-jar-terrarium-oct26/",
+        "teaser": "/assets/img/thumbs/upcycled-jar-terrarium-oct26.png"
       },{
         "title": "Charnwood Eco Hub Diya Decorating Workshop",
         "excerpt":"Charnwood Eco Hub Diya Decorating Workshop   Join us on Wednesday 7th October 2026 from 6pm-8pm at Charnwood Eco Hub, 7-8 Baxter Gate, Loughborough, LE11 1TG and decorate a traditional clay diya with colourful paints, gems and embellishments.   Learn traditional decorative techniques to add a personal and cultural touch to your home, inspired by sustainable and artistic practices.   All materials provided, and you’ll take home your finished creation.   You can book your place by scanning the QR code on the poster or click here. The workshop costs £10 per person for students, low income, retired or Eco Hub members, £15 per person standard price.      ","categories": [],
@@ -593,6 +599,36 @@ var store = [{
         "url": "/workshops-and-events/bicycle-inner-tube-jewellery-making-workshop-oct26/",
         "teaser": "/assets/img/thumbs/upcycled-inner-tube-jewellery-workshop-poster-oct26.png"
       },{
+        "title": "Charnwood Eco Hub Granny Squares Crochet Workshop",
+        "excerpt":"Granny Squares Crochet Workshop   Sat 17th October, 11am-1pm, £15/£10 per person   Learn the timeless craft of crochet and create your own colourful granny squares in this friendly, relaxed workshop.   You’ll learn the basic crochet stitches and techniques needed to make a classic granny square, with plenty of guidance and support along the way. Perfect for complete beginners or anyone wanting to refresh their crochet skills, you’ll leave with your own handmade squares and the inspiration to turn them into something useful and beautiful.   You can book your place by scanning the QR code on the poster or click here      ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/granny-squares-oct26/",
+        "teaser": "/assets/img/thumbs/granny-squares-oct26.png"
+      },{
+        "title": "Charnwood Eco Hub Rag Rug Taster Workshop",
+        "excerpt":"Charnwood Eco Hub Rag Rug Taster Workshop   Sat 24th October, 11am-1pm. £15/£10 per person   Come along to Charnwood Eco Hub for a relaxed, hands-on introduction to the wonderful world of rag rug making.   You’ll learn some of the basic techniques for turning old fabrics and textiles into a colourful, practical rag rug, while having a go yourself and picking up tips along the way. It’s a great way to get creative, learn a new skill and give unwanted textiles a new lease of life - no previous experience needed. All materials and equipment will be provided, so just bring yourself and get ready to make something!   You can book your place by scanning the QR code on the poster or click here      ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/rag-rug-taster/",
+        "teaser": "/assets/img/thumbs/rag-rug-oct26.png"
+      },{
+        "title": "Kids' Halloween Macrame Monster Keyring Workshop",
+        "excerpt":"Kids’ Halloween Macrame Monster Keyring Workshop   Get creative this Halloween at Charnwood Eco Hub!   Kids can learn some simple macramé techniques and make their very own spooky keyring, choosing from a skeleton, pumpkin man or monster design. It’s a fun, hands-on activity and a great chance to make something unique to take home. The workshop is £5 per child and runs as a drop-in session from 11am–1pm on Saturday 31st October. An adult must stay with each child and booking is required.   You can book your place by scanning the QR code on the poster or click here.      ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/halloween-macrame-oct26/",
+        "teaser": "/assets/img/thumbs/halloween-macrame-workshop-oct26.png"
+      },{
+        "title": "Charnwood Eco Hub Upcycled Paper Christmas Decorations",
+        "excerpt":"Charnwood Eco Hub Upcycled Paper Christmas Decorations   Sat 7th November, 11am-1pm. £15/£10 per person   Get creative this Christmas while giving old paper a new lease of life!   In this hands-on workshop, you’ll learn how to transform unwanted books, magazines, packaging and other paper into beautiful, unique Christmas decorations. A relaxed and creative session that’s perfect for making something festive, sustainable and a little bit different - with decorations to take home and enjoy for years to come.   You can book your place by scanning the QR code on the poster or click here      ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/upcycled-xmas-decorations-nov26/",
+        "teaser": "/assets/img/thumbs/upcycled-xmas-decorations-nov26.png"
+      },{
+        "title": "Charnwood Eco Hub Mors Bag Make-a-thon",
+        "excerpt":"Charnwood Eco Hub Mors Bag Make-a-thon   Sat 14th November, 11am-1pm. Suggested donation £5   Join us for a friendly group sewing session to make reusable fabric bags from unwanted and donated textiles.   Rather than making something to take home, we’ll be creating a batch of practical, reusable bags to donate to local community organisations and help reduce reliance on single-use bags. No need to be an expert sewer - come along, get involved and help turn old fabric into something useful!   You can book your place by scanning the QR code on the poster or click here      ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/mors-bags-nov26/",
+        "teaser": "/assets/img/thumbs/mors-bags-nov26.png"
+      },{
         "title": "Charnwood Eco Hub Handmade Book Workshop",
         "excerpt":"Charnwood Eco Hub Handmade Book Workshop   Join us on Wednesday November 18th 2026, from 4.30pm-6.30pm at Charnwood Eco Hub, 7-8 Baxter Gate, Loughborough, LE11 1TG for a creative, hands-on Upcycled Bookmaking Workshop, where discarded materials are transformed into beautiful, one-of-a-kind notebooks and sketchbooks.   Using reclaimed paper, fabric offcuts, packaging and other salvaged materials, you’ll learn simple bookbinding techniques to design and assemble your own unique book from scratch. This workshop is perfect for beginners and seasoned makers alike, and is all about creativity, sustainability, and giving new life to forgotten materials.   Expect a relaxed, welcoming atmosphere, plenty of inspiration, and the chance to experiment with texture, colour, and form while reducing waste in a meaningful way.   Leave with a finished handmade book—and the skills to keep creating at home.   You can book your place by scanning the QR code on the poster or click here. The workshop costs £10 per person for students, low income, retired or Eco Hub members, £15 per person standard price.      ","categories": [],
         "tags": ["upcoming"],
@@ -604,6 +640,12 @@ var store = [{
         "tags": ["upcoming"],
         "url": "/workshops-and-events/rag-wreath-workshop-nov26/",
         "teaser": "/assets/img/thumbs/rag-wreath-workshop-poster-nov26.png"
+      },{
+        "title": "Charnwood Eco Hub Daydream Journal Cover Workshop",
+        "excerpt":"Daydream Journal Cover Workshop   Sat 28th November, 11am-1pm. £15/£10 per person   Take some time to slow down and get creative with textiles, stitching and colour.   In this relaxed session, you’ll create a unique journal cover using scraps of fabric and simple hand-stitching techniques, giving unwanted textiles a new lease of life. No previous sewing experience is needed - just bring your creativity and enjoy the mindful, satisfying process of slow stitching.   You can book your place by scanning the QR code on the poster or click here      ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/slow-stitching-nov26/",
+        "teaser": "/assets/img/thumbs/slow-stitching-nov26.png"
       },{
         "title": "Charnwood Eco Hub Rag Wreath Workshop",
         "excerpt":"Charnwood Eco Hub Rag Wreath Workshop   Join us on Saturday 5th December 2026 at Charnwood Eco Hub, 7-8 Baxter Gate, Loughborough, LE11 1TG from 11am-1pm for a creative and calming Rag Wreath Making Workshop, where you’ll transform fabric offcuts and reclaimed textiles into a beautiful, seasonal wreath for your home.   Using a simple knotting technique, you’ll build texture, colour and shape as you work with a variety of rescued materials—giving new life to fabric that would otherwise go to waste. Choose from a range of styles and tones to suit your own taste, whether rustic, bright, or neutral.   This workshop is suitable for all skill levels and offers a relaxed, mindful making experience with plenty of time to experiment and personalise your design.   You’ll leave with a finished handmade wreath and the skills to keep creating sustainable decorations for every season.   You can book your place by scanning the QR code on the poster or click here. The workshop costs £10 per person for students, retired, low income or Eco Hub members, £15 per person standard price.      ","categories": [],
@@ -622,4 +664,10 @@ var store = [{
         "tags": ["upcoming"],
         "url": "/workshops-and-events/sari-necklace-workshop-dec26/",
         "teaser": "/assets/img/thumbs/sari-necklace-workshop-poster-dec26.png"
+      },{
+        "title": "Charnwood Eco Hub Pine Cone Elf Workshop",
+        "excerpt":"Pine Cone Elf Workshop   Sat 19th December, Drop in, any time between 11am-1pm.   £5 per child. An adult must stay with each child and booking is required.   Get crafty this Christmas and turn pine cones into your very own little festive elves!   Kids can use natural and recycled materials to create their own colourful characters, adding felt hats, faces and decorations to bring them to life. A fun, hands-on activity that encourages creativity while making something lovely to decorate the home or give as a gift.   You can book your place by scanning the QR code on the poster or click here      ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/pine-cone-elves-dec26/",
+        "teaser": "/assets/img/thumbs/pine-cone-elves-dec26.png"
       }]
