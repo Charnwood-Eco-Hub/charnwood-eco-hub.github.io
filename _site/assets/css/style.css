@@ -1332,3 +1332,6 @@ details summary { color: #2a7ae2; }
 
 .grid__head { margin-bottom: 1em; float: left; width: 100%;
 }*/
+#success, #fail { display: none; }
+
+button:disabled { opacity: .5; cursor: default; }

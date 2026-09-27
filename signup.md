@@ -33,16 +33,46 @@ Please complete the application form below to apply for membership of the Charnw
 <option value="Social_Media">Social Media</option>
 <option value="Other">Other</option>
 </select>
-<div><p><input id="Accepted_Policies" class="Accepted_Policies" name="Accepted_Policies" value="yes" type="checkbox" required> <label for="Accepted_Po
-licies">By ticking this box I accept Charnwood Eco Hub's <a href="/policies">Terms & Conditions and Data Protection Policy</a>.</label></p></div>
-<div><p><button type="submit">Submit Your Application</button></p></div>
+<div id="container"><input id="Accepted_Policies" class="Accepted_Policies" name="Accepted_Policies" value="yes" type="checkbox" required> <label for="Accepted_Policies">By ticking this box I accept Charnwood Eco Hub's <a href="/policies">Terms & Conditions and Data Protection Policy</a>.</label></div>
+<label for="Verify" id="question"></label>
+<input id="ans" name="Verify" type="text" placeholder="Please enter the sum of the two numbers here">
+<div id="success">Validation complete - you can now submit your Scrapstore application</div>
+<div id="fail">Validation failed - something's not quite right, please try again!</div>
+<div><button type="submit" id="submit_button">Submit Your Application</button></div>
 <div id="lds-ripple" class="lds-ripple"><div></div><div></div></div>
 <p id="interstitial" class="interstitial">You should be redirected to the Scrapstore payment page shortly.</p>
 </form>
 
-<script type = "text/javascript" >
+<script type="text/javascript">
+    var total;
+
+    function getRandom(){
+        return Math.ceil(Math.random()* 20);
+    }
+    function createSum(){
+		var randomNum1 = getRandom(),
+			randomNum2 = getRandom();
+	    total = randomNum1 + randomNum2;
+        $("#question").text("One more thing, I just need to check you aren't a robot. What is " + randomNum1 + " + " + randomNum2 + " ?");
+        $("#ans").val('');
+        checkInput();
+    }
+
+    function checkInput(){
+        var input = $("#ans").val(), 
+    	slideSpeed = 200, hasInput = !!input, valid = hasInput && input == total;
+        $('#message').toggle(!hasInput);
+        $('button[type=submit]').prop('disabled', !valid);  
+        $('#success').toggle(valid);
+        $('#fail').toggle(hasInput && !valid);
+    }
+
     window.addEventListener("DOMContentLoaded", function() {
         const yourForm = document.getElementById('signup_form');
+        createSum();
+	    $('button[type=reset]').click(createSum);
+	    $( "#ans" ).keyup(checkInput);
+
         yourForm.addEventListener("submit", function(e) {
             e.preventDefault();
             const data = new FormData(yourForm);
@@ -72,3 +102,4 @@ licies">By ticking this box I accept Charnwood Eco Hub's <a href="/policies">Ter
         })
     });
 </script>
+
