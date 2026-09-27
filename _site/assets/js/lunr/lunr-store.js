@@ -608,8 +608,14 @@ var store = [{
         "title": "Charnwood Eco Hub Rag Rug Taster Workshop",
         "excerpt":"Charnwood Eco Hub Rag Rug Taster Workshop   Sat 24th October, 11am-1pm. £15/£10 per person   Come along to Charnwood Eco Hub for a relaxed, hands-on introduction to the wonderful world of rag rug making.   You’ll learn some of the basic techniques for turning old fabrics and textiles into a colourful, practical rag rug, while having a go yourself and picking up tips along the way. It’s a great way to get creative, learn a new skill and give unwanted textiles a new lease of life - no previous experience needed. All materials and equipment will be provided, so just bring yourself and get ready to make something!   You can book your place by scanning the QR code on the poster or click here      ","categories": [],
         "tags": ["upcoming"],
-        "url": "/workshops-and-events/rag-rug-taster/",
+        "url": "/workshops-and-events/rag-rug-taster-oct26/",
         "teaser": "/assets/img/thumbs/rag-rug-oct26.png"
+      },{
+        "title": "Charnwood Eco Hub Sari Flower Workshop",
+        "excerpt":"Charnwood Eco Hub Sari Flower Workshop   Weds 28th October, 5-7pm, £10/£15 per person   Transform beautiful recycled sari fabric into stunning flowers.   This relaxed, creative workshop will teach you simple techniques to make your own unique sari flowers to take home. All materials are provided.   You can book your place by scanning the QR code on the poster or click here      ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/sari-flower-oct26/",
+        "teaser": "/assets/img/thumbs/sari-flower-workshop-oct26.jpg"
       },{
         "title": "Kids' Halloween Macrame Monster Keyring Workshop",
         "excerpt":"Kids’ Halloween Macrame Monster Keyring Workshop   Get creative this Halloween at Charnwood Eco Hub!   Kids can learn some simple macramé techniques and make their very own spooky keyring, choosing from a skeleton, pumpkin man or monster design. It’s a fun, hands-on activity and a great chance to make something unique to take home. The workshop is £5 per child and runs as a drop-in session from 11am–1pm on Saturday 31st October. An adult must stay with each child and booking is required.   You can book your place by scanning the QR code on the poster or click here.      ","categories": [],

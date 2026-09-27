@@ -27,7 +27,7 @@ something useful and beautiful.
 You can book your place by scanning the QR code on the poster or [click
 here](https://www.eventbookings.com/b/event/crochet-workshop)
 
-[![Grannt Squares Crochet Workshop poster](/assets/img/granny-squares-oct26.png)](https://www.eventbookings.com/b/event/crochet-workshop)
+[![Granny Squares Crochet Workshop poster](/assets/img/granny-squares-oct26.png)](https://www.eventbookings.com/b/event/crochet-workshop)
 
 
   
