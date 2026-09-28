@@ -1,11 +1,23 @@
+.grid__item {
+    :hover {
+        opacity: 0.9;
+    }
+}
+
 .archive__item {
-    p { margin-bottom: 0.1em; }
-    :hover { transform: scale(1.1); }
+    p {
+        margin-bottom: 0.1em; 
+        //border: 4px solid transparent;
+        //box-sizing: border-box;
+    }
+    :hover {
+        background-color: #eeeeee; 
+    }
 }
 
 .archive__item-teaser {
     img {
-        transition: transform .2s;
+        //transition: transform .2s;
         //height: auto;
         //@include breakpoint($small) { height: auto; }
         //@include breakpoint($medium) { height: auto; }
