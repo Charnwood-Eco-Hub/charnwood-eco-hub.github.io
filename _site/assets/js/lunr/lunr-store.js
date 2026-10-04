@@ -583,13 +583,13 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Thermal Cooker Making Workshop",
         "excerpt":"Charnwood Eco Hub Thermal Cooker Making Workshop   Join us on Wednesday 30th September 2026 from 4.30pm-7.30pm at Charnwood Eco Hub, 7-8 Baxter Gate, Loughborough, LE11 1TG and learn how to make a simple, low-cost thermal cooker using upcycled and everyday materials.   Thermal cookers use retained heat to continue cooking food without electricity or gas, helping you save energy, reduce your carbon footprint, and create delicious slow-cooked meals.   Leave with your own thermal cooker, practical tips, and recipes to try at home.   You can book your place by scanning the QR code on the poster or click here.     ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/thermal-cooker-making-workshop-sept26/",
         "teaser": "/assets/img/thumbs/thermal-cooker-workshop-poster-sep26.png"
       },{
         "title": "Charnwood Eco Hub Upcycled Jar Terrarium Workshop",
         "excerpt":"Charnwood Eco Hub Upcycled Jar Terrarium Workshop   Sat 3rd October 2026 11am - 12pm or 12pm-1pm. £15/£10 per person   Give an old jar a new lease of life by turning it into your very own miniature indoor garden!   In this hands-on workshop, you’ll learn how to create a beautiful terrarium using an upcycled jar, natural materials and plants. A fun, creative and sustainable activity — and you’ll leave with your own little ecosystem to take home and enjoy.   You can book your place by scanning the QR code on the poster or click here      ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/upcycled-jar-terrarium-oct26/",
         "teaser": "/assets/img/thumbs/upcycled-jar-terrarium-oct26.png"
       },{
