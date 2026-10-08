@@ -595,7 +595,7 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Diya Decorating Workshop",
         "excerpt":"Charnwood Eco Hub Diya Decorating Workshop   Join us on Wednesday 7th October 2026 from 6pm-8pm at Charnwood Eco Hub, 7-8 Baxter Gate, Loughborough, LE11 1TG and decorate a traditional clay diya with colourful paints, gems and embellishments.   Learn traditional decorative techniques to add a personal and cultural touch to your home, inspired by sustainable and artistic practices.   All materials provided, and you’ll take home your finished creation.   You can book your place by scanning the QR code on the poster or click here. The workshop costs £10 per person for students, low income, retired or Eco Hub members, £15 per person standard price.      ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/divya-decorating-workshop/",
         "teaser": "/assets/img/thumbs/diya-decorating-workshop-oct26.png"
       },{

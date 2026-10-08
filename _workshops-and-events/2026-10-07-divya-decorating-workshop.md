@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-10-07
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Hub Diya Decorating Workshop
 
