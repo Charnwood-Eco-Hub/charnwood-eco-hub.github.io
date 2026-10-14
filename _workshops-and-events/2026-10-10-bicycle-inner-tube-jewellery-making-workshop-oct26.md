@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-10-10
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Hub Upcycled Inner Tube Jewellery Workshop
 

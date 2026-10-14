@@ -601,7 +601,7 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Upcycled Inner Tube Jewellery Workshop",
         "excerpt":"Charnwood Eco Hub Upcycled Inner Tube Jewellery Workshop   Join us on Saturday 10th October 2026 from 11am-1pm at Charnwood Eco Hub, 7-8 Baxter Gate, Loughborough, LE11 1TG and learn simple making techniques using upcycled inner tubes.   Transform old bike inner tubes into stylish, upcycled jewellery pieces like bracelets and rings in this hands-on, eco-friendly workshop.   You can book your place by scanning the QR code on the poster or click here.  The workshop costs £10 per person for students, low income, retired or Eco Hub members, £15 per person standard price.      ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/bicycle-inner-tube-jewellery-making-workshop-oct26/",
         "teaser": "/assets/img/thumbs/upcycled-inner-tube-jewellery-workshop-poster-oct26.png"
       },{
