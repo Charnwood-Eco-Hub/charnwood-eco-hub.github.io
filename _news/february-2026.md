@@ -86,7 +86,7 @@ We welcome stallholders offering:
 * Community groups, charities and social enterprises
 * Hands-on activities, demonstrations or information stalls
 
-If you’d like to be involved, please [get in touch](mailto:Charnwoodecohub@gmail.com?subject=Sustainability%20Fair) to request a stallholder
+If you’d like to be involved, please [get in touch](mailto:info@charnwoodecohub.org?subject=Sustainability%20Fair) to request a stallholder
 application form and further details. Spaces are limited, so early expressions of interest are encouraged.
 
 We’d love you to be part of a friendly, vibrant event that celebrates sustainable living in Charnwood and beyond.

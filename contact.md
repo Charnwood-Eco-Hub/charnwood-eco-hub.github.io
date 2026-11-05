@@ -5,11 +5,11 @@ header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
 ---
 
-**Subscribe to our newsletter**
+# Subscribe to our newsletter
 
 {% include signup.html %}
 
-**Get in touch**
+# Get in touch
 
 ![Charnwood Eco Hub logo](/assets/img/charnwood-eco-hub-cropped.jpg "Charnwood Eco Hub Logo"){: .align-left} Registered Address: Charnwood Eco Hub CIC, 102 Ashby Road, Loughborough, United Kingdom. *Please note this is the Eco Hub postal address only.*
 

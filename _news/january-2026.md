@@ -52,7 +52,7 @@ We welcome stallholders offering:
 * Community groups, charities and social enterprises
 * Hands-on activities, demonstrations or information stalls
 
-If you’d like to be involved, please [get in touch](mailto:Charnwoodecohub@gmail.com?subject=Sustainability%20Fair) to request a stallholder application form and further details. Spaces are limited, so early expressions of interest are encouraged.
+If you’d like to be involved, please [get in touch](mailto:info@charnwoodecohub.org?subject=Sustainability%20Fair) to request a stallholder application form and further details. Spaces are limited, so early expressions of interest are encouraged.
 
 We’d love you to be part of a friendly, vibrant event that celebrates sustainable living in Charnwood and beyond.
 
@@ -126,7 +126,7 @@ You can find out more at - [twowheelcampus.co.uk](http://twowheelcampus.co.uk/) 
 
 <br/>
 
-[![Workshops banner](/assets/img/workshops-banner.png)](mailto:Charnwoodecohub@gmail.com?subject=Workshop%20Facilitators)
+[![Workshops banner](/assets/img/workshops-banner.png)](mailto:info@charnwoodecohub.org?subject=Workshop%20Facilitators)
 
 # Call for Workshop Facilitators
 
@@ -134,7 +134,7 @@ We’re starting to put together our workshop programme for the coming year, and
 
 We’re interested in a wide range of ideas — from hands-on making and repair skills to talks, demonstrations and family-friendly activities. Whether you’ve delivered workshops with us before or are completely new to the Hub, we’d be delighted to hear from you.
 
-If you’re interested, please [get in touch](mailto:Charnwoodecohub@gmail.com?subject=Workshop%20Facilitators) with a brief outline of your workshop idea(s), your availability, and any previous experience. Katie will then be in touch to discuss next steps.
+If you’re interested, please [get in touch](mailto:info@charnwoodecohub.org?subject=Workshop%20Facilitators) with a brief outline of your workshop idea(s), your availability, and any previous experience. Katie will then be in touch to discuss next steps.
 
 <br/>
 

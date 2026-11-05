@@ -10,4 +10,8 @@ sort_order: reverse
 header:
   overlay_image: /assets/img/charnwood-eco-hub-banner.jpg
 ---
+
+# Subscribe to our newsletter
+
 Be the first to hear about Charnwood Eco Hub developments, [subscribe to our newsletter &raquo;](/contact)
+

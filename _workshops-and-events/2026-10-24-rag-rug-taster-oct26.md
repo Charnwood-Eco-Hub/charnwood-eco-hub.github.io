@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-10-24
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Hub Rag Rug Taster Workshop
 

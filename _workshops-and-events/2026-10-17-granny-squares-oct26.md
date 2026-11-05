@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-10-17
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Granny Squares Crochet Workshop
 

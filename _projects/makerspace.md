@@ -31,5 +31,5 @@ We’re building more than just a workshop — we’re building a community reso
 
 Machine inductions cost £5, with equipment available to hire by the hour/half day. If you sign up for a Hub membership (which includes access to both the [Scrapstore](/projects/scrapstore) and [Library of Things](/projects/library-of-things)), your first induction is free! 
 
-[Drop us an email](charnwoodecohub@gmail.com) or pop in for more information.
+[Drop us an email](mailto:info@charnwoodecohub.org) or pop in for more information.
 

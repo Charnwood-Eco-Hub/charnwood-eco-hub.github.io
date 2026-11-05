@@ -47,6 +47,6 @@ all backgrounds. Whatever your experience, there's a place for you at
 Charnwood Eco Hub.
 
 If you're interested in volunteering, we'd love to hear from you. [Get in
-touch](mailto:charnwoodecohub@gmail.com), or pop into the Hub for a chat
+touch](mailto:info@charnwoodecohub.org), or pop into the Hub for a chat
 about how you can get involved.
 

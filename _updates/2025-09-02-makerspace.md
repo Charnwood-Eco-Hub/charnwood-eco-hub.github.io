@@ -41,7 +41,7 @@ If you’ve got experience in woodworking, metalworking, electronics, workshop s
 
 We’re building more than just a workshop — we’re building a community resource. By volunteering your time and skills now, you’ll be helping lay the foundations for a space where people can learn, share, and make amazing things together.
 
-👉 Interested? Drop us a message at [charnwoodecohub@gmail.com](mailto:charnwoodecohub@gmail.com).
+👉 Interested? Drop us a message at [info@charnwoodecohub.org](mailto:info@charnwoodecohub.org).
 
 Let’s create something incredible — together.
 

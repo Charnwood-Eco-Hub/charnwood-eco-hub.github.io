@@ -8,13 +8,10 @@ header:
 
 Charnwood Eco Hub has moved to 7-8 Baxter Gate, Loughborough LE11 1TG.
 
-We are on the ground floor, and now have accessible toilet facilities.
-
-We also have a parking space which we can reserve for customers with mobility
-issues on request.
-
-There are bus stops right outside and the nearest public car park is
-at Beacon Bingo hall.
+We are on the ground floor, and now have accessible toilet facilities. We
+also have a parking space which we can reserve for customers with mobility
+issues on request. There are bus stops right outside and the nearest
+public car park is at Beacon Bingo hall.
 
 # Where to find us
 
