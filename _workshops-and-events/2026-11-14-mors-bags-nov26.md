@@ -9,7 +9,7 @@ collection: workshops-and-events
 date: 2026-11-14
 released: true
 tags:
-- upcoming
+- archive
 ---
 # Charnwood Eco Hub Mors Bag Make-a-thon
 

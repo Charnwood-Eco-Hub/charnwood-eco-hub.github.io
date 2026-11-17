@@ -637,7 +637,7 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Mors Bag Make-a-thon",
         "excerpt":"Charnwood Eco Hub Mors Bag Make-a-thon   Sat 14th November, 11am-1pm. Suggested donation £5   Join us for a friendly group sewing session to make reusable fabric bags from unwanted and donated textiles.   Rather than making something to take home, we’ll be creating a batch of practical, reusable bags to donate to local community organisations and help reduce reliance on single-use bags. No need to be an expert sewer - come along, get involved and help turn old fabric into something useful!   You can book your place by scanning the QR code on the poster or click here      ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/mors-bags-nov26/",
         "teaser": "/assets/img/thumbs/mors-bags-nov26.png"
       },{
