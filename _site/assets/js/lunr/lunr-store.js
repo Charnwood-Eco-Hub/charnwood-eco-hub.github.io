@@ -643,7 +643,7 @@ var store = [{
       },{
         "title": "Charnwood Eco Hub Handmade Book Workshop",
         "excerpt":"Charnwood Eco Hub Handmade Book Workshop   Join us on Wednesday November 18th 2026, from 4.30pm-6.30pm at Charnwood Eco Hub, 7-8 Baxter Gate, Loughborough, LE11 1TG for a creative, hands-on Upcycled Bookmaking Workshop, where discarded materials are transformed into beautiful, one-of-a-kind notebooks and sketchbooks.   Using reclaimed paper, fabric offcuts, packaging and other salvaged materials, you’ll learn simple bookbinding techniques to design and assemble your own unique book from scratch. This workshop is perfect for beginners and seasoned makers alike, and is all about creativity, sustainability, and giving new life to forgotten materials.   Expect a relaxed, welcoming atmosphere, plenty of inspiration, and the chance to experiment with texture, colour, and form while reducing waste in a meaningful way.   Leave with a finished handmade book—and the skills to keep creating at home.   You can book your place by scanning the QR code on the poster or click here. The workshop costs £10 per person for students, low income, retired or Eco Hub members, £15 per person standard price.      ","categories": [],
-        "tags": ["upcoming"],
+        "tags": ["archive"],
         "url": "/workshops-and-events/handmade-book-workshop-nov26/",
         "teaser": "/assets/img/thumbs/handmade-book-workshop-poster-nov26.png"
       },{
@@ -653,11 +653,17 @@ var store = [{
         "url": "/workshops-and-events/rag-wreath-workshop-nov26/",
         "teaser": "/assets/img/thumbs/rag-wreath-workshop-poster-nov26.png"
       },{
-        "title": "Charnwood Eco Hub Daydream Journal Cover Workshop",
-        "excerpt":"Daydream Journal Cover Workshop   Sat 28th November, 11am-1pm. £15/£10 per person   Take some time to slow down and get creative with textiles, stitching and colour.   In this relaxed session, you’ll create a unique journal cover using scraps of fabric and simple hand-stitching techniques, giving unwanted textiles a new lease of life. No previous sewing experience is needed - just bring your creativity and enjoy the mindful, satisfying process of slow stitching.   You can book your place by scanning the QR code on the poster or click here      ","categories": [],
+        "title": "Charnwood Eco Hub Rag Wreath Workshop",
+        "excerpt":"Charnwood Eco Hub Rag Wreath Workshop   Sat 28th November, 2pm-4pm. £15/£10 per person   Join us at Charnwood Eco Hub for a creative and sustainable rag wreath workshop!   Using colourful fabric scraps and reclaimed textiles, you’ll create your own beautiful, unique wreath to decorate your home. It’s a lovely opportunity to get creative, learn a simple upcycling technique and give unwanted materials a new lease of life. No previous crafting experience is needed, and all materials will be provided. Come along, enjoy a relaxed and friendly atmosphere, and leave with a handmade decoration to be proud of!   You can book your place by scanning the QR code on the poster or click here. The workshop costs £10 per person for students, retired, low income or Eco Hub members, £15 per person standard price.      ","categories": [],
         "tags": ["upcoming"],
-        "url": "/workshops-and-events/slow-stitching-nov26/",
-        "teaser": "/assets/img/thumbs/slow-stitching-nov26.png"
+        "url": "/workshops-and-events/rag-wreath-workshop-nov26/",
+        "teaser": "/assets/img/thumbs/rag-wreath-workshop-nov26a.png"
+      },{
+        "title": "Charnwood Eco Hub Upcycled Paper Christmas Decorations",
+        "excerpt":"Charnwood Eco Hub Upcycled Paper Christmas Decorations   Sat 28th November, 11am-1pm. £15/£10 per person   Get creative at Charnwood Eco Hub with our upcycled paper decorations workshop!   Discover how to transform unwanted paper, old books, magazines and other reclaimed materials into beautiful handmade decorations. From delicate folded designs to quirky decorative creations, you’ll learn how to give everyday materials a new lease of life while making something unique to take home. No previous crafting experience is needed, and all materials will be provided. A fun, relaxed and sustainable way to get creative!   You can book your place by scanning the QR code on the poster or click  here. The workshop costs £10 per person for students, retired, low income or Eco Hub members, £15 per person standard price.      ","categories": [],
+        "tags": ["upcoming"],
+        "url": "/workshops-and-events/upcycled-xmas-decorations-nov26/",
+        "teaser": "/assets/img/thumbs/upcycled-paper-decorations-nov26a.png"
       },{
         "title": "Charnwood Eco Hub Rag Wreath Workshop",
         "excerpt":"Charnwood Eco Hub Rag Wreath Workshop   Join us on Saturday 5th December 2026 at Charnwood Eco Hub, 7-8 Baxter Gate, Loughborough, LE11 1TG from 11am-1pm for a creative and calming Rag Wreath Making Workshop, where you’ll transform fabric offcuts and reclaimed textiles into a beautiful, seasonal wreath for your home.   Using a simple knotting technique, you’ll build texture, colour and shape as you work with a variety of rescued materials—giving new life to fabric that would otherwise go to waste. Choose from a range of styles and tones to suit your own taste, whether rustic, bright, or neutral.   This workshop is suitable for all skill levels and offers a relaxed, mindful making experience with plenty of time to experiment and personalise your design.   You’ll leave with a finished handmade wreath and the skills to keep creating sustainable decorations for every season.   You can book your place by scanning the QR code on the poster or click here. The workshop costs £10 per person for students, retired, low income or Eco Hub members, £15 per person standard price.      ","categories": [],
